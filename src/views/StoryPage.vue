@@ -26,28 +26,18 @@ export default {
             stories, storyId, storyContent
         }
     }
-
-
 }
 
-
-    
-    // onMounted( () => {
-    //     // await router.isReady();
-    //     storyContent = import(`../content/${stories[storyId-1].file}.md`);
-        
-    // });
-
-    // (await import(`@/posts/${this.slug}/index.vue`)).default;
 </script>
 
 <template>
-    <h1 class="font-saaremaa text-5xl font-bold">{{stories[storyId-1].title}}</h1>
-    <div v-if="storyContent != null">
-        <component :is="storyContent" />
-    </div>
+    <section class="story-container">
+        <!-- <h1 class="font-saaremaa text-5xl font-bold">{{stories[storyId-1].title}}</h1> -->
+        <div v-if="storyContent != null">
+            <component :is="storyContent" />
+        </div>
+    </section>
 </template>
 
 <style scoped>
-    
 </style>

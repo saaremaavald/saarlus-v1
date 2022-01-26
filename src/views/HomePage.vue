@@ -9,9 +9,7 @@
 
 </script>
 <template>
-    <div>
-        
-        <!-- <h1 class="font-saaremaa text-5xl font-bold">Saaremaa</h1> -->
+    <section class="home-page">
         <svg viewBox="0 0 100 100" class="compass">
             <circle
                 v-for="(point, i) in polarpoints(stories.length, 45)"
@@ -25,10 +23,17 @@
                 class="compass-story"
             />
         </svg>
-    </div>
+    </section>
 </template>
 
-<style>
+<style scoped>
+    .home-page {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 90vh;
+    }
+
     .compass {
         height: 80vmin;
         width: 80vmin;

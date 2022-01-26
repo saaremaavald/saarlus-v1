@@ -8,9 +8,8 @@
 <template>
 
 <navi-main />
-<div class="flex md: < flex-col lg:flex-row justify-center items-center p-10">
-  <router-view />
-</div>
+<router-view />
+<!-- <div class="flex md: < flex-col lg:flex-row justify-center items-center p-10"> -->
 
 </template>
 
