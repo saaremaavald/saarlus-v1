@@ -12,7 +12,6 @@ const routes = [
         path: '/lugu/:id',
         name: 'Lugu',
         component: () => import('../views/StoryPage.vue'),
-        props: true,
     }, 
 ]
 
