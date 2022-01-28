@@ -1,41 +1,36 @@
 <script>
 
-import { computed, onMounted, ref, shallowRef } from 'vue';
-import { useRoute, useRouter } from 'vue-router';
+import { computed, ref, defineAsyncComponent } from 'vue';
+import { useRoute } from 'vue-router';
 import { useStore } from 'vuex';
 
 export default {
+    props:{
+        origin: String,
+        frontmatter: Object
+    },
     setup(){
-        const router = useRouter();
         const route = useRoute();
         const store = useStore();
         const stories = ref(store.state.stories);
-        const storyId = computed(() => route.params.id);
-        const storyContent = shallowRef();
-            
-        onMounted(async () => {
-            await router.isReady();
-            try {
-                storyContent.value = (await import(`../content/${stories.value[storyId.value-1].file}.md`)).default;
-            } catch(err) {
-                console.error("ERRORZ: ", err); 
-            }
-        });
+        const storySlug = computed(() => route.params.slug);
+        const MarkdownComp = defineAsyncComponent(() => import(`../content/${storySlug.value}.md`));
+        // const origin = ref(MarkdownComp.value.frontmatter.origin);
 
         return {
-            stories, storyId, storyContent
+            stories, storySlug, MarkdownComp
         }
     }
 }
-
 </script>
 
 <template>
+    <section class="story-header">
+       ASAS {{frontmatter}}
+    </section>
     <section class="story-container">
-        <!-- <h1 class="font-saaremaa text-5xl font-bold">{{stories[storyId-1].title}}</h1> -->
-        <div v-if="storyContent != null">
-            <component :is="storyContent" />
-        </div>
+        <component :is="MarkdownComp" />
+        <!-- <markdown-comp></markdown-comp> -->
     </section>
 </template>
 

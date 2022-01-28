@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomePage from "/src/views/HomePage.vue";
+import StoryPage from "/src/views/StoryPage.vue";
 
 
 const routes = [
@@ -9,9 +10,9 @@ const routes = [
         component: HomePage,
     },
     {
-        path: '/lugu/:id',
+        path: '/lugu/:slug',
         name: 'Lugu',
-        component: () => import('../views/StoryPage.vue'),
+        component: StoryPage,
     }, 
 ]
 

@@ -17,25 +17,25 @@ const store = createStore({
                 {
                     "title": "Meeste ja naiste loomine",
                     "author": "rahvalooming",
-                    "file": "01-about",
+                    "slug": "meeste-ja-naiste-loomine",
                     "tags" : [ "rahvajutt" ],
                 },
                 {
                     "title": "Teine lugu",
                     "author": "Päädu Pint",
-                    "file": "test",
+                    "slug": "test",
                     "tags" : [ "essa", "kossa" ],
                 },
                 {
                     "title": "Kolmas lugu",
                     "author": "Munaläti Pets",
-                    "file": "about",
+                    "slug": "about",
                     "tags" : [ "essa", ],
                 },
                 {
                     "title": "Neljas lugu",
                     "author": "Soovel Mürkmadu",
-                    "file": "test",
+                    "slug": "test",
                     "tags" : [ "tessa", "kossa" ],
                 },
             ] 

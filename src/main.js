@@ -8,11 +8,12 @@ import App from './App.vue'
 import router from "./router/index.js"
 import store from './store/index.js';
 
+import DetailsWrapper from "./components/DetailsWrapper.vue";
 // import HeroIcons from "./components/HeroIcons.vue";
 
 const app = createApp(App).use(router).use(store).use(Fachwerk);
 
-// app.component('HeroIcons', HeroIcons);
+app.component('DetailsWrapper', DetailsWrapper);
 
 router.isReady().then(() => {
     app.mount('#app');

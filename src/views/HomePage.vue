@@ -19,7 +19,7 @@
                 fill="skyblue"
                 :data-idx="i"
                 :key="`point+${i}`"
-                @click="$router.push(`/lugu/${i+1}`)"
+                @click="$router.push(`/lugu/${stories[i].slug}`)"
                 class="compass-story"
             />
         </svg>

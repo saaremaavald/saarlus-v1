@@ -18,7 +18,7 @@ const count = ref(0)
   
 <nav class="flex bg-white flex-wrap items-center justify-between p-4">
     <div class="lg:order-2 w-auto lg:w-1/5 lg:text-center">
-        <a class="text-xl text-gray-800 font-semibold font-heading font-saaremaa" href="/">
+        <a class="text-xl text-gray-800 font-heading font-saaremaa" href="/">
             Saarlus
         </a>
     </div>
