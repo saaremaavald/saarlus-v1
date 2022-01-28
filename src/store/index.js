@@ -18,24 +18,41 @@ const store = createStore({
                     "title": "Meeste ja naiste loomine",
                     "author": "rahvalooming",
                     "slug": "meeste-ja-naiste-loomine",
+                    "images": [
+                        {"src":"mehed-naised_01.webp", "zoom": true},
+                        {"src":"mehed-naised_02.webp", "zoom": true},
+                        {"src":"mehed-naised_03.webp", "zoom": true},
+                    ],
                     "tags" : [ "rahvajutt" ],
                 },
                 {
                     "title": "Teine lugu",
                     "author": "Päädu Pint",
                     "slug": "test",
+                    "images": [
+                        {"src":"mehed-naised_03.webp"},
+                    ],
                     "tags" : [ "essa", "kossa" ],
                 },
                 {
                     "title": "Kolmas lugu",
                     "author": "Munaläti Pets",
                     "slug": "about",
+                    "images": [
+                        {"src":"mehed-naised_02.webp"},
+                        {"src":"mehed-naised_03.webp"},
+                    ],
                     "tags" : [ "essa", ],
                 },
                 {
                     "title": "Neljas lugu",
                     "author": "Soovel Mürkmadu",
-                    "slug": "test",
+                    "slug": "test-zoop",
+                    "images": [
+                        {"src":"mehed-naised_01.webp"},
+                        {"src":"mehed-naised_02.webp"},
+                        {"src":"mehed-naised_03.webp"},
+                    ],
                     "tags" : [ "tessa", "kossa" ],
                 },
             ] 

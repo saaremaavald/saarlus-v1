@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,700;0,900;1,300;1,700;1,900&family=Changa+One&display=swap');
 
+body {
+    position: relative;
+}
+
 .markdown-body ul {
     list-style-type: disc;
 }
@@ -7,4 +11,10 @@
     text-decoration: underline;
     color: blue;
     /* text-decoration-skip: ; */
+}
+
+#teleport-modal {
+    position: absolute;
+    top: 0;
+    left: 0;
 }

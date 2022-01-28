@@ -30,7 +30,7 @@ export default defineConfig({
     },
     shortcuts : {
       'story-header': 'w-full bg-gray-800',
-      'story-container': 'container mx-auto px-6 sm:px-[10vw] lg:px-[12vw] font-serif ',
+      'story-container': 'container mx-auto px-6 py-[5vh] sm:px-[10vw] lg:px-[12vw] xl:max-w-6xl 2xl:max-w-7xl font-serif',
       'story-h1' : 'mb-8 text-5xl font-bold font-saaremaa font-normal',
       'story-origin': 'px-4 my-8 border-l-4 border-blue-500',
     },

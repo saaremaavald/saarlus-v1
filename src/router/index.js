@@ -12,7 +12,7 @@ const routes = [
     {
         path: '/lugu/:slug',
         name: 'Lugu',
-        component: StoryPage,
+        component: StoryPage
     }, 
 ]
 
