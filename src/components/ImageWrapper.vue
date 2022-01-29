@@ -1,7 +1,8 @@
 
 <script setup>
     import {ref} from "vue";
-
+    import IconZoomIn from '~icons/heroicons-outline/zoom-in'
+    
     defineProps({
         src : { type: String },
         height : {type: String, default: "85vh" },
@@ -31,7 +32,11 @@
         'height':height, 
         'width':'100%'
     }"
-    ><div class="flex justify-center items-center w-full h-full cursor-pointer hover:(bg-gray-900/70) transition" v-if="zoom" @click="modalOpen = !modalOpen">ZOOM</div></div>
+    ><div class="zoomable flex justify-center items-center w-full h-full cursor-pointer hover:(bg-gray-900/40) transition" v-if="zoom" @click="modalOpen = !modalOpen">
+        <div class="icon flex justify-center items-center w-16 h-16 rounded-2xl bg-gray-900/80 opacity-0 transition">
+            <icon-zoom-in class="svg text-white stroke-current scale-150" style="transform: scale(2)" />
+        </div>
+    </div></div>
     
 <teleport to="#teleport-modal">  
 
@@ -68,7 +73,7 @@
 
 
 <style scoped>
-    .zoomable:hover {
-        background: hsla(0, 0%, 0%, 0.5)
+    .zoomable:hover>.icon {
+        opacity: 1;
     }
 </style>
