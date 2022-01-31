@@ -16,7 +16,7 @@ export default defineConfig({
     }),
     WindiCSS(),
     markdown({
-      // wrapperComponent: 'StoryPage',
+      wrapperComponent: 'StoryPage',
       exposeFrontmatter: true,
       markdownItOptions: {
         html: true,

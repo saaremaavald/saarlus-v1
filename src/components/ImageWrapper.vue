@@ -1,8 +1,9 @@
 
 <script setup>
     import {ref} from "vue";
-    import IconZoomIn from '~icons/heroicons-outline/zoom-in'
+    // import IconZoomIn from '~icons/heroicons-outline/zoom-in'
     
+
     defineProps({
         src : { type: String },
         height : {type: String, default: "85vh" },
@@ -23,14 +24,15 @@
 
 
 <template>
-    <div class="flex justify-center items-center"
+    <div class="flex justify-center items-center bg-gradient-to-b from-blue-800 via-green-600 to-blue-700"
     :style="{
         'background-image':`url(../images/stories/${src})`,
         'background-size' : bgSize, 
         'background-repeat' : bgRepeat, 
         'background-position' : bgPos, 
         'height':height, 
-        'width':'100%'
+        'width':'100%',
+        'background-blend-mode': 'overlay'
     }"
     ><div class="zoomable flex justify-center items-center w-full h-full cursor-pointer hover:(bg-gray-900/40) transition" v-if="zoom" @click="modalOpen = !modalOpen">
         <div class="icon flex justify-center items-center w-16 h-16 rounded-2xl bg-gray-900/80 opacity-0 transition">
@@ -58,7 +60,7 @@
                         </div>
                         <img 
                             :src="`../images/stories/${src}`" 
-                            class="max-h-screen"
+                            class="max-w-full sm:max-h-screen"
                         />
                     </div>
                 
