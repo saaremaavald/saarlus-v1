@@ -1,8 +1,15 @@
 ---
 title: Hull meresõit
+slug: hull-meresoit
 author: rahvajutt
 origin: Jutustanud Jaan Hannus Kipi külast Kihelkonna kihelkonnast
 tags: [rahvajutt]
+images: [
+    {
+        src: hull-meresoit.webp, 
+        zoom: true
+    }
+]
 dictionary: [[logi, riist laeva kiiruse mõõtmiseks], [prammid, praampurjed], [reilid, roilpurjed], [peele, peale], [peenaha keige iustega, peanaha kõige juustega], [selle järge, pärast seda], [Ollandimaal, Hollandis], [lukiaugust, lukuaugust], [lae, laev], [Amburgis, Hamburgis], [sant, halb], [äga olga, aga olgu]]
 ---
 
@@ -43,7 +50,7 @@ Kapten saatend ennem mihe ütlema, et nad tulavad, ning käskind naise ema neid 
     {{frontmatter.origin}}
 </div>
 
-### Sõnaseletused:
+### <IconTextMessage class="inline" /> Sõnaseletused:
 
 <ul class="list-disc list-inside">
     <li v-for="(term, i) in frontmatter.dictionary" :key="i">
@@ -66,7 +73,7 @@ Kapten saatend ennem mihe ütlema, et nad tulavad, ning käskind naise ema neid 
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm">
+<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=870
 - Foto New Yorgist: **Merit Karise**

@@ -1,13 +1,20 @@
 ---
 title: Esimised undid
+slug: esimised-undid
 author: rahvajutt
 origin: Kirja pannud Karl Gustav Jansen Karja kihelkonnas
+images: [
+    {
+        src: "esimised-undid.webp",
+        zoom: true
+    }
+]
 tags: [rahvajutt]
 dictionary: [[sau, savi], [kippuma, liigutama], ["selged aru oli saand, et omast väest", "oli selgelt mõistnud, et oma jõuga"], [touse, tõuse], [langend, heitnud], [sanad, sõnad], [vaga, vakka], [kärmest, valjusti], ["viha käie ta kohe", "viha käivat tema vastu, s.t olevat tema peale vihane"]]
 
 ---
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mõtlemiseks ja arutlemiseks" icon="IconCommunication">
 
 - Mis lugu see minikoomiks kujutab? Proovige üksi või mitmekesi see lugu piltide põhjal kokku panna.
 - Kes on saarlaste arvates esimised undid loond?
@@ -37,7 +44,7 @@ Aga tema viha käie tänapäävani ikka veel ta kohe, nenda et ta iga kord teda 
     {{frontmatter.origin}}
 </div>
 
-### Sõnaseletused:
+### <IconTextMessage class="inline" /> Sõnaseletused:
 
 <ul class="list-disc list-inside">
     <li v-for="(term, i) in frontmatter.dictionary" :key="i">
@@ -53,16 +60,13 @@ Aga tema viha käie tänapäävani ikka veel ta kohe, nenda et ta iga kord teda 
 - Kuidas tänapäeval Saaremaal huntidesse suhtutakse? Kes on nende vastu ja kes poolt? Vihje: võid otsida kohalikest lehtedest.
 - Milline on huntide seis Eestis? Euroopas? Siit saab lugeda: https://bioneer.ee/hirmu-maastik-miks-me-hunte-vajame
 
-
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm">
+<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=809
 - Minikoomiks: Deniss Jeršov Tartu Kunstikoolist.
 
 </details-wrapper>
-
-
 

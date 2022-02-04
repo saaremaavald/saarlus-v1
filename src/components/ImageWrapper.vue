@@ -1,12 +1,10 @@
-
 <script setup>
-    import {ref} from "vue";
-    // import IconZoomIn from '~icons/heroicons-outline/zoom-in'
-    
+    import {ref, computed} from "vue";
+    import { useStore } from "vuex";
 
     defineProps({
         src : { type: String },
-        height : {type: String, default: "85vh" },
+        height : {type: String, default: "75vh" },
         classes: {type:String, default:""},
         bgSize: {type:String, default:"cover"},
         bgRepeat: {type:String, default:"no-repeat"},
@@ -14,19 +12,17 @@
         zoom: {type:Boolean, default:false}
     });
 
-    const modalOpen = ref(false);
-
-    // const openImage = () => {
-
-    // }
+    const store = useStore();
+    const modalOpen = ref(computed(() => store.getters.modalOpen));
+    const toggleModal = () => {store.commit("toggleModal", modalOpen.value)};
 
 </script>
-
 
 <template>
     <div class="flex justify-center items-center bg-gradient-to-b from-blue-800 via-green-600 to-blue-700"
     :style="{
-        'background-image':`url(../images/stories/${src})`,
+        // 'background':`url(../images/stories/${src}), linear-gradient(to bottom, rgba(29,78,216,1), rgba(245, 158, 11, 1), rgba(4, 120, 87, 1))`,
+        'background':`url(../images/stories/${src})`,
         'background-size' : bgSize, 
         'background-repeat' : bgRepeat, 
         'background-position' : bgPos, 
@@ -34,20 +30,24 @@
         'width':'100%',
         'background-blend-mode': 'overlay'
     }"
-    ><div class="zoomable flex justify-center items-center w-full h-full cursor-pointer hover:(bg-gray-900/40) transition" v-if="zoom" @click="modalOpen = !modalOpen">
-        <div class="icon flex justify-center items-center w-16 h-16 rounded-2xl bg-gray-900/80 opacity-0 transition">
-            <icon-zoom-in class="svg text-white stroke-current scale-150" style="transform: scale(2)" />
+    >
+        <div class="zoomable flex justify-center items-center w-full h-full cursor-pointer hover:(bg-gray-900/40) transition" v-if="zoom" @click="toggleModal">
+            <div class="icon flex justify-center items-center w-16 h-16 rounded-2xl bg-gray-900/80 opacity-0 transition">
+                <icon-zoom-in class="svg text-white stroke-current scale-150" style="transform: scale(2)" />
+            </div>
         </div>
-    </div></div>
+    </div>
     
 <teleport to="#teleport-modal">  
 
-    <div class="fixed h-screen w-screen z-10 inset-0 overflow-y-auto " v-if="modalOpen">
+    <div v-if="modalOpen">
+        <image-modal :image="`../images/stories/${src}`" />
+    </div>
+    <!-- <div class="fixed h-screen w-screen z-10 inset-0 overflow-y-auto " v-if="modalOpen">
         <div class="absolute w-full h-full inset-0 bg-black opacity-75" @click="modalOpen = !modalOpen">
         </div>
         <div class="flex items-center justify-center min-h-screen py-4 px-4 ">
-            <!-- <span class="hidden sm:inline-block sm:align-middle sm:h-screen" aria-hidden="true"></span> -->
-            <div class="relative overflow-hidden transform transition-all " role="dialog" aria-modal="true" aria-labelledby="modal-headline">
+           <div class="relative overflow-hidden transform transition-all " role="dialog" aria-modal="true" aria-labelledby="modal-headline">
                 
                     <div class="rounded-sm p-2 bg-white shadow">
                         <div class="absolute right-4 top-4">
@@ -60,19 +60,16 @@
                         </div>
                         <img 
                             :src="`../images/stories/${src}`" 
-                            class="max-w-full sm:max-h-screen"
+                            class="max-w-full sm:max-h-[95vh]"
                         />
                     </div>
                 
             </div>
         </div>
-    </div>
-
+    </div> -->
 </teleport>
 
-
 </template>
-
 
 <style scoped>
     .zoomable:hover>.icon {

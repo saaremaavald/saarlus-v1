@@ -1,10 +1,25 @@
 ---
 title: Meeste ja naiste loomine
+slug: meeste-ja-naiste-loomine
 author: rahvajutt
 origin: Jutustanud Villem Tulit, Praakli külast, Kaarma kihelkonnast.
-tags: [rahvajutt, that]
-headerImages: []
+images: [
+    {
+        src: mehed-naised_01.webp,
+        zoom: true
+    },
+    {
+        src: mehed-naised_03.webp,
+        zoom: true,
+        bgPos: "0 0"
+    },
+    {
+        src: mehed-naised_02.webp, 
+        zoom: true
+    }
+]
 dictionary: [[polla, polevat], [poolist, pooltki], [kut paes, kui praegu], [äga mees, iga mees], [kennegil, kellelgi], [eesel(e), endal(e)], [kogu, kokku]]
+tags: [rahvajutt, that]
 ---
 
 <!-- Fotodeks kõigepealt need 3 tööd, ilma pealkirjata. -->
@@ -21,7 +36,7 @@ Andand inimestele raha niidi ostmise jäuks. Ühed raiskand eesel raha muist äe
     {{frontmatter.origin}}
 </div>
 
-### Sõnaseletused:
+### <IconTextMessage class="inline" /> Sõnaseletused:
 
 <ul class="list-disc list-inside">
     <li v-for="(term, i) in frontmatter.dictionary" :key="i">
@@ -40,7 +55,7 @@ Andand inimestele raha niidi ostmise jäuks. Ühed raiskand eesel raha muist äe
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm">
+<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=790]
 - Väikeste ufo-laadsete tegelastega minikoomiks: **Tormi Kadak** Tartu Kunstikoolist

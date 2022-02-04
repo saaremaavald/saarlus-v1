@@ -1,6 +1,13 @@
 ---
 title: Undiks käimine
+slug: undiks-kaimine
 author: rahvajutt
+images: [
+    {
+        src: undiks-kaimine.webp, 
+        height: "65vh"
+    },
+]
 origin: Kirja pannud Joann Prooses Tornimäe külas Pöide kihelkonnast.
 tags: [rahvajutt]
 dictionary: [[koldemüiril, koldekivil], [lakutama, jootma], [paljast, ainult]]
@@ -36,7 +43,7 @@ Noor naene tõutand, et ta iialgi ei lähe enam undiks, vana käind aga ikka ool
     {{frontmatter.origin}}
 </div>
 
-### Sõnaseletused:
+### <IconTextMessage class="inline" /> Sõnaseletused:
 
 <ul class="list-disc list-inside">
     <li v-for="(term, i) in frontmatter.dictionary" :key="i">
@@ -54,7 +61,7 @@ Noor naene tõutand, et ta iialgi ei lähe enam undiks, vana käind aga ikka ool
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm">
+<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=989
 - Foto: Hiie Mook

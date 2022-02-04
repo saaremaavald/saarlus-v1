@@ -16,12 +16,12 @@ export default defineConfig({
     }),
     WindiCSS(),
     markdown({
-      wrapperComponent: 'StoryPage',
+      wrapperComponent: 'MarkdownWrapper',
       exposeFrontmatter: true,
       markdownItOptions: {
         html: true,
         linkify: true,
-        typographer: false,
+        typographer: true,
         breaks: true,
       },
     }),

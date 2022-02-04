@@ -7,15 +7,19 @@
         open: {
             default: true,
             type: Boolean
+        },
+        icon: {
+            type: String,
+            default: "IconCommunication"
         }
     });
 </script>
 
 <template>
     <details class="my-8 py-4" :open="open ? true : false">
-        <summary class="flex items-center gap-2 text-lg font-bold">{{summary}} 
+        <summary class="flex items-center gap-2 text-lg font-bold"><Component :is="icon" class="summary-icon"></Component>{{summary}} 
             <button class="">
-                <svg class="fill-current opacity-75 w-4 h-4 -mr-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M12.95 10.707l.707-.707L8 4.343 6.586 5.757 10.828 10l-4.242 4.243L8 15.657l4.95-4.95z"/></svg>
+                <svg class="summary-arrow fill-current opacity-75 w-4 h-4 -mr-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M12.95 10.707l.707-.707L8 4.343 6.586 5.757 10.828 10l-4.242 4.243L8 15.657l4.95-4.95z"/></svg>
             </button>
         </summary>
         <div class="pl-4 mt-4 leading-normal text-md border-l border-grey">
@@ -29,13 +33,15 @@
 <style>
 
 details { user-select: none; }
-details summary svg {transform: rotate(0deg);}
-details[open] summary svg { transform: rotate(-90deg); }
+details summary .summary-arrow {transform: rotate(0deg);}
+details[open] summary .summary-arrow { transform: rotate(-90deg); }
 details[open] summary ~ * {	animation: ease-opacity-t-b .5s ease }
 summary { cursor: pointer; }
 svg { transition: all 0.3s; }
 summary::-webkit-details-marker { display: none; }
 :focus { outline: none; }
+summary .summary-icon {transform: scale(1.25)}
+
 
 details ul, details ol, details li {
     margin-left: 1rem;

@@ -4,53 +4,39 @@ const store = createStore({
     state(){
         return {
             scan: false,
-            lang : "en",
-            strings : {
-                "et" : {
-                    "welcome" : "Tere tulemast Kuressaare Piiskopilinnusesse!",
-                },
-                "en" : {
-                    "welcome" : "Welcome to the Kuressaare Episcopal Castle!",
-                }
-            },
+            lang : "et",
+            activeStory : {},
+            modalOpen: false,
             stories : [
                 {
                     "title": "Meeste ja naiste loomine",
-                    "author": "rahvalooming",
                     "slug": "meeste-ja-naiste-loomine",
-                    "images": [
-                        {"src":"mehed-naised_01.webp", "zoom": true},
-                        {"src":"mehed-naised_03.webp", "zoom": true, "bgPos":"0 0"},
-                        {"src":"mehed-naised_02.webp", "zoom": true},
-                    ],
                     "tags" : [ "rahvajutt" ],
                 },
                 {
                     "title": "Esimised undid",
-                    "author": "rahvajutt",
                     "slug": "esimised-undid",
-                    "images": [
-                        {"src":"esimised-undid.webp", "zoom":true},
-                    ],
                     "tags" : [ "essa", "kossa" ],
                 },
                 {
                     "title": "Hull meresõit",
-                    "author": "rahvajutt",
                     "slug": "hull-meresoit",
-                    "images": [
-                        {"src":"hull-meresoit.webp", "height":"65vh"},
-                    ],
                     "tags" : [ "rahvajutt", "meri", "laev", "murdekeel", "Kihelkonna" ],
                 },
                 {
                     "title": "Undiks käimine",
-                    "author": "rahvajutt",
                     "slug": "undiks-kaimine",
-                    "images": [
-                        {"src":"undiks-kaimine.webp", "height":"65vh"},
-                    ],
                     "tags" : [ "rahvajutt", "hunt", "libahunt", "murdekeel", "Pöide" ], 
+                },
+                {
+                    "title": "Mis on Kaali järve põhjas?",
+                    "slug": "mis-on-kaali-jarve-pohjas",
+                    "tags" : [ "rahvajutt", "murdekeel", "Kaali järv" ], 
+                },
+                {
+                    "title": "Jänese lõhkine mokk",
+                    "slug": "janese-lohkine-mokk",
+                    "tags" : [ "rahvajutt", "murdekeel", "jänes", "loodus", "Valjala", "T-särk", "foto", "muusika", "lammas", "kiviaed" ], 
                 },
             ] 
         };
@@ -59,13 +45,21 @@ const store = createStore({
         stories(state){
             return state.stories;
         },
-        lang(state){
-            return state.lang;
+        activeStory(state){
+            return state.activeStory;
+        },
+        modalOpen(state){
+            return state.modalOpen;
         },
     },
     mutations : {
-        setLang(state, lang) {
-            state.lang = lang;
+        setActiveStory(state, frontmatter) {
+            state.activeStory = frontmatter;
+            // console.log("Active changed:" + state.activeStory.origin);
+        },
+        toggleModal(state) {
+            state.modalOpen = !state.modalOpen;
+            // console.log("Active changed:" + state.activeStory.origin);
         },
     }
 });
