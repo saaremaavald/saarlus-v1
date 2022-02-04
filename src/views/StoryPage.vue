@@ -4,39 +4,14 @@ import { computed, ref, defineAsyncComponent } from 'vue';
 import { useRoute } from 'vue-router';
 import { useStore } from 'vuex';
 
-
-
-// const { frontmatter } = defineProps(["frontmatter"]);
-// const frontmatter  = defineProps(["frontmatter"]);
-// const origin = frontmatter.origin;
-// console.log(frontmatter);
-
-// export default {
-    // props:{
-    //     origin: String,
-    //     frontmatter: Object
-    // },
-    // setup(props){
-        const route = useRoute();
-        const store = useStore();
-        const stories = ref(store.state.stories);
-        const activeStory = computed(() => store.getters.activeStory);
-        const storySlug = computed(() => route.params.slug);
-        // const storyIdx = ref(stories.value.findIndex(story => story.slug === storySlug.value));
-        const MarkdownComp = defineAsyncComponent(() => import(`../content/${storySlug.value}.md`));
+const route = useRoute();
+const store = useStore();
+// const stories = ref(store.state.stories);
+const activeStory = computed(() => store.getters.activeStory);
+const storySlug = computed(() => route.params.slug);
+// const storyIdx = ref(stories.value.findIndex(story => story.slug === storySlug.value));
+const MarkdownComp = defineAsyncComponent(() => import(`../content/${storySlug.value}.md`));
         
-        
-        // console.log("ACTIVE STORY" + activeStory.value.origin);
-        
-        // const MarkdownComp = import(`../content/${storySlug.value}.md`);
-
-        // const author = props.frontmatter.author;
-
-        // return {
-        //     stories, storySlug, storyIdx, MarkdownComp
-        // }
-    // }
-// }
 </script>
 
 <template>

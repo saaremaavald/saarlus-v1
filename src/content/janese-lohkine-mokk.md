@@ -7,7 +7,7 @@ images: [
     {
         src: janese-lohkine-mokk.webp,
         zoom: true,
-        bgPos: "50% 40%",
+        bgPos: "50% 50%",
         height: 90vh
     }
 ]
@@ -15,6 +15,7 @@ dictionary: [[kiviaja,kiviaia], [seia,siia], [viksite üles näitama,korralikult
 tags: [rahvajutt, that]
 
 ---
+
 <!-- 
 <h1 class="story-h1">
     {{frontmatter.title}}
@@ -32,31 +33,20 @@ Sestsaadik vöeti nöuks seia maale jääda ja ei mitte ilmaski enam reisi pää
 
 Sest ajast saadik on jänese suu nelja risti löhki ja kui jahikoerad teda taga ajavad, läheb ta uueste jälle oma pesa juure tagasi, kust ta üles on kargand.
 
-<div class="story-origin">
-    {{frontmatter.origin}}
-</div>
 
-
-### <IconTextMessage class="inline" /> Sõnaseletused:
-
-<ul class="list-disc list-inside">
-    <li v-for="(term, i) in frontmatter.dictionary" :key="i">
-        <strong>{{term[0]}}</strong> – {{term[1]}}
-    </li>
-</ul>
-
+<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
+<story-dictionary :terms="frontmatter.dictionary" />
 
 <dummy-spacer height="10vh" />
 
 
-Kuula (ja laula kaasa!), millisena Sõrve bänd Küi tänapäeva valgejänese elu metsas kujutab:
-https://www.youtube.com/watch?v=l_uVXdZhFWc
+Kuula (ja laula kaasa!), millisena **Sõrve bänd Küi** tänapäeva valgejänese elu metsas kujutab:
+
+<youtube-wrapper video="https://www.youtube.com/embed/l_uVXdZhFWc" />
 
 
-
-
-<h2 class="story-h1">
-   Jänkulaul 2021
+<h2 class="story-h2">
+    Jänkulaul 2021
 </h2>
 
 *(Oliver Parrest)*
@@ -69,7 +59,7 @@ ma varjan puude eest päikese ja kui mu seest
 nad tulevad ma hammustan uuesti ja seedin korra veel
 olen jänes raisk sessiilsed ussikesed
 ma purustan te kondid ja joon te verd tassikese
- 
+
 Ma teen nii keerulisi haake et kui rebane oleks jänes
 ei saaks ta ka mitte midagi aru ja ma kardan mõnes
 kohas kus ma läind hoogu teind korraga kolme
@@ -113,7 +103,7 @@ kas nas natuke liiga kiire? see oli valgejänese hõik!
 </details-wrapper>
 
 
-<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
+<details-wrapper icon="IconSources" summary="Allikad" class="text-sm">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=1065
 - Foto lammastest: **Madli Pesti**

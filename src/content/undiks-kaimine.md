@@ -39,17 +39,9 @@ Sellepeale tulnd siis unt metsast ja akkand last imetama. Nüüd saand vanamoor 
 
 Noor naene tõutand, et ta iialgi ei lähe enam undiks, vana käind aga ikka oolega ja söönd liha.
 
-<div class="story-origin">
-    {{frontmatter.origin}}
-</div>
+<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
+<story-dictionary :terms="frontmatter.dictionary" />
 
-### <IconTextMessage class="inline" /> Sõnaseletused:
-
-<ul class="list-disc list-inside">
-    <li v-for="(term, i) in frontmatter.dictionary" :key="i">
-        <strong>{{term[0]}}</strong> – {{term[1]}}
-    </li>
-</ul>
 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
@@ -64,7 +56,7 @@ Noor naene tõutand, et ta iialgi ei lähe enam undiks, vana käind aga ikka ool
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=989
-- Foto: Hiie Mook
+- Foto: **Hiie Mook**
 
 </details-wrapper>
 

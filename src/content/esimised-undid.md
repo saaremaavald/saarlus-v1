@@ -14,7 +14,7 @@ dictionary: [[sau, savi], [kippuma, liigutama], ["selged aru oli saand, et omast
 
 ---
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks" icon="IconCommunication">
+<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
 - Mis lugu see minikoomiks kujutab? Proovige üksi või mitmekesi see lugu piltide põhjal kokku panna.
 - Kes on saarlaste arvates esimised undid loond?
@@ -39,18 +39,8 @@ Unt töusnud maast üles ja akand selle pöesa poole minema, kus tema va looja k
 
 Aga tema viha käie tänapäävani ikka veel ta kohe, nenda et ta iga kord teda murraks, kui ta aga kätte saaks.
 
-
-<div class="story-origin">
-    {{frontmatter.origin}}
-</div>
-
-### <IconTextMessage class="inline" /> Sõnaseletused:
-
-<ul class="list-disc list-inside">
-    <li v-for="(term, i) in frontmatter.dictionary" :key="i">
-        <strong>{{term[0]}}</strong> – {{term[1]}}
-    </li>
-</ul>
+<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
+<story-dictionary :terms="frontmatter.dictionary" />
 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 

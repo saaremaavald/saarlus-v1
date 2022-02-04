@@ -20,6 +20,7 @@ images: [
 ]
 dictionary: [[polla, polevat], [poolist, pooltki], [kut paes, kui praegu], [äga mees, iga mees], [kennegil, kellelgi], [eesel(e), endal(e)], [kogu, kokku]]
 tags: [rahvajutt, that]
+
 ---
 
 <!-- Fotodeks kõigepealt need 3 tööd, ilma pealkirjata. -->
@@ -32,17 +33,10 @@ tags: [rahvajutt, that]
 Vanasti polla inimesed poolist söuksed olnd kut paes. Köhu ees olnd söuksed luugid. Äga mees ajand säält sisse, mis täma tahtis. Tööd pole kennegil teha olnd. Vana taevataet näind, et sedati äi lähe.
 Andand inimestele raha niidi ostmise jäuks. Ühed raiskand eesel raha muist äe ning kui akkand köhtu kogu ömblema, tulnd niidist puudus. Ala jäänd auk. Teistel jäänd niiti üle, need ömblend eesele loti senna ala. Need esimised olid naised ning teised mehed. Naised olla ikka söuksed raiskajad.
 
-<div class="story-origin">
-    {{frontmatter.origin}}
-</div>
+<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 
-### <IconTextMessage class="inline" /> Sõnaseletused:
+<story-dictionary :terms="frontmatter.dictionary" />
 
-<ul class="list-disc list-inside">
-    <li v-for="(term, i) in frontmatter.dictionary" :key="i">
-        <strong>{{term[0]}}</strong> – {{term[1]}}
-    </li>
-</ul>
 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 

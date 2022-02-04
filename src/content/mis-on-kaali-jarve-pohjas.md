@@ -20,9 +20,7 @@ images: [
 Kord tahtnud külarahvas mööta Kaali järve sügavust. Nad sidund terve küla köied üksteise \[külge\], otsa pannud katla liivaga ja akand pöhja laskma. Lasknud kuni köis otsa saand. Akatud välja tirima. Kui nad katla välja olid tirind, nägid inimesed, et liiv oli katlast kadund ja sinna oli pandud verine jäära pea ühes pussnoaga. Nüüd arvab vanarahvas, et seal järve pöhjas on praegugi elanikud sees.
 
 
-<div class="story-origin">
-    {{frontmatter.origin}}
-</div>
+<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 
 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks" >
