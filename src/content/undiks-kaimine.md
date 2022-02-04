@@ -11,8 +11,9 @@ images: [
 origin: Kirja pannud Joann Prooses Tornimäe külas Pöide kihelkonnast.
 tags: [rahvajutt]
 dictionary: [[koldemüiril, koldekivil], [lakutama, jootma], [paljast, ainult]]
-
 ---
+
+
 
 <h1 class="story-h1">
     {{frontmatter.title}}
@@ -38,6 +39,10 @@ tallekesta tandsitama!“
 Sellepeale tulnd siis unt metsast ja akkand last imetama. Nüüd saand vanamoor undi tagumisest jalast kinni, viind undi vägisi kivi ääre, pöörnud seal jälle kolm korda ümber. Sellepeale langend undi kasukas maha, paljast teise jala külge oli jäänd tükk undi karvu.
 
 Noor naene tõutand, et ta iialgi ei lähe enam undiks, vana käind aga ikka oolega ja söönd liha.
+
+
+
+
 
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <story-dictionary :terms="frontmatter.dictionary" />

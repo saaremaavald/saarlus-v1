@@ -1,12 +1,12 @@
 import { defineConfig } from 'windicss/helpers'
-// import typograpy from 'windicss/plugin/typography'
+import typography from 'windicss/plugin/typography'
 // import colors from 'windicss/colors'
 
 
 
 export default defineConfig({
     darkMode: 'class', // or 'media'
-    // plugins: [ typography ],
+    plugins: [ typography ],
     // preflight: false,
     theme: {
       extend: {

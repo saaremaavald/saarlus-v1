@@ -38,6 +38,11 @@ const store = createStore({
                     "slug": "janese-lohkine-mokk",
                     "tags" : [ "rahvajutt", "murdekeel", "jänes", "loodus", "Valjala", "T-särk", "foto", "muusika", "lammas", "kiviaed" ], 
                 },
+                {
+                    "title": "Mis juhtub, kui saare naine palja pääga välja läheb?",
+                    "slug": "pahila-soo",
+                    "tags" : [ "rahvajutt", "murdekeel", "haldjad", "soo", "naine", "tammik", "Karja" ] 
+                },
             ] 
         };
     },
