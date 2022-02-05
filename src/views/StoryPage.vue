@@ -1,15 +1,16 @@
 <script setup>
 
-import { computed, ref, defineAsyncComponent } from 'vue';
+import { ref, computed, defineAsyncComponent } from 'vue';
 import { useRoute } from 'vue-router';
 import { useStore } from 'vuex';
+import NaviPrevNext from '../components/NaviPrevNext.vue';
 
 const route = useRoute();
 const store = useStore();
-// const stories = ref(store.state.stories);
+const stories = ref(store.state.stories);
 const activeStory = computed(() => store.getters.activeStory);
-const storySlug = computed(() => route.params.slug);
-// const storyIdx = ref(stories.value.findIndex(story => story.slug === storySlug.value));
+const storySlug = ref(computed(() => route.params.slug));
+const storyIdx = ref(stories.value.findIndex(story => story.slug === storySlug.value));
 const MarkdownComp = defineAsyncComponent(() => import(`../content/${storySlug.value}.md`));
         
 </script>
@@ -27,6 +28,9 @@ const MarkdownComp = defineAsyncComponent(() => import(`../content/${storySlug.v
     <section class="story-container">
         <component :is="MarkdownComp" />
     </section>
+    <footer>
+        <navi-prev-next :idx="storyIdx" :slug="storySlug" />
+    </footer>
 </template>
 
 <style scoped>

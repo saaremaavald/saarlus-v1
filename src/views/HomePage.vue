@@ -15,7 +15,7 @@
                 v-for="(point, i) in polarpoints(stories.length, 45)"
                 :cx="point.x + 50"
                 :cy="point.y + 50"
-                r="2"
+                r="1"
                 fill="skyblue"
                 :data-idx="i"
                 :key="`point+${i}`"

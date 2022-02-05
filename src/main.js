@@ -18,6 +18,8 @@ import StoryDictionary from "./components/StoryDictionary.vue";
 import YoutubeWrapper from "./components/YoutubeWrapper.vue";
 
 import IconAuthors from '~icons/icon-park-outline/peoples';
+import IconArrowLeft from '~icons/icon-park-outline/left-small';
+import IconArrowRight from '~icons/icon-park-outline/right-small';
 import IconCommunication from '~icons/icon-park-outline/communication';
 import IconSources from '~icons/icon-park-outline/document-folder';
 import IconTextMessage from '~icons/icon-park-outline/text-message';
@@ -35,6 +37,8 @@ app.component('StoryDictionary', StoryDictionary);
 app.component('YoutubeWrapper', YoutubeWrapper);
 
 app.component('IconAuthors', IconAuthors);
+app.component('IconArrowLeft', IconArrowLeft);
+app.component('IconArrowRight', IconArrowRight);
 app.component('IconCommunication', IconCommunication);
 app.component('IconSources', IconSources);
 app.component('IconTextMessage', IconTextMessage);
