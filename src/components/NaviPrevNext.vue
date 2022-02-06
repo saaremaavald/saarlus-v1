@@ -18,7 +18,7 @@ const nextIdx = ref(props.idx===parseInt(stories.value.length-1)?0:parseInt(prop
 </script>
 
 <template>
-<nav class="flex items-center justify-between gap-4 px-8 pb-12">
+<nav class="flex items-center justify-between gap-4 pb-12">
     <router-link :to="`/lugu/${stories[prevIdx].slug}`" class="flex items-center bg-transparent py-2 px-4 rounded shadow-dark border border-gray-300 transition transition-shadow uppercase text-sm  hover:(border-gray-400)"><IconArrowLeft class="inline" />Eelmine</router-link>
     <router-link :to="`/lugu/${stories[nextIdx].slug}`" class="flex items-center bg-transparent py-2 px-4 rounded shadow-dark border border-gray-300 transition transition-shadow uppercase text-sm  hover:(border-gray-400)">Järgmine<IconArrowRight class="inline" /></router-link>
 </nav>

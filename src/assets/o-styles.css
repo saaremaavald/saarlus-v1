@@ -23,7 +23,9 @@ a {
     color: blue;
     /* text-decoration-skip: ; */
 }
-
+.markdown-body p {
+    margin-bottom: 1em;
+}
 #teleport-modal {
     position: absolute;
     top: 0;

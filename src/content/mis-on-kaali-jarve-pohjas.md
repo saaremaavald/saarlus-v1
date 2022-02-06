@@ -1,6 +1,6 @@
 ---
 title: Mis on Kaali järve põhjas?
-slug: kaali-jarv
+slug: mis-on-kaali-jarve-pohjas
 author: rahvajutt
 origin: Jutustanud Olga Anupõld Kuressaarest.
 tags: [rahvajutt, murdekeel, Kaali järv]

@@ -4,6 +4,7 @@ import { ref, computed, defineAsyncComponent } from 'vue';
 import { useRoute } from 'vue-router';
 import { useStore } from 'vuex';
 import NaviPrevNext from '../components/NaviPrevNext.vue';
+import NaviStoriesList from '../components/NaviStoriesList.vue';
 
 const route = useRoute();
 const store = useStore();
@@ -16,7 +17,7 @@ const MarkdownComp = defineAsyncComponent(() => import(`../content/${storySlug.v
 </script>
 
 <template>
-    <section class="story-header flex items-stretch shadow-md">
+    <section class="flex items-stretch shadow-md">
         <image-wrapper 
             v-for="(img, i) in activeStory.images" :key="`img${i}`"
             :src="img.src" :zoom="img.zoom" :bgPos="img.bgPos" :bgSize="img.bgSize" :height="img.height" />
@@ -25,12 +26,15 @@ const MarkdownComp = defineAsyncComponent(() => import(`../content/${storySlug.v
             v-for="(img, i) in stories[storyIdx].images" :key="`img${i}`"
             :src="img.src" :zoom="img.zoom" :bgPos="img.bgPos" :bgSize="img.bgSize" :height="img.height" /> -->
     </section>
-    <section class="story-container">
-        <component :is="MarkdownComp" />
-    </section>
+    <section class="flex">
+        <navi-stories-list class="<md:hidden" />
+        <div class="story-container">
+            <component :is="MarkdownComp" />
     <footer>
         <navi-prev-next :idx="storyIdx" :slug="storySlug" />
     </footer>
+        </div>
+    </section>
 </template>
 
 <style scoped>

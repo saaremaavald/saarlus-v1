@@ -1,6 +1,6 @@
 ---
-title: Meeste ja naiste loomine
-slug: meeste-ja-naiste-loomine
+title: Jänese lõhkine mokk
+slug: janese-lohkine-mokk
 author: rahvajutt
 origin: Kirja pannud Juhan Ratas Lõve vallas Valjala kihelkonnas.
 images: [
