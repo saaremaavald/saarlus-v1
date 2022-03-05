@@ -11,7 +11,7 @@ images: [
         height: 90vh
     }
 ]
-dictionary: [[kiviaja,kiviaia], [seia,siia], [viksite üles näitama,korralikult üleval pidama, käituma]]
+dictionary: [[kiviaja,kiviaia], [seia,siia], [viksite üles näitama, korralikult üleval pidama, käituma]]
 tags: [rahvajutt, that]
 
 ---

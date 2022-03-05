@@ -8,7 +8,7 @@ const activeStory = ref(computed(()=>store.getters.activeStory));
 </script>
 
 <template>
-    <nav class="py-4 sticky top-8 h-full">
+    <nav class="py-4 sticky top-16 h-full">
         <ul>
             <li v-for="story in stories" :key="story.slug" class="pl-4" :class="story.slug == activeStory.slug?'bg-yellow-100':''">
                 <router-link :to="`/lugu/${story.slug}`" 
