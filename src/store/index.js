@@ -16,7 +16,7 @@ const store = createStore({
                 {
                     "title": "Esimised undid",
                     "slug": "esimised-undid",
-                    "tags" : [ "essa", "kossa" ],
+                    "tags" : [ "rahvajutt", "murdekeel", "hunt", "loodus", "Karja" ],
                 },
                 {
                     "title": "Hull meresõit",
@@ -42,6 +42,71 @@ const store = createStore({
                     "title": "Mis juhtub, kui saare naine palja pääga välja läheb?",
                     "slug": "pahila-soo",
                     "tags" : [ "rahvajutt", "murdekeel", "haldjad", "soo", "naine", "tammik", "Karja" ] 
+                },
+                {
+                    "title": "Külmking ja puuraiuja",
+                    "slug": "kylmking-ja-puuraiuja",
+                    "tags" : [ "rahvajutt", "murdekeel", "räim", "kala", "Kärla", "külmking", "mets", "hunt", "kartul", "kalapahl" ] 
+                },
+                {
+                    "title": "Laevameeste eksimus",
+                    "slug": "laevameeste-eksimus",
+                    "tags" : [ "rahvajutt", "murdekeel", "meri", "kala", "kammeljas", "laev", "Mustjala" ] 
+                },
+                {
+                    "title": "Lesta kiivas suu",
+                    "slug": "lesta-kiivas-suu",
+                    "tags" : [ "rahvajutt", "lest", "murdekeel", "Anseküla" ] 
+                },
+                {
+                    "title": "Murelik surnu",
+                    "slug": "murelik-surnu",
+                    "tags" : [ "rahvajutt", "surm", "Kaarma" ] 
+                },
+                {
+                    "title": "Rehepapp",
+                    "slug": "rehepapp",
+                    "tags" : [ "rahvajutt", "murdekeel", "rehepapp", "Vanapagan", "torupill", "muusika", "Muhu" ] 
+                },
+                {
+                    "title": "Mida köike mererannast vöib leida?",
+                    "slug": "mida-koike-mererannast-voib-leida",
+                    "tags" : [ "rahvajutt", "murdekeel", "meri", "laev", "Kihelkonna", "haakrik" ] 
+                },
+                {
+                    "title": "Tatt ja ämblik",
+                    "slug": "tatt-ja-amblik",
+                    "tags" : [ "rahvajutt", "murdekeel", "loodus", "Püha", "Nasva" ] 
+                },
+                {
+                    "title": "Ussid ning annergad",
+                    "slug": "ussid-ning-angerjad",
+                    "tags" : [ "rahvajutt", "murdekeel", "loodus", "uss", "angerjas", "meri", "Püha"] 
+                },
+                {
+                    "title": "Miks küla ävis?",
+                    "slug": "miks-kyla-avis",
+                    "tags" : [ "rahvajutt", "murdekeel", "Kihelkonna", "küla", "soo"] 
+                },
+                {
+                    "title": "Järved ja jõed",
+                    "slug": "jarved-ja-joed",
+                    "tags" : [ "rahvajutt", "murdekeel", "Vanapagan", "järv", "jõgi", "meri", "laht", "loodus", "Kaarma"] 
+                },
+                {
+                    "title": "Mardipäev",
+                    "slug": "mardipaev",
+                    "tags" : [ "mardipäev", "santimine"] 
+                },
+                {
+                    "title": "Saaremaa rahvariided",
+                    "slug": "saaremaa-rahvariided",
+                    "tags" : [ "rahvariided" ] 
+                },
+                {
+                    "title": "Saaremaa sokud",
+                    "slug": "saaremaa-sokud",
+                    "tags" : [ "sokud", "santimine" ] 
                 },
             ] 
         };

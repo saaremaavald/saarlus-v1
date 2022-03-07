@@ -23,10 +23,10 @@ const count = ref(0)
                     <div class="hidden md:block">
                         <div class="ml-10 flex items-baseline space-x-4">
                             <a class="text-saarlus-600  hover:text-saarlus-900 dark:hover:text-white px-3 py-2 rounded-md text-sm font-medium" href="/#">
-                                Home
+                                Mis see on?
                             </a>
                             <a class="text-saarlus-600  hover:text-saarlus-900 dark:hover:text-white px-3 py-2 rounded-md text-sm font-medium" href="/#">
-                                Contact
+                                Kontakt
                             </a>
                         </div>
                     </div>
@@ -51,13 +51,10 @@ const count = ref(0)
                     Home
                 </a>
                 <a class="text-gray-800 dark:text-white block px-3 py-2 rounded-md text-base font-medium" href="/#">
-                    Gallery
+                    Mis see on?
                 </a>
                 <a class="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium" href="/#">
-                    Content
-                </a>
-                <a class="text-gray-300 hover:text-gray-800 dark:hover:text-white block px-3 py-2 rounded-md text-base font-medium" href="/#">
-                    Contact
+                    Kontakt
                 </a>
             </div>
         </div>
