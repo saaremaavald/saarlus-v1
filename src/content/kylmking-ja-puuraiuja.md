@@ -5,7 +5,7 @@ author: rahvajutt
 origin: Kirja pannud J. Jõgi Kärla kihelkonnas.
 images: [
     {
-        src: "pahila-soo.webp"
+        src: "kylmking-ja-puuraiuja.webp",
     }
 ]
 dictionary: [[tuhlid,"kartuleid, „kartuhvlid“"], ["ääks","pehmeks, „tümaks“"], ["pahl:pahla","varras"], ["parase","paraja"], ["rataste kali","vankri puu (kaigas)"], ["selpuu","sõlgpuu"], ["oda, ma lää","oota, ma lähen"], ["peeniseks","peenikeseks"]]

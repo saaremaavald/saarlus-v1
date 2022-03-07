@@ -5,7 +5,7 @@ author: rahvajutt
 origin: Jutustanud Aleksander Lepp Järise külast Mustjala kihelkonnast. 
 images: [
     {
-        src: "pahila-soo.webp"
+        src: "laevameeste-eksimus.webp"
     }
 ]
 dictionary: [[Inglis,inglise], [tiimer,aurik], [Köpu otsa kuhal,Kõpu poolsaare otsa kohal], [meistel,meestel], [Paldi merest,Balti merest], [taarist Peeterpurki aru viia,tarvis Peterburisse teade viia], [ää saaja,ära saada], [lasn luubi sisse ja söund,lasknud paadi merre ja sõudnud], [mättud,mättaid], [pärasti tulnd üles,hiljem selgunud] ]

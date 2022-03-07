@@ -5,7 +5,7 @@ author: rahvajutt
 origin: unknown
 images: [
     {
-        src: "pahila-soo.webp"
+        src: "saaremaa-sokud.webp"
     }
 ]
 dictionary: [[ei, ole]]

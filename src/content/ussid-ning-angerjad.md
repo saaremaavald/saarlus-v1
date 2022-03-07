@@ -5,7 +5,8 @@ author: rahvajutt
 origin: Jutustanud Mari Liiv Hõbeniku külast Püha kihelkonnast. 
 images: [
     {
-        src: "pahila-soo.webp"
+        src: "ussid-ning-angerjad.webp",
+        bgPos: "85% 80%"
     }
 ]
 dictionary: [[pailajupp, paelajupp], [jähi,jäi], [annergad,angerjad]]

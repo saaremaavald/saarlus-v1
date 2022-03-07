@@ -5,7 +5,7 @@ author: rahvajutt
 origin: Jutustanud Jaak Lepik, pärit Salme külast Anseküla kihelkonnast. 
 images: [
     {
-        src: "pahila-soo.webp"
+        src: "lesta-kiivas-suu.webp"
     }
 ]
 dictionary: [[kiiva, viltu], [lititsema, lesta liikumise kohta]]

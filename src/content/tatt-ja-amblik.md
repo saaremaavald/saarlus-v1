@@ -5,7 +5,7 @@ author: rahvajutt
 origin: Kirja pannud Arnold Kuusk Räimaste külas Püha kihelkonnas. 
 images: [
     {
-        src: "pahila-soo.webp"
+        src: "tatt-ja-amblik.webp"
     }
 ]
 dictionary: [[midagi, pole]]

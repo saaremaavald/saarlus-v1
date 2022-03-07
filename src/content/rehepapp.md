@@ -5,7 +5,8 @@ author: rahvajutt
 origin: Jutustanud Aleksander Jõgi Muhu kihelkonnast.
 images: [
     {
-        src: "pahila-soo.webp"
+        src: "rehepapp.webp",
+        bgPos: "0 100%"
     }
 ]
 dictionary: [[kuntsi, kunsti], [napsu pealt, otsekohe], [aganase,aganate sisse]]

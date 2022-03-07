@@ -5,7 +5,7 @@ author: rahvajutt
 origin: Saaremaa tondijuttude kogumisvõistluse käigus kirja pannud Kerli Aksalu.
 images: [
     {
-        src: "pahila-soo.webp"
+        src: "murelik-surnu.webp"
     }
 ]
 dictionary: [[kiiva, viltu], [lititsema, lesta liikumise kohta]]

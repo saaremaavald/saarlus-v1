@@ -5,7 +5,7 @@ author: rahvajutt
 origin: Jutustanud Peeter Hein Vedruka külast Kihelkonna kihelkonnast. 
 images: [
     {
-        src: "pahila-soo.webp"
+        src: "kyla-havimine.webp"
     }
 ]
 dictionary: [[dis, dat]]

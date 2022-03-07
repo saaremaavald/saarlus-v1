@@ -5,7 +5,7 @@ author: rahvajutt
 origin: Kirja pannud Amanda Rand oma vanaemalt Tamsalu külast Kaarma kihelkonnast.
 images: [
     {
-        src: "pahila-soo.webp"
+        src: "jarved-ja-joed.webp"
     }
 ]
 dictionary: [[ei, ole]]
