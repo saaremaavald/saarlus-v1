@@ -1,5 +1,5 @@
 ---
-title: Laevahukk
+title: Mis saab meestest mere põhjas?
 slug: laevahukk
 author: rahvajutt
 origin:  
@@ -31,14 +31,6 @@ Laula kaasa: https://www.folklore.ee/pubte/eraamat/saaremaa/ee/01-laevahukk
 - Miks pidi Soomest soola tooma?
 - Miks on laevahukk vanasti olnud nii oluline teema Saaremaa lauludes? https://www.folklore.ee/pubte/eraamat/saaremaa/ee/esitaja-anna-miller
 - Milliseid laevahukke sa tead Saaremaa lähistel vetes?
-- Kuidas näeks välja pilt laulu viimaste ridade illustreerimiseks<br>
-<i>Haug tuli hauda kaevama,
-kuha kerstu tegema,
-räimes risti hööveldama,
-kiiss aga peale kirjutama,
-luts aga kirja lugema.
-Siis (sest) said mehed merese
-(ja) emalapsed lainetele.</i>
 
 </details-wrapper>
 

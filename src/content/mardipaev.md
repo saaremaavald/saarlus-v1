@@ -20,7 +20,7 @@ tags: [mardipäev, santimine]
 
 <!-- Fotodele (kleepida need kaks kokku, et saaks 1 maastikuformaadi) pealkiri: Noh, mis passid - mask ette, jope pahupidi selga ja marti jooksma! -->
 
-Mari Lepik Sõrvest kirjutab mardipäevast niimoodi: Mardilaupäevaks katkeb noorte meeste kannatus. Esiti ühe-kahekaupa kokkusaamistest ning elubeluugi vahelt poolkogemata leitud pudrukausside tühjendamisest kasvab mardilaupäevaks isu juba enamaks. 
+Mari Lepik Sõrvest kirjutab mardipäevast: “Mardilaupäevaks katkeb noorte meeste kannatus. Esiti ühe-kahekaupa kokkusaamistest ning elubeluugi vahelt poolkogemata leitud pudrukausside tühjendamisest kasvab mardilaupäevaks isu juba enamaks. 
 
 Nii otsivadki küla noored mehed ning hakkajamad neiud omale miskit sandemat selga, panevad valss-palged ette või tahmavad silmnäo sootuks ning hakkavad peresid pidi käima. Kui vaid kohe ära ei tuntaks, saab lõbusam!
 
@@ -41,7 +41,7 @@ Viljaõnn – sa püha asi! Et loomad kosuks, et põllud kasvaks! Et oleks leiba
 
 Dialoog on ajapikku paikakulunud, suur osa sest on ka lauluks saanud. Nii ei peagi igaüks alati osav sõnasepp olema, piisab lauluridade meelespidamisest või paremal juhul vaid laulumehe järgi kordamisest. 
 Viimases peres – suurema toa, lahkema pereisa, heldema perenaise ja naeruhimuliste peretütardega peres – saab olema pidu. Pilli ja tralliga. Kasukad heidetakse maha, valssnäud koldesse. Saab süüa. Saab tantsida. Saab kahekesi õues tähti vaatamas käia.
-Mida sa inimese hing veel ihkad!
+Mida sa inimese hing veel ihkad!”
 
 
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />

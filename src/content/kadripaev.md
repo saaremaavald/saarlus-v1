@@ -1,5 +1,5 @@
 ---
-title: Kadripäev
+title: Kadriks käidi. Ehtisivad mütu päeva, 18–19-aastased. Poistel olid aluspüksid teiste pükste peal, suled kübara peal. Kardpaela oli, seda sai panna.
 slug: kadripaev
 author: 
 origin:  
@@ -18,11 +18,10 @@ tags: [kadripäev, santimine ]
     {{frontmatter.title}}
 </h1>
 
-Fotodele: kaks maastikuformaadisk kokku kleepida ja üle nende: 
 
-Fotole: Kadriks käidi. Ehtisivad mütu päeva, 18–19-aastased. Poistel olid aluspüksid teiste pükste peal, suled kübara peal. Kardpaela oli, seda sai panna.
+**Mari Lepik** Sõrvest kirjutab kadripäevast: 
 
-**Mari Lepik** Sõrvest kirjutab kadripäevast nii: Kadrilaupäeva õhtuks on tüdrukud juba nii palju kedranud, et... lihtsalt... et lihtsalt ei suuda enam.
+“Kadrilaupäeva õhtuks on tüdrukud juba nii palju kedranud, et... lihtsalt... et lihtsalt ei suuda enam.
 
 Lihtsalt ei suuda!
 
@@ -47,7 +46,7 @@ Ja laulda, laulda tuleb nii, et järgmine päev pead suisa vagusi olema, sest h�
 
 Karjaõnn, lambaõnn, pruudiõnn, peiuõnn, titeõnn! Need on olulised. Neid on vaja! Neid toomegi! Kõigile, kel kadrikotti palte, õunu, vorsti, leiba, pähkleid või lihtsalt ka hea sõna anda on.
 
-Tants ja pidu – viimases peres – muidugi! Või kõrtsis, sinna ju muidu ei saagi. Aga ka talutoas on tore. Võibolla samas, kus mardilaupäevalgi, võibolla mõnes teises. Kus mõni pillimees elab ning kuhu noored kokku tulla teavad. 
+Tants ja pidu – viimases peres – muidugi! Või kõrtsis, sinna ju muidu ei saagi. Aga ka talutoas on tore. Võibolla samas, kus mardilaupäevalgi, võibolla mõnes teises. Kus mõni pillimees elab ning kuhu noored kokku tulla teavad.”
 
 <!-- <story-author :author="frontmatter.author" :origin="frontmatter.origin" /> -->
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->

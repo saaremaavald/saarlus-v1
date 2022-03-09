@@ -1,5 +1,5 @@
 ---
-title: Hülgelaul
+title: Kes kala hülgeks nimetab?
 slug: hylgelaul
 author: rahvajutt
 origin:  

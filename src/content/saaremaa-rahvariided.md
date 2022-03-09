@@ -1,5 +1,5 @@
 ---
-title: Saaremaa rahvariided
+title: Mida pidupäeval selga panna?
 slug: saaremaa-rahvariided
 author: rahvajutt
 origin: unknown
@@ -29,11 +29,11 @@ Kui hästi tunned Saaremaa rahvariideid ja kihelkondi? http://saaremaa.folklore.
 <!-- <story-author :author="frontmatter.author" :origin="frontmatter.origin" /> -->
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<!-- <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
 - ?
 
-</details-wrapper>
+</details-wrapper> -->
 
 
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">

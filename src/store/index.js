@@ -81,25 +81,30 @@ const store = createStore({
                 {
                     "title": "Ussid ning annergad",
                     "slug": "ussid-ning-angerjad",
-                    "tags" : [ "rahvajutt", "murdekeel", "loodus", "uss", "angerjas", "meri", "Püha"] 
+                    "tags" : [ "rahvajutt", "murdekeel", "loodus", "uss", "angerjas", "meri", "Püha" ] 
                 },
                 {
                     "title": "Miks küla ävis?",
                     "slug": "miks-kyla-avis",
-                    "tags" : [ "rahvajutt", "murdekeel", "Kihelkonna", "küla", "soo"] 
+                    "tags" : [ "rahvajutt", "murdekeel", "Kihelkonna", "küla", "soo" ] 
                 },
                 {
                     "title": "Järved ja jõed",
                     "slug": "jarved-ja-joed",
-                    "tags" : [ "rahvajutt", "murdekeel", "Vanapagan", "järv", "jõgi", "meri", "laht", "loodus", "Kaarma"] 
+                    "tags" : [ "rahvajutt", "murdekeel", "Vanapagan", "järv", "jõgi", "meri", "laht", "loodus", "Kaarma" ] 
                 },
                 {
                     "title": "Mardipäev",
                     "slug": "mardipaev",
-                    "tags" : [ "mardipäev", "santimine"] 
+                    "tags" : [ "mardipäev", "santimine" ] 
                 },
                 {
-                    "title": "Saaremaa rahvariided",
+                    "title": "Kus on Saaremaa seljaroog ja kuidas sai Kuressaare oma nime?",
+                    "slug": "suur-toll",
+                    "tags" : [ "Suur Tõll", "Kuressaare" ] 
+                },
+                {
+                    "title": "Mida pidupäeval selga panna?",
                     "slug": "saaremaa-rahvariided",
                     "tags" : [ "rahvariided" ] 
                 },
@@ -109,7 +114,7 @@ const store = createStore({
                     "tags" : [ "sokud", "santimine" ] 
                 },
                 {
-                    "title": "Hülgelaul",
+                    "title": "Kes kala hülgeks nimetab?",
                     "slug": "hylgelaul",
                     "tags" : [ "muusika", "hüljes", "kala", "Jämaja" ] 
                 },
@@ -119,7 +124,7 @@ const store = createStore({
                     "tags" : [ "muusika", "Rotterdam", "meri", "laev", "Püha", "Muhu" ] 
                 },
                 {
-                    "title": "Laevahukk",
+                    "title": "Mis saab meestest mere põhjas?",
                     "slug": "laevahukk",
                     "tags" : [ "muusika", "Valjala", "Pöide", "meri", "laev", "laevahukk", "kala" ] 
                 },
@@ -129,13 +134,13 @@ const store = createStore({
                     "tags" : [ "muusika", "poiss", "meri", "maa", "Valjala" ] 
                 },
                 {
-                    "title": "See Saaremaa 2",
+                    "title": "Millest laulab saarlane?",
                     "slug": "see-saaremaa-2",
                     "tags" : [ "muusika", "Valjala", "meri", "kuu", "kajakas", "paat" ] 
                 },
                 {
-                    "title": "Kalamees Toivo",
-                    "slug": "kalamees-toivo",
+                    "title": "Kas sa Saaremaa Toivot tead?",
+                    "slug": "kas-sa-saaremaa-toivot-tead",
                     "tags" : [ "meri", "kala", "kalapüük", "paat", "Nasva" ] 
                 },
                 {

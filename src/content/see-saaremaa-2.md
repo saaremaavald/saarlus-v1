@@ -1,5 +1,5 @@
 ---
-title: See Saaremaa
+title: Millest laulab saarlane?
 slug: see-saaremaa-2
 author: rahvalaul
 origin:  
@@ -18,7 +18,7 @@ tags: [muusika, Valjala, meri, kuu, kajakas, paat ]
     {{frontmatter.title}}
 </h1>
 
-Fotole pealkirjaks: Millest laulab saarlane?
+
 
 Laula kaasa! https://www.folklore.ee/pubte/eraamat/saaremaa/ee/12-see-saaremaa
 
@@ -37,7 +37,7 @@ Laula kaasa! https://www.folklore.ee/pubte/eraamat/saaremaa/ee/12-see-saaremaa
 
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
-- Foto: ???
+- Foto: **Merit Karise**
 
 </details-wrapper>
 

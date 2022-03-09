@@ -1,6 +1,6 @@
 ---
-title: Kalamees Toivo
-slug: kalamees-toivo
+title: Kas sa Saaremaa Toivot tead?
+slug: kas-sa-saaremaa-toivot-tead
 author: 
 origin:  
 images: [
@@ -32,12 +32,12 @@ Saa tuttavaks - see on Saaremaa Toivo: https://arhiiv.err.ee/vaata/kalamehe-jutu
 
 - Kas sa tead mõnd Toivo sarnast inimest, kelle kohta saab öelda, et ta on hingelt mõne ala esindaja?
 - Oled sa kalal käinud? Kui ei, siis kas tahaksid? Miks?
-- Toivo ütleb, et iga inimene on nii vana, kui vanana ta end tunneb. Kui vanana sa end tunned?
+- Toivo ütleb, et iga inimene on nii vana, kui vanana ta end tunneb. Kui vanana sina end tunned?
 - Millega sina tahaksid 80aastaselt oma päevi sisustada?
 - Miks on meeskond oluline? Kus koged sina meeskonnatööd? On sul häid ja/või halbu meeskonnatöö kogemusi? Millist rolli sulle endale meeldib meeskonnas täita?
-- Miks pole Sõrves enam kalureid? Toivo on ainus, kes regulaarselt merel kalal käib.
+- Mis sa arvad, miks pole Sõrves enam kalureid? Toivo on ainus, kes regulaarselt merel kalal käib.
 - Mis on Toivo arvates Saaremaa kalade kroon sügisese roana? 
-- Millist tegevust ja tööd teeksid sa tegevuse enda pärast, nii et tulemus polegi kõige olulisem?
+- Millist tegevust ja tööd teeksid sina tegevuse enda pärast, nii et tulemus polegi kõige olulisem?
 - Mida sina sellest arvad, et rannakaluri amet on hääbuv? On see lihtsalt elu käik? On see inimeste teadlike otsuste ja valikute tulemus? Miks?
 
 </details-wrapper>
@@ -45,7 +45,7 @@ Saa tuttavaks - see on Saaremaa Toivo: https://arhiiv.err.ee/vaata/kalamehe-jutu
 
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
-- Foto: ???
+- Foto: **Merit Karise**
 
 </details-wrapper>
 

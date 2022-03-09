@@ -21,6 +21,13 @@ tags: [sokud, santimine]
 
 <!-- Siia jupp filmist, otsekõne! -->
 
+*“Kui ma noor oli, siis oli n'äärisokk sii arilik asi, ilma sokuta pole n'ääribed olnd. Sokud n'ääribe toojad olid ee'ka. Ma ole ise sokku teind ja küla kauda sokuks käind sii küll.
+Vahest oli selg veel mütu aèga tagant järge aige, ole kõveras, look jalge vahel, obuse riie öle, puksi koa ja kasta ända, karguta ja tee oma soku tegusi, ee'ka. Aga see pole kerge, vahest võttis ääle ää see kange mökitamine ja m'äämine, pakase külmaga külavahel lume sihes, sojast toast tulles, nahk pala, ee'ka. Aga see oli siis moed. Öö, pää veel tagant o'tsa koa, jõõra 4 sokuga küla kauda. Vahest mindi järjega teise kolmandase külase. Pääva kahe kolme pärast sai tagasi, see oli ee'ka.
+See oli ee'ka nii vana asi, et äi meite isad ja isaisad pole koa seda rää'kind, et mis ajast ja mis päävast see asi akkand on, ja kust see tulnd on, äi tea, ee'ka.”*
+
+Georg Mägi Paju-Kurdla külas, Laimjala
+
+
 Saaremaal on paiguti tänini elujõus kristluse-eelne sokujooksmise komme: sokuks maskeerunud mees käib koos saatjatega uusaastaööl perest perre, mökitab, puksib, tantsib, soovib uueks aastaks õnne. Pererahvas pakub talle meelehead (õlut, viina, õunu, pirukaid, komme jms). Lahkudes kirjutab sokk kriidiga maja uksele uue aasta numbri. Kui eri peredest tulnud sokud teel kohtuvad, puksitakse omavahel. Vahel võib juhtuda, et puksimine läheb üle suuremaks raginaks ja jõukatsumiseks, mille käigus sokud purunevad. Täpseid andmeid selle kohta, millistes Saaremaa nurkades uusaastaööl sokku joostakse, ei ole teada. Küll aga on kindel, et näärisokku võib kohata Pihtla vallas Haeskas, Leisi vallas Metskülas ja Laimjala vallas Randveres: https://www.youtube.com/watch?v=gvH0NthJ2io&t=1s
 
 
@@ -32,7 +39,7 @@ Saaremaal on paiguti tänini elujõus kristluse-eelne sokujooksmise komme: sokuk
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
 - Oled sa sokku näinud, teinud või neist kuulnud? Küsi ka oma (vana)vanematelt!
-- Mis sa arvad, kas sellist kommet tasuks elus hoida? Miks? Kui jah, siis kuidas?
+- Mis sa arvad, kas sellist kommet tasuks või üldse õnnestub elus hoida? Miks? Kui jah, siis kuidas?
 - Saarema sokud on Eesti vaimse kultuuripärandi osa: https://rahvakultuur.ee/2020/03/24/sokujooksmine-saaremaal/
 - Vaata, millised sanditajad on sinu kodukohas käinud: https://www.folklore.ee/Sanditajad/
 
@@ -41,6 +48,7 @@ Saaremaal on paiguti tänini elujõus kristluse-eelne sokujooksmise komme: sokuk
 
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
-- ?
+Sokkude illustratsioon: **Oliver Maaker**
+- Murdetekst näärisoku tegemisest: https://www.emakeeleselts.ee/valjaanne/tuulik-kadakas-ja-leib/
 
 </details-wrapper>
