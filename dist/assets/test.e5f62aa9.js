@@ -1,0 +1,1 @@
+import{b as t,o as n,e as s,w as c,i as a}from"./vendor.f3834dc7.js";const l=a("div",{class:"markdown-body"},[a("h1",null,"Saarlus"),a("p",null,"Nii see on.")],-1),u="Saarlus",i={setup(p,{expose:o}){const e={name:"Saarlus"};return o({frontmatter:e}),(d,_)=>{const r=t("MarkdownWrapper");return n(),s(r,{frontmatter:e},{default:c(()=>[l]),_:1})}}};export{i as default,u as name};
