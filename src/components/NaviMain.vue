@@ -13,7 +13,7 @@ const count = ref(0)
 <template>
   
 <div>
-    <nav class="bg-white shadow dark:bg-gray-800 z-10 ">
+    <nav class="bg-white shadow dark:bg-gray-800 z-100 ">
         <div class="max-w-7xl mx-auto px-8">
             <div class="flex items-center justify-between h-16">
                 <div class="w-full justify-between flex items-center">

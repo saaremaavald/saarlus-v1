@@ -108,6 +108,41 @@ const store = createStore({
                     "slug": "saaremaa-sokud",
                     "tags" : [ "sokud", "santimine" ] 
                 },
+                {
+                    "title": "Hülgelaul",
+                    "slug": "hylgelaul",
+                    "tags" : [ "muusika", "hüljes", "kala", "Jämaja" ] 
+                },
+                {
+                    "title": "Kõrgel masti tipus",
+                    "slug": "korgel-masti-tipus",
+                    "tags" : [ "muusika", "Rotterdam", "meri", "laev", "Püha", "Muhu" ] 
+                },
+                {
+                    "title": "Laevahukk",
+                    "slug": "laevahukk",
+                    "tags" : [ "muusika", "Valjala", "Pöide", "meri", "laev", "laevahukk", "kala" ] 
+                },
+                {
+                    "title": "See Saaremaa",
+                    "slug": "see-saaremaa",
+                    "tags" : [ "muusika", "poiss", "meri", "maa", "Valjala" ] 
+                },
+                {
+                    "title": "See Saaremaa 2",
+                    "slug": "see-saaremaa-2",
+                    "tags" : [ "muusika", "Valjala", "meri", "kuu", "kajakas", "paat" ] 
+                },
+                {
+                    "title": "Kalamees Toivo",
+                    "slug": "kalamees-toivo",
+                    "tags" : [ "meri", "kala", "kalapüük", "paat", "Nasva" ] 
+                },
+                {
+                    "title": "Kadripäev",
+                    "slug": "kadripaev",
+                    "tags" : [ "kadripäev", "santimine" ] 
+                },
             ] 
         };
     },

@@ -13,7 +13,7 @@
 
 <template>
 
-<div class="fixed h-screen w-screen z-10 inset-0 overflow-y-auto " v-if="modalOpen">
+<div class="fixed h-screen w-screen z-110 inset-0 overflow-y-auto " v-if="modalOpen">
     <div class="absolute w-full h-full inset-0 bg-black opacity-75" @click="toggleModal"></div>
     <div class="flex items-center justify-center min-h-screen py-4 px-4 ">
         <div class="relative overflow-hidden transform transition-all " role="dialog" aria-modal="true" aria-labelledby="modal-headline">

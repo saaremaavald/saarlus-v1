@@ -1,6 +1,6 @@
 import { createApp } from 'vue';
 import { Fachwerk } from "fachwerk";
-import "fachwerk/style.css";
+// import "fachwerk/style.css";
 import 'virtual:windi.css';
 import './assets/o-styles.css'
 
