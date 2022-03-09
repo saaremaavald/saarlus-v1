@@ -1,5 +1,5 @@
 <script setup>
-    import { ref, computed} from 'vue';
+    import { ref, computed, watch} from 'vue';
     import { useStore } from 'vuex';
     import anime from 'animejs';
     import StoryTooltip from '../components/StoryTooltip.vue';
@@ -19,14 +19,19 @@
         autoplay: false
     });
     
+    
 
     const calcAngle = () => {
-        activeStory.value = Math.round( Math.random()*stories.value.length );
-        const angle = rotationStep*activeStory.value;
+        // activeStory.value = Math.round( Math.random()*stories.value.length );
+        const angle = rotationStep*activeStory.value-rotationValue.value;
         return angle;
     }
 
     const compassNeedleClick = () => {
+        activeStory.value = Math.round( Math.random()*stories.value.length );
+    };
+
+    const compassNeedleTurn = () => {
         rotationEnd.value = calcAngle();
         currentAngle = rotationValue.value;
 
@@ -45,9 +50,9 @@
         return `transform: rotate(${ rotationValue.value }deg)`
     });
 
-    // watch(rotationEnd, (n) => {
-    //     animation.to = n;
-    // })
+    watch(activeStory, (n) => {
+        compassNeedleTurn();
+    })
 
 
 </script>

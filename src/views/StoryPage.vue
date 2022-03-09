@@ -37,5 +37,10 @@ const MarkdownComp = defineAsyncComponent(() => import(`../content/${storySlug.v
     </section>
 </template>
 
-<style scoped>
+<style>
+/* .story-h1 {
+    font-family: 'Changa One';
+    font-weight: normal;
+    font-size: 2rem;
+} */
 </style>
