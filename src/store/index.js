@@ -148,6 +148,14 @@ const store = createStore({
                     "slug": "kadripaev",
                     "tags" : [ "kadripäev", "santimine" ] 
                 },
+
+                // luule
+
+                // proosa
+
+                // muusika
+
+                // ühiskond
             ] 
         };
     },
