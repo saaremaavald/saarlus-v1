@@ -89,7 +89,7 @@ const store = createStore({
                     "tags" : [ "rahvajutt", "murdekeel", "Kihelkonna", "küla", "soo" ] 
                 },
                 {
-                    "title": "Järved ja jõed",
+                    "title": "Kuda on järved ja jöed tekkind?",
                     "slug": "jarved-ja-joed",
                     "tags" : [ "rahvajutt", "murdekeel", "Vanapagan", "järv", "jõgi", "meri", "laht", "loodus", "Kaarma" ] 
                 },
@@ -150,7 +150,81 @@ const store = createStore({
                 },
 
                 // luule
-
+                {
+                    "title": "Kidura looduse lopsakas hing",
+                    "slug": "aira-kaal-kidura-looduse-lopsakas-hing",
+                    "tags" : [ "väin", "raunjalg", "maokeel", "kuuvõtmehein", "pank", "paekivi" ] 
+                },
+                {
+                    "title": "Rannapargis / Udus",
+                    "slug": "debora-vaarandi-udus",
+                    "tags" : [ "udu", "park", "kiivitaja", "meri", "kurbus", "õnn", "tuul" ] 
+                },
+                {
+                    "title": "Keegi?",
+                    "slug": "aira-kaal-keegi",
+                    "tags" : [ ] 
+                },
+                {
+                    "title": "Ööviiul",
+                    "slug": "debora-vaarandi-ooviiul",
+                    "tags" : ["ööviiul", "suvi", "öö", "tuul", "luule"] 
+                },
+                {
+                    "title": "Bioloogiaõpetajale",
+                    "slug": "debora-vaarandi-bioloogiaopetajale",
+                    "tags" : ["vainurästas", "õpetaja", "bioloogia", "meri", "tamm"] 
+                },
+                {
+                    "title": "Saar",
+                    "slug": "debora-vaarandi-saar",
+                    "tags" : ["saar", "jää", "lumi", "meri", "rand", "tuul", "sügis"] 
+                },
+                {
+                    "title": "Kaks saarlast",
+                    "slug": "betti-alver-kaks-saarlast",
+                    "tags" : ["sõprus", "saarlane", "laul", "Suur Tõll", "luule", "tamm"] 
+                },
+                {
+                    "title": "Ma neiman mõrvarile ta oma relvaga",
+                    "slug": "andres-ehin-aavik",
+                    "tags" : [] 
+                },
+                {
+                    "title": "Kui rohu lillekesed kasvasivad...",
+                    "slug": "julie-ederberg",
+                    "tags" : [] 
+                },
+                {
+                    "title": "Lootus",
+                    "slug": "aira-kaal-lootus",
+                    "tags" : [] 
+                },
+                {
+                    "title": "Lahkumise laul",
+                    "slug": "aira-kaal-lahkumise-laul",
+                    "tags" : [] 
+                },
+                {
+                    "title": "Need kivid",
+                    "slug": "aira-kaal-need-kivid",
+                    "tags" : [] 
+                },
+                {
+                    "title": "Sandla majakas",
+                    "slug": "jaan-kaplinski-sandla-majakas",
+                    "tags" : [] 
+                },
+                {
+                    "title": "Kirjanikud suvel",
+                    "slug": "kirjanikud-suvel",
+                    "tags" : [] 
+                },
+                {
+                    "title": "Hüperborea",
+                    "slug": "aleksander-suuman-hyperborea",
+                    "tags" : [] 
+                },
                 // proosa
 
                 // muusika

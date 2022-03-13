@@ -1,5 +1,5 @@
 ---
-title: Järved ja jõed?
+title: Kuda on järved ja jöed tekkind?
 slug: jarved-ja-joed
 author: rahvajutt
 origin: Kirja pannud Amanda Rand oma vanaemalt Tamsalu külast Kaarma kihelkonnast.
@@ -16,8 +16,6 @@ tags: [rahvajutt, murdekeel, Vanapagan, järv, jõgi, meri, laht, loodus, Kaarma
 <h1 class="story-h1">
     {{frontmatter.title}}
 </h1>
-
-Fotole allkiri: Kuda on järved ja jöed tekkind?
 
 Kui vanapagan oli alles eland maa peal, siis sattus ta inimestega tülli ja tahtis neid uputada.
 

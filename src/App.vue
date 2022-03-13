@@ -8,7 +8,7 @@ import NaviMain from './components/NaviMain.vue'
 
 <template>
 
-<navi-main class="sticky top-0" />
+<navi-main class="sticky top-0 z-100" />
 <router-view :key="$route.path" />
 
 <!-- <div class="flex md: < flex-col lg:flex-row justify-center items-center p-10"> -->
