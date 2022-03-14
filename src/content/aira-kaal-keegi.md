@@ -9,7 +9,7 @@ images: [
     }
 ]
 # dictionary: [[ei, ole]]
-# tags: []
+# tags: [luule, aira kaal, kodanik, kena, kirjanik, naine]
 ---
 
 <h1 class="story-h1">
