@@ -9,7 +9,7 @@ const store = createStore({
             modalOpen: false,
             stories : [
                 {
-                    "title": "Meeste ja naiste loomine",
+                    "title": "Kuidas saarlaste arvates mehed ja naised loodi?",
                     "slug": "meeste-ja-naiste-loomine",
                     "tags" : [ "rahvajutt" ],
                 },

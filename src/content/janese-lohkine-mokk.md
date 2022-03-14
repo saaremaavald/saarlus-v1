@@ -16,10 +16,10 @@ tags: [rahvajutt, that]
 
 ---
 
-<!-- 
+
 <h1 class="story-h1">
     {{frontmatter.title}}
-</h1> -->
+</h1>
 
 Kord pidasivad veiksed valged jänesed nöu siitmaalt ära minna, sest siin ei karda ükski loom neid. „Kus piaksime minema?“ küsis keegi nendest, „kus piaksime seesugusid eest leidma, kes meid kardavad?“
 
