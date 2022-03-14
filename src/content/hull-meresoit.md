@@ -1,5 +1,5 @@
 ---
-title: Hull meresõit
+title: So kõige ullem meresõit?
 slug: hull-meresoit
 author: rahvajutt
 origin: Jutustanud Jaan Hannus Kipi külast Kihelkonna kihelkonnast
