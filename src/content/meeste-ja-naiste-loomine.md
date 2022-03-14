@@ -2,7 +2,7 @@
 title: Kuidas saarlaste arvates mehed ja naised loodi?
 slug: meeste-ja-naiste-loomine
 author: rahvajutt
-origin: Jutustanud Villem Tulit, Praakli külast, Kaarma kihelkonnast.
+origin: Jutustanud Villem Tulit Praakli külast Kaarma kihelkonnast.
 images: [
     {
         src: mehed-naised_01.webp,
@@ -57,6 +57,4 @@ Andand inimestele raha niidi ostmise jäuks. Ühed raiskand eesel raha muist äe
 - Värviliste tegelastega minikoomiks: **Karin Toom** Tartu Kunstikoolist
 
 </details-wrapper>
-
-
 
