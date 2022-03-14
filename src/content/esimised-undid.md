@@ -1,5 +1,5 @@
 ---
-title: Esimised undid
+title: Kes esimised undid lõi?
 slug: esimised-undid
 author: rahvajutt
 origin: Kirja pannud Karl Gustav Jansen Karja kihelkonnas
