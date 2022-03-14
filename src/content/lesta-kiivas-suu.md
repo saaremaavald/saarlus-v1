@@ -1,5 +1,5 @@
 ---
-title: Lesta kiivas suu
+title: Miks lesta suu kiivas on?
 slug: lesta-kiivas-suu
 author: rahvajutt
 origin: Jutustanud Jaak Lepik, pärit Salme külast Anseküla kihelkonnast. 
