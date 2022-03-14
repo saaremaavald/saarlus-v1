@@ -44,7 +44,7 @@ Andand inimestele raha niidi ostmise jäuks. Ühed raiskand eesel raha muist äe
 - Milliseid meeste ja naiste loomise lugusid sa veel tead?
 - Mida võiks selle rahvajutu põhjal järeldada saarlaste mõttemaailma kohta?
 - Mis sa arvad, miks on naine selles Saaremaa rahvajutus raiskaja ja mees kokkuhoidlik?
-- Kui sa vaatad 3 Tartu Kunstikooli õpilase tehtud minikoomiksit rahvajutust, siis kas erinev joonistusstiil annab jutule ka eri tähendusvarjundeid? Milliseid?
+- Kui sa vaatad Tartu Kunstikooli 3 õpilase tehtud minikoomiksit rahvajutust, siis kas erinev joonistusstiil annab jutule ka eri tähendusvarjundeid? Milliseid?
 
 </details-wrapper>
 
