@@ -1,5 +1,5 @@
 ---
-title: Jänese lõhkine mokk
+title: Miks veiksel valgel jänesel mokk löhki on?
 slug: janese-lohkine-mokk
 author: rahvajutt
 origin: Kirja pannud Juhan Ratas Lõve vallas Valjala kihelkonnas.
