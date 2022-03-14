@@ -1,8 +1,8 @@
 ---
 title: Mardipäev
 slug: mardipaev
-author: rahvajutt
-origin: Mari Lepik Sõrvest
+author: Mari Lepik 
+origin: Sõrvest
 images: [
     {
         src: "pahila-soo.webp"
@@ -10,7 +10,6 @@ images: [
 ]
 dictionary: [[ei, ole]]
 tags: [mardipäev, santimine]
-
 ---
 
 <h1 class="story-h1">
