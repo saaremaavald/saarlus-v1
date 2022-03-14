@@ -1,5 +1,5 @@
 ---
-title: Meeste ja naiste loomine
+title: Kuidas saarlaste arvates mehed ja naised loodi?
 slug: meeste-ja-naiste-loomine
 author: rahvajutt
 origin: Jutustanud Villem Tulit, Praakli külast, Kaarma kihelkonnast.
