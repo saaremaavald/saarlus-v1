@@ -1,5 +1,5 @@
 ---
-title: Murelik surnu
+title: Kes kolistas öösel teises toas?
 slug: murelik-surnu
 author: rahvajutt
 origin: Saaremaa tondijuttude kogumisvõistluse käigus kirja pannud Kerli Aksalu.
