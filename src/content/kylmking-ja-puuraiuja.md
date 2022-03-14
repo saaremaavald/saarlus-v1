@@ -1,5 +1,5 @@
 ---
-title: Külmking ja puuraiuja
+title: Mis külmking vanamehest tahtis?
 slug: kylmking-ja-puuraiuja
 author: rahvajutt
 origin: Kirja pannud J. Jõgi Kärla kihelkonnas.
