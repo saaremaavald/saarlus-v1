@@ -1,5 +1,5 @@
 ---
-title: Laevameeste-eksimus
+title: Mille otsa Inglis tiimer kinni joos?
 slug: laevameeste-eksimus
 author: rahvajutt
 origin: Jutustanud Aleksander Lepp Järise külast Mustjala kihelkonnast. 
@@ -19,7 +19,6 @@ tags: [rahvajutt, murdekeel, meri, kala, kammeljas, laev, Mustjala]
     {{frontmatter.title}}
 </h1>
 
-Fotole pealkiri: Mille otsa see Inglis tiimer kinni joos?
 
 Üks Inglis tiimer tuln ükskord Köpu otsa kuhal. Äkist näin – maa ees. Saan veel öigel ajal pidama, et pole kinni joos. Meistel old ee meel suur, et söukse maa olid Paldi merest leind, mida enne keski pole teednd. Kohe taarist Peeterpurki aru viia, et nad selle leind on. Kes teeb, mis nad selle ülesleidmise eest vöisid ää saaja.
 
