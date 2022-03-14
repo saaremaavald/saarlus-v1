@@ -1,5 +1,5 @@
 ---
-title: Ussid ning angerjad
+title: Kuda need ussid ja annergad siia ilma sigisid?
 slug: ussid-ning-angerjad
 author: rahvajutt
 origin: Jutustanud Mari Liiv Hõbeniku külast Püha kihelkonnast. 
@@ -17,10 +17,7 @@ tags: [rahvajutt, murdekeel, loodus, uss, angerjas, meri, Püha]
 <h1 class="story-h1">
     {{frontmatter.title}}
 </h1>
-
-Fotole: Kuda need ussid ja annergad siia ilma sigisid?
-Fotole väikselt: Küi on sõrve murdes vaskuss. Nime järgi uss, aga tegelikult?
-
+ 
 Kui Vanajumal ilma loos, siis ta viskand ülalt taevast pailajupi maha. Üks ots jäänd merese, teine maale. Pailajupp kukkund sedaviiti pooleks. Sellest poolest, mis kuivale jähi, sigisid ussid, teisest poolest tulid annergad.
 
 
@@ -30,6 +27,7 @@ Kui Vanajumal ilma loos, siis ta viskand ülalt taevast pailajupi maha. Üks ots
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
 - Nagu lugesid, tekkisid saarlaste arvates uss ja angerjas paelast. Austraallaste, maailma suurima saare ja samas väikseima mandri elanikel on maol tähtis roll maailma loomisel: https://www.aboriginal-art-australia.com/aboriginal-art-library/rainbow-serpent/, https://www.youtube.com/watch?v=pCuuRRrfOXo Mis on Saaremaa ja Austraalia lugudes ühist ja mis erinevat?
+- Kas panid tähele, et fotol on küi ehk Sõrve murdes vaskuss. Nime järgi uss, aga kes ta tegelikult on?
 - Milline on sinu suhe ussi ja angerjaga? Oled esimest kohanud ja teist söönud?
 - Mis seisus on Euroopa angerjas? https://arhiiv.err.ee/vaata/kaduva-maailma-lavel-angerjas
 - Milline on uss kultuuri ja zooloogia vaatevinklist? Aleksei Turovski teab: https://sirp.ee/s1-artiklid/c9-sotsiaalia/uss-kes-teadis-inimsonu/
