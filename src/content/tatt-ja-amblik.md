@@ -1,5 +1,5 @@
 ---
-title: Tatt ja ämblik
+title: Kas tahaksid elada linnas või maal?
 slug: tatt-ja-amblik
 author: rahvajutt
 origin: Kirja pannud Arnold Kuusk Räimaste külas Püha kihelkonnas. 
