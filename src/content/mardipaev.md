@@ -5,7 +5,10 @@ author: Mari Lepik
 origin: Sõrvest
 images: [
     {
-        src: "pahila-soo.webp"
+        src: "mardisant-1.webp"
+    },
+    {
+        src: "mardisant-2.webp"
     }
 ]
 dictionary: [[ei, ole]]

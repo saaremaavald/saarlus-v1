@@ -5,7 +5,7 @@ author: Debora Vaarandi
 origin: ""
 images: [
     {
-        src: "jarved-ja-joed.webp"
+        src: "debora-vaarandi-udus.webp"
     }
 ]
 dictionary: [[ei, ole]]

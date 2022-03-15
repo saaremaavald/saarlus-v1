@@ -5,7 +5,7 @@ author: Aira Kaal
 origin: ""
 images: [
     {
-        src: "jarved-ja-joed.webp"
+        src: "aira-kaal-keegi.webp"
     }
 ]
 # dictionary: [[ei, ole]]
@@ -20,7 +20,7 @@ Pean lõpuks mõistma, et ma olen keegi,
 jah, kodanik
 ja isegi instants
 ja antipood ja tüüp
-ja miski nähtus…
+ja miski nähtus...
 Ja vahest aruharva kirjanik.
 Ja vahest „keegi pikem kõhnem naine“.
 Kuid et ma olen inimeselaps,

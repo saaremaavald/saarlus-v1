@@ -5,7 +5,10 @@ author:
 origin:  
 images: [
     {
-        src: "lesta-kiivas-suu.webp"
+        src: "kadrisandid-1.webp"
+    },
+    {
+        src: "kadrisandid-2.webp"
     }
 ]
 dictionary: [[a, a]]

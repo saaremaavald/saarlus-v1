@@ -5,7 +5,7 @@ author: Aira Kaal
 origin: 
 images: [
     {
-        src: "jarved-ja-joed.webp"
+        src: "aira-kaal-lootus.webp"
     }
 ]
 # dictionary: [[ei, ole]]

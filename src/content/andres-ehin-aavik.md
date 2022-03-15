@@ -6,7 +6,7 @@ origin: Kuressaares 08. dets. 2005 <b>Johannes Aaviku</b>, suure keeleuuendaja 1
 
 images: [
     {
-        src: "jarved-ja-joed.webp"
+        src: "andres-ehin-aavik.webp"
     }
 ]
 # dictionary: [[ei, ole]]

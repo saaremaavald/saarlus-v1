@@ -5,7 +5,7 @@ author: Julie Wilhelmine Ederberg
 origin: 
 images: [
     {
-        src: "jarved-ja-joed.webp"
+        src: "julie-ederberg.webp"
     }
 ]
 # dictionary: [[ei, ole]]

@@ -2,10 +2,10 @@
 title: Kus on Saaremaa seljaroog ja kuidas sai Kuressaare oma nime?
 slug: suur-toll
 author: rahvajutt
-origin: unknown
+origin: ""
 images: [
     {
-        src: "saaremaa-rahvariided.webp"
+        src: "suur-toll.webp"
     }
 ]
 dictionary: [[ei, ole]]
@@ -22,9 +22,7 @@ Tõllu haud asub Hirmuste mäel Kärla kihelkonnas Saaremaal, kust tervelt seits
 
 
 
-
-
-<!-- <story-author :author="frontmatter.author" :origin="frontmatter.origin" /> -->
+<story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
@@ -43,12 +41,14 @@ Tõllu haud asub Hirmuste mäel Kärla kihelkonnas Saaremaal, kust tervelt seits
 
 </details-wrapper>
 
+<h2>Retsept</h2>
+
 800 g soolatud läbikasvanud sealiha
 1 keskmine kaalikas
 4-5 keskmist porgandit
 1 väike kapsapea
-8-10 keskmist kartulid
+8-10 keskmist kartulit
 hakitud maitserohelist
 
-2018. oli Euroopas kultuuripärandi aasta. Tartu Kunstikooli õpilased kujundasid reklaami ja piktograafia tundides eesti rahvusköögi toiduainetest eesti rahvakultuuri elemente ja kunstiteoseid. Kujundajad, stilistid ja dekoraatorid uurisid kohalike juurviljade, puuviljade, kala ja liha värve ning vorme eesmärgiga panna Eesti pered värske pilguga eesti toiduaineid ja eesti kultuuripärandit vaatama. NB! Toidukunstiteosed polnud mõeldud pakkuma mitte niivõrd uusi serveerimisviise, kuivõrd leidma eesti rahvusköögi retseptidest, mille lõplik vorm võib olla kollakas mass nagu kartulipudrul või roosakas-hallikas mass nagu rosoljel, algsed värvid ja vormid, ning taasleidma need eesti rahvakultuuris ning kunstis.
+2018\. oli Euroopas kultuuripärandi aasta. Tartu Kunstikooli õpilased kujundasid reklaami ja piktograafia tundides eesti rahvusköögi toiduainetest eesti rahvakultuuri elemente ja kunstiteoseid. Kujundajad, stilistid ja dekoraatorid uurisid kohalike juurviljade, puuviljade, kala ja liha värve ning vorme eesmärgiga panna Eesti pered värske pilguga eesti toiduaineid ja eesti kultuuripärandit vaatama. NB! Toidukunstiteosed polnud mõeldud pakkuma mitte niivõrd uusi serveerimisviise, kuivõrd leidma eesti rahvusköögi retseptidest, mille lõplik vorm võib olla kollakas mass nagu kartulipudrul või roosakas-hallikas mass nagu rosoljel, algsed värvid ja vormid, ning taasleidma need eesti rahvakultuuris ning kunstis.
 Toiduained andis õpilastele küsimise peale lahkelt COOP. Õpilased andsid endast parima, et toiduained ära kasutada.

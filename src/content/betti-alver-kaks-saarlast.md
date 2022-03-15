@@ -5,7 +5,7 @@ author: Betti Alver
 origin: ""
 images: [
     {
-        src: "jarved-ja-joed.webp"
+        src: "betti-alver-kaks-saarlast.webp"
     }
 ]
 # dictionary: [[ei, ole]]
