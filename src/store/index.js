@@ -153,12 +153,12 @@ const store = createStore({
                 {
                     "title": "Kidura looduse lopsakas hing",
                     "slug": "aira-kaal-kidura-looduse-lopsakas-hing",
-                    "tags" : [ "Aira Kaal", "hing", "väin", "raunjalg", "maokeel", "kuuvõtmehein", "pank", "paekivi", "loodus" ] 
+                    "tags" : [ "Aira Kaal", "hing", "väin", "raunjalg", "maokeel", "kuuvõtmehein", "pank", "paekivi", "sinine" ] 
                 },
                 {
                     "title": "Rannapargis / Udus",
                     "slug": "debora-vaarandi-udus",
-                    "tags" : [ "udu", "park", "kiivitaja", "meri", "kurbus", "õnn", "tuul", "Debora Vaarandi", "luule" ] 
+                    "tags" : [ "udu", "park", "kiivitaja", "meri", "kurbus", "õnn", "tuul", "Debora Vaarandi", "luule", "hall", "must" ] 
                 },
                 {
                     "title": "Keegi?",
@@ -168,22 +168,22 @@ const store = createStore({
                 {
                     "title": "Ööviiul",
                     "slug": "debora-vaarandi-ooviiul",
-                    "tags" : ["ööviiul", "suvi", "öö", "tuul", "luule", "armastus", "Debora Vaarandi" ] 
+                    "tags" : ["ööviiul", "suvi", "öö", "tuul", "luule", "armastus", "Debora Vaarandi", "valge" ] 
                 },
                 {
                     "title": "Bioloogiaõpetajale",
                     "slug": "debora-vaarandi-bioloogiaopetajale",
-                    "tags" : [ "vainurästas", "õpetaja", "bioloogia", "meri", "tamm", "Debora Vaarandi" ] 
+                    "tags" : [ "vainurästas", "õpetaja", "bioloogia", "meri", "tamm", "Debora Vaarandi", "must" ] 
                 },
                 {
                     "title": "Saar",
                     "slug": "debora-vaarandi-saar",
-                    "tags" : ["saar", "jää", "lumi", "meri", "rand", "tuul", "sügis", "Debora Vaarandi" ] 
+                    "tags" : ["saar", "jää", "lumi", "meri", "rand", "tuul", "sügis", "Debora Vaarandi", "hall", "ruske" ] 
                 },
                 {
                     "title": "Kaks saarlast",
                     "slug": "betti-alver-kaks-saarlast",
-                    "tags" : [ "Betti Alver", "sõprus", "saarlane", "laul", "Suur Tõll", "luule", "tamm" ] 
+                    "tags" : [ "Betti Alver", "sõprus", "saarlane", "laul", "Suur Tõll", "luule", "tamm", "valge", "must" ] 
                 },
                 {
                     "title": "Ma neiman mõrvarile ta oma relvaga",
@@ -203,12 +203,12 @@ const store = createStore({
                 {
                     "title": "Lahkumise laul",
                     "slug": "aira-kaal-lahkumise-laul",
-                    "tags" : [ "Aira Kaal", "murdekeel", "Orissaare", "süda", "Väikese väina tamm", "meri", "Virtsu", "koduigatsus", "luule" ] 
+                    "tags" : [ "Aira Kaal", "murdekeel", "Orissaare", "süda", "Väikese väina tamm", "meri", "Virtsu", "koduigatsus", "luule", "sinine", "roheline", "valge", "hall" ] 
                 },
                 {
                     "title": "Need kivid",
                     "slug": "aira-kaal-need-kivid",
-                    "tags" : [ "Aira Kaal", "kivi", "paas", "laul", "luule"] 
+                    "tags" : [ "Aira Kaal", "kivi", "paas", "laul", "luule", "valge"] 
                 },
                 {
                     "title": "Sandla majakas",
