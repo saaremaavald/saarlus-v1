@@ -116,12 +116,12 @@ const store = createStore({
                 {
                     "title": "Kes kala hülgeks nimetab?",
                     "slug": "hylgelaul",
-                    "tags" : [ "laul", "hüljes", "kala", "Jämaja" ] 
+                    "tags" : [ "laul", "hüljes", "kala", "Jämaja", "valge" ] 
                 },
                 {
                     "title": "Jää jumalaga, Mann, Nublu ja Rotterdam?",
                     "slug": "korgel-masti-tipus",
-                    "tags" : [ "laul", "Rotterdam", "meri", "laev", "Püha", "Muhu", "Nublu" ] 
+                    "tags" : [ "laul", "Rotterdam", "meri", "laev", "Püha", "Muhu", "Nublu", "sadam", "viin", "naine" ] 
                 },
                 {
                     "title": "Mis saab meestest mere põhjas?",
