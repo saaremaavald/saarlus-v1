@@ -26,7 +26,7 @@ const toggleMenu = () => {store.commit("toggleMenu", true)};
                 <ul class="grid grid-cols-1 gap-4
                 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
                     <li v-for="story in stories" :key="story.slug" >
-                        <router-link :to="`/lugu/${story.slug}`"
+                        <router-link @click="toggleMenu" :to="`/lugu/${story.slug}`"
                         class="flex justify-between items-baseline py-1 text-sm border-b border-transparent hover:border-gray-200 transition" :class="story.slug == activeStory.slug?'bg-yellow-200':''"><IconCaretRight class="flex-grow w-1/6"/><span class="flex-grow w-5/6 text-lg leading-tight">{{story.title}}</span></router-link>
                     </li>
                 </ul>
