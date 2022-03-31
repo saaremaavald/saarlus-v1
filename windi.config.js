@@ -1,5 +1,6 @@
 import { defineConfig } from 'windicss/helpers'
 import typography from 'windicss/plugin/typography'
+
 // import colors from 'windicss/colors'
 
 
@@ -10,7 +11,6 @@ export default defineConfig({
   //   exclude: ['node_modules', '.git', 'excluded', 'dist', 'windi.config.{ts,js}', 'tailwind.config.{ts,js}'],
   // },
   darkMode: 'class', // or 'media'
-  plugins: [ typography ],
   // preflight: false,
   theme: {
     extend: {
@@ -43,5 +43,8 @@ export default defineConfig({
     'story-h2' : 'my-6 text-3xl font-saaremaa font-normal text-saarlus-700',
     'story-origin': 'px-4 my-8 pt-4 italic border-t-1 border-t-gray-200',
   },
-    
+  plugins: [ 
+    typography,
+    require('@windicss/plugin-scrollbar'), 
+  ],  
 })

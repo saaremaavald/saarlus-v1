@@ -20,6 +20,7 @@
     "@iconify-json/icon-park": "^1.0.2",
     "@iconify-json/icon-park-outline": "^1.0.2",
     "@vitejs/plugin-vue": "^2.0.0",
+    "@windicss/plugin-scrollbar": "^1.2.3",
     "unplugin-icons": "^0.13.0",
     "unplugin-vue-components": "^0.17.14",
     "vite": "^2.7.2",
