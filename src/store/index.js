@@ -12,20 +12,20 @@ const store = createStore({
                 {
                     "title": "Kuidas saarlaste arvates mehed ja naised loodi?",
                     "slug": "meeste-ja-naiste-loomine",
-                    "tags" : [ "rahvajutt" ],
+                    "tags" : [ "rahvajutt", "mees", "naine", "jumal", "murdekeel", "Kaarma" ],
                 },
                 {
-                    "title": "Esimised undid",
+                    "title": "Kes esimised undid lõi?",
                     "slug": "esimised-undid",
                     "tags" : [ "rahvajutt", "murdekeel", "hunt", "loodus", "Karja" ],
                 },
                 {
-                    "title": "Hull meresõit",
+                    "title": "So kõige ullem meresõit?",
                     "slug": "hull-meresoit",
                     "tags" : [ "rahvajutt", "meri", "laev", "murdekeel", "Kihelkonna" ],
                 },
                 {
-                    "title": "Undiks käimine",
+                    "title": "Mis oleks, kui käiksid korra undiks?",
                     "slug": "undiks-kaimine",
                     "tags" : [ "rahvajutt", "hunt", "libahunt", "murdekeel", "Pöide" ], 
                 },
@@ -35,7 +35,7 @@ const store = createStore({
                     "tags" : [ "rahvajutt", "murdekeel", "Kaali järv" ], 
                 },
                 {
-                    "title": "Jänese lõhkine mokk",
+                    "title": "Miks veiksel valgel jänesel mokk löhki on?",
                     "slug": "janese-lohkine-mokk",
                     "tags" : [ "rahvajutt", "murdekeel", "jänes", "loodus", "Valjala", "T-särk", "foto", "muusika", "lammas", "kiviaed" ], 
                 },
@@ -45,27 +45,27 @@ const store = createStore({
                     "tags" : [ "rahvajutt", "murdekeel", "haldjad", "soo", "naine", "tammik", "Karja" ] 
                 },
                 {
-                    "title": "Külmking ja puuraiuja",
+                    "title": "Mis külmking vanamehest tahtis?",
                     "slug": "kylmking-ja-puuraiuja",
                     "tags" : [ "rahvajutt", "murdekeel", "räim", "kala", "Kärla", "külmking", "mets", "hunt", "kartul", "kalapahl" ] 
                 },
                 {
-                    "title": "Laevameeste eksimus",
+                    "title": "Mille otsa Inglis tiimer kinni joos?",
                     "slug": "laevameeste-eksimus",
                     "tags" : [ "rahvajutt", "murdekeel", "meri", "kala", "kammeljas", "laev", "Mustjala" ] 
                 },
                 {
-                    "title": "Lesta kiivas suu",
+                    "title": "Miks lesta suu kiivas on?",
                     "slug": "lesta-kiivas-suu",
                     "tags" : [ "rahvajutt", "lest", "murdekeel", "Anseküla" ] 
                 },
                 {
-                    "title": "Murelik surnu",
+                    "title": "Kes kolistas öösel teises toas?",
                     "slug": "murelik-surnu",
                     "tags" : [ "rahvajutt", "surm", "Kaarma" ] 
                 },
                 {
-                    "title": "Rehepapp",
+                    "title": "Mis abi saab sellest, kui pill üüab? Napsu pealt?",
                     "slug": "rehepapp",
                     "tags" : [ "rahvajutt", "murdekeel", "rehepapp", "Vanapagan", "torupill", "muusika", "Muhu" ] 
                 },
@@ -75,12 +75,12 @@ const store = createStore({
                     "tags" : [ "rahvajutt", "murdekeel", "meri", "laev", "Kihelkonna", "haakrik" ] 
                 },
                 {
-                    "title": "Tatt ja ämblik",
+                    "title": "Kas tahaksid elada linnas või maal?",
                     "slug": "tatt-ja-amblik",
-                    "tags" : [ "rahvajutt", "murdekeel", "loodus", "Püha", "Nasva" ] 
+                    "tags" : [ "rahvajutt", "murdekeel", "loodus", "Püha", "Nasva", "linn", "maa" ] 
                 },
                 {
-                    "title": "Ussid ning annergad",
+                    "title": "Kuda need ussid ja annergad siia ilma sigisid?",
                     "slug": "ussid-ning-angerjad",
                     "tags" : [ "rahvajutt", "murdekeel", "loodus", "uss", "angerjas", "meri", "Püha" ] 
                 },
@@ -110,34 +110,34 @@ const store = createStore({
                     "tags" : [ "rahvariided" ] 
                 },
                 {
-                    "title": "Saaremaa sokud",
+                    "title": "Kuidas Saaremaal sokku teha?",
                     "slug": "saaremaa-sokud",
-                    "tags" : [ "sokud", "santimine" ] 
+                    "tags" : [ "sokud", "santimine", "uusaasta" ] 
                 },
                 {
                     "title": "Kes kala hülgeks nimetab?",
                     "slug": "hylgelaul",
-                    "tags" : [ "muusika", "hüljes", "kala", "Jämaja" ] 
+                    "tags" : [ "laul", "hüljes", "kala", "Jämaja", "valge" ] 
                 },
                 {
-                    "title": "Kõrgel masti tipus",
+                    "title": "Jää jumalaga, Mann, Nublu ja Rotterdam?",
                     "slug": "korgel-masti-tipus",
-                    "tags" : [ "muusika", "Rotterdam", "meri", "laev", "Püha", "Muhu" ] 
+                    "tags" : [ "laul", "Rotterdam", "meri", "laev", "Püha", "Muhu", "Nublu", "sadam", "viin", "naine" ] 
                 },
                 {
                     "title": "Mis saab meestest mere põhjas?",
                     "slug": "laevahukk",
-                    "tags" : [ "muusika", "Valjala", "Pöide", "meri", "laev", "laevahukk", "kala" ] 
+                    "tags" : [ "laul", "Valjala", "Pöide", "meri", "laev", "laevahukk", "kala", "sool" ] 
                 },
                 {
-                    "title": "See Saaremaa",
+                    "title": "Kas tede poisid saavad mede poiste vasta?",
                     "slug": "see-saaremaa",
-                    "tags" : [ "muusika", "poiss", "meri", "maa", "Valjala" ] 
+                    "tags" : [ "laul", "poiss", "meri", "maa", "Valjala" ] 
                 },
                 {
                     "title": "Millest laulab saarlane?",
                     "slug": "see-saaremaa-2",
-                    "tags" : [ "muusika", "Valjala", "meri", "kuu", "kajakas", "paat" ] 
+                    "tags" : [ "laul", "Valjala", "meri", "kuu", "kajakas", "paat" ] 
                 },
                 {
                     "title": "Kas sa Saaremaa Toivot tead?",
@@ -154,67 +154,67 @@ const store = createStore({
                 {
                     "title": "Kidura looduse lopsakas hing",
                     "slug": "aira-kaal-kidura-looduse-lopsakas-hing",
-                    "tags" : [ "väin", "raunjalg", "maokeel", "kuuvõtmehein", "pank", "paekivi" ] 
+                    "tags" : [ "Aira Kaal", "hing", "väin", "raunjalg", "maokeel", "kuuvõtmehein", "pank", "paekivi", "sinine" ] 
                 },
                 {
                     "title": "Rannapargis / Udus",
                     "slug": "debora-vaarandi-udus",
-                    "tags" : [ "udu", "park", "kiivitaja", "meri", "kurbus", "õnn", "tuul" ] 
+                    "tags" : [ "udu", "park", "kiivitaja", "meri", "kurbus", "õnn", "tuul", "Debora Vaarandi", "luule", "hall", "must" ] 
                 },
                 {
                     "title": "Keegi?",
                     "slug": "aira-kaal-keegi",
-                    "tags" : [ ] 
+                    "tags" : [ "Aira Kaal", "kodanik", "kirjanik", "naine", "kena", "luule" ] 
                 },
                 {
                     "title": "Ööviiul",
                     "slug": "debora-vaarandi-ooviiul",
-                    "tags" : ["ööviiul", "suvi", "öö", "tuul", "luule"] 
+                    "tags" : ["ööviiul", "suvi", "öö", "tuul", "luule", "armastus", "Debora Vaarandi", "valge" ] 
                 },
                 {
                     "title": "Bioloogiaõpetajale",
                     "slug": "debora-vaarandi-bioloogiaopetajale",
-                    "tags" : ["vainurästas", "õpetaja", "bioloogia", "meri", "tamm"] 
+                    "tags" : [ "vainurästas", "õpetaja", "bioloogia", "meri", "tamm", "Debora Vaarandi", "must" ] 
                 },
                 {
                     "title": "Saar",
                     "slug": "debora-vaarandi-saar",
-                    "tags" : ["saar", "jää", "lumi", "meri", "rand", "tuul", "sügis"] 
+                    "tags" : ["saar", "jää", "lumi", "meri", "rand", "tuul", "sügis", "Debora Vaarandi", "hall", "ruske" ] 
                 },
                 {
                     "title": "Kaks saarlast",
                     "slug": "betti-alver-kaks-saarlast",
-                    "tags" : ["sõprus", "saarlane", "laul", "Suur Tõll", "luule", "tamm"] 
+                    "tags" : [ "Betti Alver", "sõprus", "saarlane", "laul", "Suur Tõll", "luule", "tamm", "valge", "must" ] 
                 },
                 {
                     "title": "Ma neiman mõrvarile ta oma relvaga",
                     "slug": "andres-ehin-aavik",
-                    "tags" : [] 
+                    "tags" : [ "Johannes Aavik", "keeleuuendus", "Andres Ehin", "luule"] 
                 },
                 {
                     "title": "Kui rohu lillekesed kasvasivad...",
                     "slug": "julie-ederberg",
-                    "tags" : [] 
+                    "tags" : [ "Julie Ederberg", "luule", "emakeel", "isamaa", "võim", "armastus", "taevas" ] 
                 },
                 {
                     "title": "Lootus",
                     "slug": "aira-kaal-lootus",
-                    "tags" : [] 
+                    "tags" : [ "saarlane", "Aira Kaal", "luule"] 
                 },
                 {
                     "title": "Lahkumise laul",
                     "slug": "aira-kaal-lahkumise-laul",
-                    "tags" : [] 
+                    "tags" : [ "Aira Kaal", "murdekeel", "Orissaare", "süda", "Väikese väina tamm", "meri", "Virtsu", "koduigatsus", "luule", "sinine", "roheline", "valge", "hall" ] 
                 },
                 {
                     "title": "Need kivid",
                     "slug": "aira-kaal-need-kivid",
-                    "tags" : [] 
+                    "tags" : [ "Aira Kaal", "kivi", "paas", "laul", "luule", "valge"] 
                 },
                 {
                     "title": "Sandla majakas",
                     "slug": "jaan-kaplinski-sandla-majakas",
-                    "tags" : [] 
+                    "tags" : [ "Jaan Kaplinski", "Sandla", "majakas", "Püha", "meri", "põld", "tee", "luule", "rõõm" ] 
                 },
                 {
                     "title": "Kirjanikud suvel",
