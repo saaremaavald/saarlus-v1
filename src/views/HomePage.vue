@@ -128,7 +128,7 @@
                     :data-idx="i"
                     :key="`point+${i}`"
                     @click="activeStory = i"
-                    class="compass-story"
+                    class="compass-story "
                 />
             </svg>
             <story-tooltip :storyIdx="activeStory" />
@@ -151,7 +151,7 @@
         width: 70vmin;
     } */
     .compass-story {
-        fill: var(--saarlus-700);
+        fill: var(--saarlus--700);
         cursor: pointer;
     }
     .compass-needle {
