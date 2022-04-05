@@ -154,7 +154,7 @@ const store = createStore({
                 {
                     "title": "Kidura looduse lopsakas hing",
                     "slug": "aira-kaal-kidura-looduse-lopsakas-hing",
-                    "tags" : [ "Aira Kaal", "hing", "väin", "raunjalg", "maokeel", "kuuvõtmehein", "pank", "paekivi", "sinine" ] 
+                    "tags" : [ "Aira Kaal", "hing", "väin", "raunjalg", "maokeel", "kuuvõtmehein", "pank", "luule", "paekivi", "sinine" ] 
                 },
                 {
                     "title": "Rannapargis / Udus",
@@ -174,12 +174,12 @@ const store = createStore({
                 {
                     "title": "Bioloogiaõpetajale",
                     "slug": "debora-vaarandi-bioloogiaopetajale",
-                    "tags" : [ "vainurästas", "õpetaja", "bioloogia", "meri", "tamm", "Debora Vaarandi", "must" ] 
+                    "tags" : [ "vainurästas", "õpetaja", "bioloogia", "meri", "tamm", "Debora Vaarandi", "luule", "must" ] 
                 },
                 {
                     "title": "Saar",
                     "slug": "debora-vaarandi-saar",
-                    "tags" : ["saar", "jää", "lumi", "meri", "rand", "tuul", "sügis", "Debora Vaarandi", "hall", "ruske" ] 
+                    "tags" : ["saar", "jää", "lumi", "meri", "rand", "tuul", "sügis", "Debora Vaarandi", "hall", "luule", "ruske" ] 
                 },
                 {
                     "title": "Kaks saarlast",

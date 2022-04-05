@@ -64,7 +64,7 @@ onMounted(() => {
                 font-saaremaa text-4xl text-saarlus-700
             ">Lugude nimekiri</h1>
 
-            <div class="flex flex-wrap gap-x-1 gap-y-2 border-solid border-t-2 border-b-2 py-6">
+            <div class="flex flex-wrap gap-x-1 gap-y-2 border-solid border-t-2 border-b-2 py-6 my-6">
                 <story-tag v-for="tag in tags" @click="toggleTag(tag)" :label="tag" :key="tag" />
             </div>
 
