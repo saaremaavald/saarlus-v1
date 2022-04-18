@@ -224,10 +224,44 @@ const store = createStore({
                 {
                     "title": "Hüperborea",
                     "slug": "aleksander-suuman-hyperborea",
-                    "tags" : [] 
+                    "tags" : ["Aleksander Suuman"] 
                 },
                 // proosa
-
+                {
+                    "title": "Kaks saarlast",
+                    "slug": "betti-alver-kaks-saarlast-saamislugu",
+                    "tags" : ["Betti Alver", "saarlane", "proosa"] 
+                },
+                {
+                    "title": "Kas on kuskil see kadakaaru?",
+                    "slug": "debora-vaarandi-kadakaaru",
+                    "tags" : ["Debora Vaarandi","proosa", "maailmavalu"] 
+                },
+                {
+                    "title": "Esimese raamatu kujunemislugu",
+                    "slug": "oskar-kruus-mandmets",
+                    "tags" : ["Oskar Kruus","Jakob Mändmets", "proosa"] 
+                },
+                {
+                    "title": "Montreal-Vancouver",
+                    "slug": "aadu-hint-montreal-vancouver",
+                    "tags" : ["Aadu Hint","Kanda", "proosa"] 
+                },
+                {
+                    "title": "Räim",
+                    "slug": "jyri-tuulik-raim",
+                    "tags" : ["Jüri Tuulik","räim", "proosa", "kala", "kalapüük", "toit"] 
+                },
+                {
+                    "title": "Oma saar",
+                    "slug": "aira-kaal-oma-saar",
+                    "tags" : ["Aira Kaal", "proosa"] 
+                },
+                {
+                    "title": "Siit sa oled, siia sa jääd mereveerele",
+                    "slug": "kaplinski-siit-sa-oled",
+                    "tags" : ["Jaan Kaplinski", "proosa"] 
+                },
                 // muusika
 
                 // ühiskond

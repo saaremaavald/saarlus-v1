@@ -21,6 +21,7 @@ a {
 
 .markdown-body ul {
     list-style-type: disc;
+    margin-bottom: 1em;
 }
 .markdown-body a {
     text-decoration: underline;
@@ -28,6 +29,13 @@ a {
     /* text-decoration-skip: ; */
 }
 .markdown-body p {
+    margin-bottom: 1em;
+}
+
+.markdown-body h3 {
+    color: var(--saarlus--700);
+    font-weight: bold;
+    margin-top: 2em;
     margin-bottom: 1em;
 }
 
