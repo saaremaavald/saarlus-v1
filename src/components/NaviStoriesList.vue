@@ -2,11 +2,15 @@
 
 import {ref, computed, onMounted} from "vue";
 import { useStore } from 'vuex';
-import StoryTag from "./StoryTag.vue"; 
+import StoryTag from "./StoryTag.vue";
+import IconButton from "./IconButton.vue"; 
+
 const store = useStore();
 const stories = ref(store.state.stories);
 const activeStory = ref(computed(()=>store.getters.activeStory));
 const toggleMenu = () => {store.commit("toggleMenu", true)};
+const tagsOpen = ref(computed(() => store.getters.tagsOpen));
+const toggleTags = () => {store.commit("toggleTags", true)};
 
 const tags = ref();
 const activeTags = ref([]);
@@ -21,15 +25,15 @@ const toggleTag = (tag) => {
 
 };
 
-const findCommonTags = () => {
-    if (activeTags.value.length == 0){
-        console.log("length 0");
-        return true;
-    } else {
-        console.log("length bigger");
-        activeTags.value.some(item => tags.value.includes(item));
-    }
-}
+// const findCommonTags = () => {
+//     if (activeTags.value.length == 0){
+//         console.log("length 0");
+//         return true;
+//     } else {
+//         console.log("length bigger");
+//         activeTags.value.some(item => tags.value.includes(item));
+//     }
+// }
 
 const sortedTags = () => {
   return [...tags.value].sort( (a, b) => {
@@ -64,9 +68,13 @@ onMounted(() => {
                 font-saaremaa text-4xl text-saarlus-700
             ">Lugude nimekiri</h1>
 
-            <div class="flex flex-wrap gap-x-1 gap-y-2 border-solid border-t-2 border-b-2 py-6 my-6">
-                <story-tag v-for="tag in tags" @click="toggleTag(tag)" :label="tag" :key="tag" />
-            </div>
+            <IconButton label="Sildid" icon="IconTagOne" @click="toggleTags" />
+
+            <!-- <section v-if="tagsOpen"> -->
+                <div class="flex flex-wrap gap-x-1 gap-y-2 border-solid border-t-2 border-b-2 my-6 overflow-hidden transition-all" :class="tagsOpen ? 'h-auto py-6' : 'h-0 py-0'">
+                    <story-tag v-for="tag in tags" @click="toggleTag(tag)" :label="tag" :key="tag" />
+                </div>
+            <!-- </section> -->
 
             <nav class="py-4 h-full">
                 <ul v-if="tags" class="grid grid-cols-1 gap-4

@@ -5,10 +5,12 @@ author:
 origin:  
 images: [
     {
-        src: "kadrisandid-1.webp"
+        src: "kadrisandid-1.webp",
+        zoom: true
     },
     {
-        src: "kadrisandid-2.webp"
+        src: "kadrisandid-2.webp",
+        zoom: true
     }
 ]
 dictionary: [[a, a]]

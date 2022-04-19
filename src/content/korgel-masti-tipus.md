@@ -1,5 +1,5 @@
 ---
-title: Kõrgel masti tipus
+title: Jää jumalaga, Mann, Nublu ja Rotterdam?
 slug: korgel-masti-tipus
 author: rahvajutt
 origin:  
@@ -17,8 +17,6 @@ tags: [muusika, Rotterdam, meri, laev, Püha, Muhu ]
 <h1 class="story-h1">
     {{frontmatter.title}}
 </h1>
-
-Fotole pealkiri: Jää jumalaga, Mann, Nublu ja Rotterdam?
 
 Laula kaasa Juuli Kaldiga! https://www.folklore.ee/pubte/eraamat/saaremaa/ee/27-korgel-masti-tipus
 

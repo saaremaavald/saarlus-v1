@@ -8,6 +8,7 @@ const store = createStore({
             activeStory : {},
             modalOpen: false,
             menuOpen: false,
+            tagsOpen: false,
             stories : [
                 {
                     "title": "Kuidas saarlaste arvates mehed ja naised loodi?",
@@ -281,11 +282,14 @@ const store = createStore({
         menuOpen(state){
             return state.menuOpen;
         },
+        tagsOpen(state){
+            return state.tagsOpen;
+        },
     },
     mutations : {
         setActiveStory(state, frontmatter) {
             state.activeStory = frontmatter;
-            // console.log("Active changed:" + state.activeStory.origin);
+            console.log("Active changed:" + state.activeStory.images);
         },
         toggleModal(state) {
             state.modalOpen = !state.modalOpen;
@@ -293,6 +297,9 @@ const store = createStore({
         },
         toggleMenu(state) {
             state.menuOpen = !state.menuOpen;
+        },
+        toggleTags(state) {
+            state.tagsOpen = !state.tagsOpen;
         },
     }
 });

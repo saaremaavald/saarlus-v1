@@ -18,8 +18,6 @@ tags: [muusika, poiss, meri, maa, Valjala ]
     {{frontmatter.title}}
 </h1>
 
-Pildile pealkiri: Kas tede poisid saavad mede poiste vasta?
-
 Laula kaasa: https://www.folklore.ee/pubte/eraamat/saaremaa/ee/16-see-saaremaa
 
 

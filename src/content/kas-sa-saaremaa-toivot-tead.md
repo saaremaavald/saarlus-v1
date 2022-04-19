@@ -18,8 +18,6 @@ tags: [meri, kala, kalapüük, paat, Nasva ]
     {{frontmatter.title}}
 </h1>
 
-Fotole pealkiri: Kas sa Saaremaa Toivot tead? 
-
 Saa tuttavaks - see on Saaremaa Toivo: https://arhiiv.err.ee/vaata/kalamehe-jutud-saaremaa-toivo
 
 

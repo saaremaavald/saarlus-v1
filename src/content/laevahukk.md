@@ -18,8 +18,6 @@ tags: [muusika, Valjala, Pöide, meri, laev, laevahukk, kala ]
     {{frontmatter.title}}
 </h1>
 
-Pildile pealkiri: Mis saab meestest mere põhjas?
-
 Laula kaasa: https://www.folklore.ee/pubte/eraamat/saaremaa/ee/01-laevahukk
 
 

@@ -17,8 +17,6 @@ tags: [muusika, hüljes, kala, Jämaja]
     {{frontmatter.title}}
 </h1>
 
-Fotole pealkiri: Kes kala hülgeks nimetab?
-
 Lihtsalt laula kaasa! https://www.folklore.ee/pubte/eraamat/saaremaa/ee/32-kuunlakuus-kui-ilm-on-kare
 
 
