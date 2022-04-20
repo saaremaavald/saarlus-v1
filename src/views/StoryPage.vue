@@ -18,10 +18,11 @@ const MarkdownComp = defineAsyncComponent(() => import(`../content/${storySlug.v
 
 <template>
     <section class="flex items-stretch shadow-md">
-        <image-wrapper 
-            v-for="(img, i) in activeStory.images" :key="`img${i}`"
-            :src="img.src" :zoom="img.zoom" :bgPos="img.bgPos" :bgSize="img.bgSize" :height="img.height" />
-        
+        <template v-for="(img, i) in activeStory.images" :key="`img${i}`">
+            <image-wrapper
+                :src="img.src" :zoom="img.zoom" :bgPos="img.bgPos" :bgSize="img.bgSize" :height="img.height" 
+            />
+        </template>
         <!-- <image-wrapper 
             v-for="(img, i) in stories[storyIdx].images" :key="`img${i}`"
             :src="img.src" :zoom="img.zoom" :bgPos="img.bgPos" :bgSize="img.bgSize" :height="img.height" /> -->
@@ -29,9 +30,9 @@ const MarkdownComp = defineAsyncComponent(() => import(`../content/${storySlug.v
     <section>
         <div class="story-container">
             <component :is="MarkdownComp" />
-    <footer>
-        <navi-prev-next :idx="storyIdx" :slug="storySlug" />
-    </footer>
+            <footer>
+                <navi-prev-next :idx="storyIdx" :slug="storySlug" />
+            </footer>
         </div>
     </section>
 </template>

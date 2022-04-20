@@ -14,7 +14,7 @@ const store = useStore();
 </script>
 
 <template>
-<navi-main class="sticky top-0 z-100" />
+<navi-main class="sticky top-0 z-100"  />
 
 <div class="grid grid-cols-12">
   <div class="
