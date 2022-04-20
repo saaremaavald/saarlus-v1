@@ -24,7 +24,7 @@ tags: [kadripäev, santimine ]
 </h1>
 
 
-**Mari Lepik** Sõrvest kirjutab kadripäevast: 
+**Mari Lepik** Sõrvest kirjutab kadripäevast:
 
 “Kadrilaupäeva õhtuks on tüdrukud juba nii palju kedranud, et... lihtsalt... et lihtsalt ei suuda enam.
 
