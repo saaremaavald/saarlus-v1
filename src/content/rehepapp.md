@@ -18,7 +18,6 @@ tags: [rahvajutt, murdekeel, rehepapp, Vanapagan, torupill, muusika, Muhu]
     {{frontmatter.title}}
 </h1>
 
-Fotole küsimus: Mis abi saab sellest, kui pill üüab - napsu pealt?
 
 Minu isa vanaisa, sündind Tepu talus, üüdnimega pilli Juhan, olnd tähendatud valla torupillimees ja pääle selle Kingli möisa pöline rehepapp. Tol ajal olnd vanadkurjad alalised möisa rehtede külastajad, nii et öösel pimedas keegi arilik surelik ei julgend enne ommikust kukelaulu möisa rehtedele läheneda.
 

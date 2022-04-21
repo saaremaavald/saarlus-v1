@@ -17,8 +17,6 @@ tags: [rahvajutt, murdekeel, Kihelkonna, küla, soo]
     {{frontmatter.title}}
 </h1>
 
-Fotole: Miks küla ävis?
-
 Vanasti eland Vedruka külas väga targad ja usinad inimesed. Köik armastand tööd ja nende keskel valitsend üksmeel. Aga olnd ka niisuguseid mehi, kes uhked ja kuulsuse tagaajajad. Need saatnud küll korda köiksugu mötlematuid tegusid. Teised külad pidand Vedrukast suurt lugu.
 
 Kord akand naaberkülad Vedruka külast kuulsuse poolest ette minema. Seda kuuldes Vedruka küla auahned mehed \[hakanud\] teistele ennenägematuid tegusid tegema, et Vedruka küla ikka köige ees oleks. Varsti akandki kogu Vedruka küla elanikud riidlema, nii et üks ei saand enam teisega läbi. Igaüks akand ahnust taga ajama ja teisi kiusama. Viimaks läind koguni nii rumalaks, et üks ei oolind ühest, teine teisest. Vedruka oma alva eluviisi pärast olnd igal pool tuntud.

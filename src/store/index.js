@@ -289,7 +289,6 @@ const store = createStore({
     mutations : {
         setActiveStory(state, frontmatter) {
             state.activeStory = frontmatter;
-            console.log("Active changed:" + state.activeStory.images);
         },
         toggleModal(state) {
             state.modalOpen = !state.modalOpen;

@@ -17,8 +17,6 @@ tags: [rahvajutt, murdekeel, loodus, Püha, Nasva]
     {{frontmatter.title}}
 </h1>
 
-Fotole: Kus sa tahaksid elada? Linnas või maal?
-
 Tatt ja ämblik saand Nasva jöe silla pääl kokku.
 
 Ämblik ütelnd, et ta tuleb linnast maale elama, teda aetakse linnas igast nurgast elamast ära. 
