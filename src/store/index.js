@@ -11,67 +11,67 @@ const store = createStore({
             tagsOpen: false,
             stories : [
                 {
-                    "title": "Kuidas saarlaste arvates mehed ja naised loodi?",
+                    "title": "Vanasti polla inimesed poolist söuksed olnd kut paes.",
                     "slug": "meeste-ja-naiste-loomine",
                     "tags" : [ "rahvajutt", "mees", "naine", "jumal", "murdekeel", "Kaarma" ],
                 },
                 {
-                    "title": "Kes esimised undid lõi?",
+                    "title": "Unt töuse maast üles, murra kurat ää.",
                     "slug": "esimised-undid",
                     "tags" : [ "rahvajutt", "murdekeel", "hunt", "loodus", "Karja" ],
                 },
                 {
-                    "title": "So kõige ullem meresõit?",
+                    "title": "Ühekorra üks saksa kapten olnd laivaga New Yorgi sadamas. Kapteni tütrel olnd teise päeva sünnipäe ning kapten olnd mures, et kuidas saaks tütre sünnipäevale.",
                     "slug": "hull-meresoit",
                     "tags" : [ "rahvajutt", "meri", "laev", "murdekeel", "Kihelkonna" ],
                 },
                 {
-                    "title": "Mis oleks, kui käiksid korra undiks?",
+                    "title": "Enne käind inimesed ikka undiks. Jeesuse sündimisest saadik ei ole seda enam nii sagedasti.",
                     "slug": "undiks-kaimine",
                     "tags" : [ "rahvajutt", "hunt", "libahunt", "murdekeel", "Pöide" ], 
                 },
                 {
-                    "title": "Mis on Kaali järve põhjas?",
+                    "title": "Kord tahtnud külarahvas mööta Kaali järve sügavust.",
                     "slug": "mis-on-kaali-jarve-pohjas",
                     "tags" : [ "rahvajutt", "murdekeel", "Kaali järv" ], 
                 },
                 {
-                    "title": "Miks veiksel valgel jänesel mokk löhki on?",
+                    "title": "Üpagem köik ühekorraga aja pääle, et kui kedagi vaenlast teispool aeda oleks olevad, siis meil julgem vastu akata, kui meie köik ühes rias oleme.",
                     "slug": "janese-lohkine-mokk",
                     "tags" : [ "rahvajutt", "murdekeel", "jänes", "loodus", "Valjala", "T-särk", "foto", "muusika", "lammas", "kiviaed" ], 
                 },
                 {
-                    "title": "Mis juhtub, kui saare naine palja pääga välja läheb?",
+                    "title": "Vanasti ei tohtind ükski naisterahvas palja pääga välja minna.",
                     "slug": "pahila-soo",
                     "tags" : [ "rahvajutt", "murdekeel", "haldjad", "soo", "naine", "tammik", "Karja" ] 
                 },
                 {
-                    "title": "Mis külmking vanamehest tahtis?",
+                    "title": "Raiu mulle ka üks kalapahl, ma tahan omale ka ühe kala küpsetada.",
                     "slug": "kylmking-ja-puuraiuja",
                     "tags" : [ "rahvajutt", "murdekeel", "räim", "kala", "Kärla", "külmking", "mets", "hunt", "kartul", "kalapahl" ] 
                 },
                 {
-                    "title": "Mille otsa Inglis tiimer kinni joos?",
+                    "title": "Üks Inglis tiimer tuln ükskord Köpu otsa kuhal. Äkist näin – maa ees.",
                     "slug": "laevameeste-eksimus",
                     "tags" : [ "rahvajutt", "murdekeel", "meri", "kala", "kammeljas", "laev", "Mustjala" ] 
                 },
                 {
-                    "title": "Miks lesta suu kiivas on?",
+                    "title": "Lest lititsegu liiva peel!",
                     "slug": "lesta-kiivas-suu",
                     "tags" : [ "rahvajutt", "lest", "murdekeel", "Anseküla" ] 
                 },
                 {
-                    "title": "Kes kolistas öösel teises toas?",
+                    "title": "Kord oli üks tüdruk Irase külas üksinda koju jäänud. Võõrasema oli kodust tol õhtul ära läinud.",
                     "slug": "murelik-surnu",
                     "tags" : [ "rahvajutt", "surm", "Kaarma" ] 
                 },
                 {
-                    "title": "Mis abi saab sellest, kui pill üüab? Napsu pealt?",
+                    "title": "Kui nad väga mürgeldavad, siis panen pilli üüdma, nii kohe kükitavad irvitades nurgas kuni esimese kukelauluni, siis kaduvad napsu pealt köik!",
                     "slug": "rehepapp",
                     "tags" : [ "rahvajutt", "murdekeel", "rehepapp", "Vanapagan", "torupill", "muusika", "Muhu" ] 
                 },
                 {
-                    "title": "Mida köike mererannast vöib leida?",
+                    "title": "Ommikul tulnd keegi naine ja tahtnud enda laeva kätte saada. Mehed teind suured silmad ja ütelnud, et nad ei ole ühtegi laeva näind.",
                     "slug": "mida-koike-mererannast-voib-leida",
                     "tags" : [ "rahvajutt", "murdekeel", "meri", "laev", "Kihelkonna", "haakrik" ] 
                 },
