@@ -59,7 +59,7 @@ Kapten saatend ennem mihe ütlema, et nad tulavad, ning käskind naise ema neid 
 - Kui sul tuleks see rahvajutt esitada mingis muus vormis - filmina, animatsioonina, muusikavideona, koomiksina jne, siis mille valiksid? Miks?
 - Siit kuuled, kuidas orissaarlane Kaisa Ling arutleb mereteemalise kirjanduse üle muhulase Kadri Tüüri, meresõbra Veronika Kivisilla ja hiidlase Kristel Algverega: https://klassikaraadio.err.ee/1608133552/gogol/1225627
 - Kristel Algvere luulekogu “Merehurmarohi” (2018) arvustust saab lugeda siit: https://kultuur.err.ee/676818/arvustus-paikseline-hiiu-piiga-avastab-luule-kaudu-maailma
-- Kolm kirjanikku rändasid Saarele kesk ilmamerd: https://sirp.ee/s1-artiklid/c7-kirjandus/seesama-meri-meis-koigis/
+- Kuidas kolm kirjanikku rändasid Saarele kesk ilmamerd, saab lugeda siit: https://sirp.ee/s1-artiklid/c7-kirjandus/seesama-meri-meis-koigis/
 
 </details-wrapper>
 
