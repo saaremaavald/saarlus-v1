@@ -9,7 +9,7 @@ images: [
     }
 ]
 dictionary: [[ei, ole]]
-tags: [Debora Vaarandi]
+tags: [Aadu Hint]
 ---
 
 <h1 class="story-h1">
@@ -81,12 +81,8 @@ Pidalitõvest Saaremaal: https://arhiiv.saartehaal.ee/2009/11/09/audaku-leprosoo
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
 - On sul tulnud merel ette kummalisi olukordi või tundeid? Milliseid?
-- *“Keti tugevus ei olene mitte keti pikkusest ja mitte keti kõige tugevamate, vaid kõige nõrgemate lülide vastupidavusest.”* <br />Kus võiks see tõde kehtida peale mere? Oled sa ise seda mõnes olukorras kogenud? Millises? Mida sellest õppisid?
-- *“Ja siiski on hetki, mil ma kardan vastutuse jaotumist liiga suurele hulgale, kardan vastutuse-väärtpaberite liiga ohtrat turulepaiskamist, kardan vastutuse inflatsiooni.”* <br />Mis see tähendab? Meenuta olukordi, kus sa ise või keegi teinud on pidanud võtma vastutuse lahenduse leidmise või tagajärgede eest. Kuidas sul endal vastutamisega lood on?
-- Milline mõttetera sind veel sellest jutustusest kõnetas? Miks? Räägi sellest.
-- Millist mereluulet või -laule sa tead? Mõtled sa mõnele neist, kui paadi, laeva või parvlaevaga sõidad?
-- Kus ja millal oled kogenud oma elu suurimaid laineid? Mida sa siis tundsid?
-- *“Ma ei suuda pidada inimesi, ei ennast ega teisi, enam isegi alati mõistlikult headeks, kas või nendele enestele kasulikult heatahtlikeks olenditeks. Ma olen jätnud hirmu või egoismi pärast paljugi tegemata, mida oleksin pidanud tegema isegi oma kõige lähedasematele inimestele.”* <br />Meenub sulle midagi enese elust, mille kohta kehtib sama mõte?
+- *“Keti tugevus ei olene mitte keti pikkusest ja mitte keti kõige tugevamate, vaid kõige nõrgemate lülide vastupidavusest.”* <br />Oled sa ise seda mõnes olukorras kogenud? Millises? Mida sellest õppisid - kui õppisid?
+- *“Ma ei suuda pidada inimesi, ei ennast ega teisi, enam isegi alati mõistlikult headeks, kas või nendele enestele kasulikult heatahtlikeks olenditeks. Ma olen jätnud hirmu või egoismi pärast paljugi tegemata, mida oleksin pidanud tegema isegi oma kõige lähedasematele inimestele.”* <br />Meenub sulle midagi oma elust, mille kohta saaksid sama moodi öelda?
 
 </details-wrapper>
 
