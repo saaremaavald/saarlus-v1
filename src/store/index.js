@@ -244,12 +244,12 @@ const store = createStore({
                     "tags" : ["Oskar Kruus","Jakob Mändmets", "proosa"] 
                 },
                 {
-                    "title": "Meie laeva meeskond oli kolmemehelise paadi meeskonnast sada korda suurem.",
+                    "title": "Küllap linnud teadsid, kuhu, aga veel enne, kui nad oleksid õigesuunalist lennuhoogu päriselt sisse saanud, viis tulede sära, mis oleks suutnud valgustada kunagist Kuressaare-taolist linna, neid jälle segadusse.",
                     "slug": "aadu-hint-montreal-vancouver",
                     "tags" : ["Aadu Hint","Kanda", "proosa"] 
                 },
                 {
-                    "title": "Jääräim, hallakala, rohuräim, leheräim, õunapuuõieräim, koerputkeräim.",
+                    "title": "Jääräim, hallakala, rohuräim, leheräim, õunapuuõieräim, koerputkeräim...",
                     "slug": "jyri-tuulik-raim",
                     "tags" : ["Jüri Tuulik","räim", "proosa", "kala", "kalapüük", "toit"] 
                 },
