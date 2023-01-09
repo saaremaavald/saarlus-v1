@@ -82,7 +82,9 @@ Pidalitõvest Saaremaal: https://arhiiv.saartehaal.ee/2009/11/09/audaku-leprosoo
 
 - On sul tulnud merel ette kummalisi olukordi või tundeid? Milliseid?
 - *“Keti tugevus ei olene mitte keti pikkusest ja mitte keti kõige tugevamate, vaid kõige nõrgemate lülide vastupidavusest.”* <br />Oled sa ise seda mõnes olukorras kogenud? Millises? Mida sellest õppisid - kui õppisid?
-- *“Ma ei suuda pidada inimesi, ei ennast ega teisi, enam isegi alati mõistlikult headeks, kas või nendele enestele kasulikult heatahtlikeks olenditeks. Ma olen jätnud hirmu või egoismi pärast paljugi tegemata, mida oleksin pidanud tegema isegi oma kõige lähedasematele inimestele.”* <br />Meenub sulle midagi oma elust, mille kohta saaksid sama moodi öelda?
+- Juhan Smuul kirjutas reisipäeviku ekspeditsioonist Antarktise mandrile, mida saab kuulata järjejutuna suvesaarlase Andres Raagi esituses (siin link 1. osale, Vikerraadio lehelt või Jupiterist leiab ülejäänud 4): https://vikerraadio.err.ee/1608825541/jarjejutt-juhan-smuul-jaine-raamat-1
+Kirjandusteadlane Kadri Tüür uurib “Jäise raamatu” populaarsuse tagamaid: https://keeljakirjandus.eki.ee/161-178.pdf
+
 
 </details-wrapper>
 
