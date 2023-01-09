@@ -23,7 +23,7 @@ Südame värinal puudutan teid,
 raunjalg ja maokeel ja kuuvõtmehein!
 Paekivi pankadel põlvini maas,
 rüha ja sammaldund rahnude seas,
-siis mina istun ja imetlen sind;
+siin mina istun ja imetlen sind;
 kidura looduse lopsakas hing.
 
 
