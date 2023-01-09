@@ -65,7 +65,6 @@ Ma ei saanud linde kuidagi abistada ning ei suutnud nende, meie kaugete sugulast
 
 <hr class="mb-6" />
 
-**Aadu**, sünninimega **Adolf Edmund Hint** veetis lapsepõlve Saaremaal Lümanda vallas Kuusnõmme külas Kopli talus. Tema isa oli põllumees ja kaugesõidukapten. Ta õppis Saaremaa Ühisgümnaasiumis ning 19aastaselt hakkas tööle õpetajana Kihelkonna Rootsiküla algkoolis. Oma esimese romaani “Pidalitõbi” avaldas ta 24 aastaselt.
 
 Aadu Hint loeb ise ette ülal toodud jutustuse: “Vaikne meri, laev ja linnud” https://arhiiv.err.ee/vaata/kirjaniku-toolaualt-kirjaniku-toolaualt-aadu-hint-jutustus-quot-vaikne-meri-liiv-ja-linnud-quot/same-series
 Pidalitõvest Saaremaal: https://arhiiv.saartehaal.ee/2009/11/09/audaku-leprosoorium-105/
