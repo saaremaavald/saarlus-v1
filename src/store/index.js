@@ -154,7 +154,6 @@ const store = createStore({
                 // luule
                 {
                     "title": "Siin mina istun ja imetlen sind; kidura looduse lopsakas hing.",
-",
                     "slug": "aira-kaal-kidura-looduse-lopsakas-hing",
                     "tags" : [ "Aira Kaal", "hing", "väin", "raunjalg", "maokeel", "kuuvõtmehein", "pank", "luule", "paekivi", "sinine" ] 
                 },
