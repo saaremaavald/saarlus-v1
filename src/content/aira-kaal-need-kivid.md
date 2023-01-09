@@ -9,14 +9,12 @@ images: [
     }
 ]
 # dictionary: [[ei, ole]]
-# tags: []
+# tags: [Aira Kaal]
 ---
 
 <h1 class="story-h1">
     {{frontmatter.title}}
 </h1>
-
-<!-- Fotole: Need kivid ajavad mind hulluks -->
 
 Need kivid mind ajavad hulluks,
 kui palju vorme on neil!
@@ -57,6 +55,7 @@ küllap mind õpetand nad.
 
 - Kas oled reisides võrrelnud teisi maid Saaremaaga? Mida ja kuidas?
 - Mida on sulle Saaremaa õpetanud? Kui on?
+
 </details-wrapper>
 
 
