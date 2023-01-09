@@ -55,11 +55,8 @@ küllap mind õpetand nad.
 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
-- Aira Kaal kirjutas selle luuletuse Armeeniast, mis on üks kivine maa.
-- Kas tunned ära, mis koht on fotol?
-- Kus sa oled reisinud? Kas oled reisides võrrelnud teisi maid Saaremaaga? Milliseid aspekte?
-- Mida sulle on Saaremaa õpetanud?
-
+- Kas oled reisides võrrelnud teisi maid Saaremaaga? Mida ja kuidas?
+- Mida on sulle Saaremaa õpetanud? Kui on?
 </details-wrapper>
 
 
