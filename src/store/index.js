@@ -169,7 +169,7 @@ const store = createStore({
                     "tags" : [ "Aira Kaal", "kodanik", "kirjanik", "naine", "kena", "luule" ] 
                 },
                 {
-                    "title": "Ühel üürikesel viivul hämaram on valge öö.",
+                    "title": "Armsam, sul on lehejuuksed, las ma olen nende tuul!",
                     "slug": "debora-vaarandi-ooviiul",
                     "tags" : ["ööviiul", "suvi", "öö", "tuul", "luule", "armastus", "Debora Vaarandi", "valge" ] 
                 },
