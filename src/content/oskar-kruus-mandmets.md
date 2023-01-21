@@ -56,9 +56,9 @@ Olin niisiis tolle vaikseloomulise Saaremaa mehega tegelenud kümme aastat. Ühe
 </details-wrapper>
 
 
-<details-wrapper summary="Allikas" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
-- Allikas: **Oskar Kruus**, **Endel Priideli** kogumikus “Teose sünd”, 1976.
+- Tekst: **Oskar Kruus**, **Endel Priideli** kogumikus “Teose sünd”, 1976.
 - Jakob Mändmetsa elu ja loomingu kohta saab lugeda siit: https://kreutzwald.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?item_id=299&page_start=&table=Persons
 - Oskar Kruus oli luuletaja, prosaist, kirjandusteadlane, kirjandus- ja teatrikriitik: http://etbl.teatriliit.ee/artikkel/kruus_oskar2
 - Foto: **Merit Karise**, Karujärv
