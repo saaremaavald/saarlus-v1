@@ -46,11 +46,12 @@ Olin niisiis tolle vaikseloomulise Saaremaa mehega tegelenud kümme aastat. Ühe
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
 - Oled sa Karujärve ääres käinud? Mida tegemas? 
 - Kirjelda mõnd Saaremaa kohta, nt üht Saaremaa küla (nagu ülal tekstis kirjeldab Oskar Kruus Paiküla).
-- On sul mõni teema või isik, kelle uurimisele pühendaksid 10 aastat oma elust? Mis või kes? Maailmas, Eestis, Saaremaal? 
+- On sul mõni teema või isik, kelle uurimisele pühendaksid 10 aastat oma elust? Mis või kes? Maailmas, Eestis, Saaremaal?
+- Jakob Mändmetsa jutustust “Katkiraiutud kaljas” saab lugeda siit: https://www.digar.ee/arhiiv/et/kollektsioonid/16640
 
 </details-wrapper>
 
@@ -58,6 +59,8 @@ Olin niisiis tolle vaikseloomulise Saaremaa mehega tegelenud kümme aastat. Ühe
 <details-wrapper summary="Allikas" class="text-sm" icon="IconSources">
 
 - Allikas: **Oskar Kruus**, **Endel Priideli** kogumikus “Teose sünd”, 1976.
-- Foto: **Merit Karise**
+- Jakob Mändmetsa elu ja loomingu kohta saab lugeda siit: https://kreutzwald.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?item_id=299&page_start=&table=Persons
+- Oskar Kruus oli luuletaja, prosaist, kirjandusteadlane, kirjandus- ja teatrikriitik: http://etbl.teatriliit.ee/artikkel/kruus_oskar2
+- Foto: **Merit Karise**, Karujärv
 
 </details-wrapper>
