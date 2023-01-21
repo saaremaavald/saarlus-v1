@@ -37,7 +37,7 @@ Andand inimestele raha niidi ostmise jäuks. Ühed raiskand eesel raha muist äe
 <story-dictionary :terms="frontmatter.dictionary" />
 
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
 - Kõigepealt, kas said ilma sõnaseletusi vaatamata kõigest aru? Kas oskad seda rahvajuttu Saaremaa murdekeeles ette lugeda? Kui ei, siis tead sa kedagi, kes oskaks?
 - Milliseid meeste ja naiste loomise lugusid sa veel tead?
