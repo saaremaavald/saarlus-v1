@@ -1,5 +1,4 @@
 ---
-title: Kui rohu lillekesed kasvasivad…
 slug: julie-ederberg
 author: Julie Wilhelmine Ederberg
 origin: 
@@ -26,7 +25,9 @@ neid Looja siiski lasknud kasvada;
 nad sinu oma elu osalised;
 neid võta vastu, armas isamaa.
 
+
 <hr>
+
 
 Mu Eesti rahwa sugu
 miks oled langenud
@@ -94,15 +95,14 @@ Sa lased kõlada.
 
 <hr>
 
-Lingil toodud fotol on **Lydia Koidula** kõrval naine, kes on ülal toodud luuletuste autor ja keda võib nimetada Saaremaa esimeseks naisluuletajaks, meie oma provintsi-Koidulaks, Põduste pääsukeseks, ärkamisaegse vaimustuse taas-äratajaks, isamaa poole hüüdijaks, Eesti erakondade noomijaks ja samas oma ajale iseloomulikult ka rohulillekeste kastejaks - **Julie Wilhelmine Ederberg**: https://www.muis.ee/museaalView/2051491
+Lingil toodud fotol on **Lydia Koidula** kõrval naine, kes on ülal toodud luuletuste autor ja keda võib nimetada Saaremaa esimeseks naisluuletajaks, Põduste pääsukeseks, ärkamisaegse vaimustuse taas-äratajaks - **Julie Wilhelmine Ederberg** (1885 – 1902): https://www.muis.ee/museaalView/2051491
 
 
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- **Julie Wilhelmine Ederbergi** elust: https://et.wikipedia.org/wiki/Julie_Wilhelmine_Ederberg
 - Mida võis autor luuletuses mõelda Eesti rahva langemise all?
 - Mida sina praegu Eesti rahva juures muudaksid või parandaksid?
 - Julie Wilhelmine Ederbergi sõnadele (kohati omistatakse sõnade autorlus ka Julie abikaasa **Friedrich Wilhelm Ederbergile**) tehtud laul kõlas 1896. aasta laulupeol: https://sa.laulupidu.ee/ajalugu/vi-laulupidu/, ja kuulata saab seda siit: https://soundcloud.com/aivar-kaseste/oleksin-laululind-kappel-j
