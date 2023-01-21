@@ -1,5 +1,4 @@
 ---
-title: Saaremaa sokud
 slug: saaremaa-sokud
 author: rahvajutt
 origin: unknown
