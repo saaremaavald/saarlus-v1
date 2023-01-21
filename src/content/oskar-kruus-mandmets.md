@@ -1,5 +1,4 @@
 ---
-title: Järv on punutud muinasjuttude ja luule krooniga, mis tegid ta veidi õudseks, aga selle eest otse veel ihaldavamaks
 slug: oskar-kruus-mandmets
 author: Oskar Kruus
 origin:  
@@ -9,7 +8,7 @@ images: [
     }
 ]
 dictionary: [[ei, ole]]
-tags: [Debora Vaarandi]
+tags: [Jakob]
 ---
 
 <h1 class="story-h1">
@@ -50,8 +49,8 @@ Olin niisiis tolle vaikseloomulise Saaremaa mehega tegelenud kümme aastat. Ühe
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
 - Oled sa Karujärve ääres käinud? Mida tegemas? 
-- Kirjelda mõnd Saaremaa kohta, nt üht Saaremaa küla (nagu ülal tekstis Paiküla).
-- On sul mõni teema või isik, mille/kelle uurimisele pühendaksid 10 aastat oma elust? Mis või kes? Maailmas, Eestis, Saaremaal? 
+- Kirjelda mõnd Saaremaa kohta, nt üht Saaremaa küla (nagu ülal tekstis kirjeldab Oskar Kruus Paiküla).
+- On sul mõni teema või isik, kelle uurimisele pühendaksid 10 aastat oma elust? Mis või kes? Maailmas, Eestis, Saaremaal? 
 
 </details-wrapper>
 
