@@ -42,6 +42,7 @@ See aga oleks siiski kõige kenam.
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
 - Luuletus: **Aira Kaal**, “Keegi” kogust “Hetked merega”, Eesti Raamat, Tallinn, 1976
+- Aira Kaalu elu ja loomingu kohta saab lugeda siit: https://kreutzwald.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?item_id=371&table=Persons
 - Foto: **Merit Karise**
 
 </details-wrapper>
