@@ -1,7 +1,6 @@
 ---
 slug: meeste-ja-naiste-loomine
-author: rahvajutt
-origin: Jutustanud Villem Tulit Praakli külast Kaarma kihelkonnast.
+author: Jutustanud Villem Tulit Kaarma kihelkonnast Praakli külast. 
 images: [
     {
         src: mehed-naised_01.webp,
