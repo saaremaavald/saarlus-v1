@@ -88,7 +88,7 @@ kas nas natuke liiga kiire? see oli valgejänese hõik!
 
 
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
  
 - Miks jänesed just Saksamaale tahtsid minna? Kui sul oleks võimalus Saaremaalt ära minna, siis kuhu sa läheksid? Miks? Mida tegema? Kui kauaks? 
 - Kas sa kannaksid sellist T-särki nagu ülal fotol? Miks? On sul kirjaga T-särke? Millise kirjaga? On sul eestikeelseid T-särke? On see üldse oluline, mis keeles ja mida T-särgile on kirjutatud?
