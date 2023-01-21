@@ -36,8 +36,6 @@ Sest ajast saadik on jänese suu nelja risti löhki ja kui jahikoerad teda taga 
 <story-dictionary :terms="frontmatter.dictionary" />
 
 <dummy-spacer height="10vh" />
-
-
 Kuula (ja laula kaasa!), millisena **Sõrve bänd Küi** tänapäeva valgejänese elu metsas kujutab:
 
 <youtube-wrapper video="https://www.youtube.com/embed/l_uVXdZhFWc" />
