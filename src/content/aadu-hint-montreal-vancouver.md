@@ -1,5 +1,4 @@
 ---
-title: Paadis peaks ju hirm suurem olema?
 slug: aa
 author: Aadu Hint
 origin:  
@@ -9,7 +8,7 @@ images: [
     }
 ]
 dictionary: [[ei, ole]]
-tags: [Aadu Hint]
+tags: [Aadu]
 ---
 
 <h1 class="story-h1">
@@ -67,7 +66,6 @@ Ma ei saanud linde kuidagi abistada ning ei suutnud nende, meie kaugete sugulast
 
 
 Aadu Hint loeb ise ette ülal toodud jutustuse: “Vaikne meri, laev ja linnud” https://arhiiv.err.ee/vaata/kirjaniku-toolaualt-kirjaniku-toolaualt-aadu-hint-jutustus-quot-vaikne-meri-liiv-ja-linnud-quot/same-series
-Pidalitõvest Saaremaal: https://arhiiv.saartehaal.ee/2009/11/09/audaku-leprosoorium-105/
 
 
 
@@ -77,21 +75,19 @@ Pidalitõvest Saaremaal: https://arhiiv.saartehaal.ee/2009/11/09/audaku-leprosoo
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
 - On sul tulnud merel ette kummalisi olukordi või tundeid? Milliseid?
 - *“Keti tugevus ei olene mitte keti pikkusest ja mitte keti kõige tugevamate, vaid kõige nõrgemate lülide vastupidavusest.”* <br />Oled sa ise seda mõnes olukorras kogenud? Millises? Mida sellest õppisid - kui õppisid?
-- Juhan Smuul kirjutas reisipäeviku ekspeditsioonist Antarktise mandrile, mida saab kuulata järjejutuna suvesaarlase Andres Raagi esituses (siin link 1. osale, Vikerraadio lehelt või Jupiterist leiab ülejäänud 4): https://vikerraadio.err.ee/1608825541/jarjejutt-juhan-smuul-jaine-raamat-1
-Kirjandusteadlane Kadri Tüür uurib “Jäise raamatu” populaarsuse tagamaid: https://keeljakirjandus.eki.ee/161-178.pdf
 
 
 </details-wrapper>
 
 
-<details-wrapper summary="Allikas" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
-- **Aadu Hindi** eluloolised andmed: https://et.wikipedia.org/wiki/Aadu_Hint
+- **Aadu Hindi** elust ja loominguts saab lugeda siit: https://kreutzwald.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?item_id=390&page_start=&table=Persons
 - Jutustus “Vaikne meri, laev ja linnud” kogumikust “Meri, mehed, laev ja linnud”, koostaja **Endel Priidel**, Tallinn “Eesti raamat”, 1985.
-- Foto Kanada linna Vancouveri (mitte Montreali) rannikust, **Merit Karise**
+- Foto: **Merit Karise**, Kanada linna Vancouveri (mitte Montreali) rannik
 
 </details-wrapper>
