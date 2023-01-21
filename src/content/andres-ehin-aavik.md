@@ -1,7 +1,7 @@
 ---
 slug: andres-ehin-aavik
 author: Andres Ehin "Ma neiman mõrvarile ta oma relvaga"
-origin: Kuressaares 08. dets. 2005, Johannes Aaviku, suure keeleuuendaja 125. sünniaastapäeval
+origin: Kuressaares 08. dets. 2005 Johannes Aaviku, suure keeleuuendaja 125. sünniaastapäeval
 
 images: [
     {
@@ -47,7 +47,9 @@ On antud nimi - m õ r v a r.
 
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
-- Luuletus: **Andres Ehin**, Artikleid ja arhivaale IV, Johannes Aaviku Selts, koostaja **Jaan Õispuu** 2012
-Foto: **Merit Karise**, Mändjala rand
+- Luuletus: Artikleid ja arhivaale IV, Johannes Aaviku Selts, koostaja **Jaan Õispuu**, 2012
+- Johannes Aaviku elu ja töö kohta saab lugeda siit: https://kreutzwald.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?item_id=301&page_start=&table=Persons
+- Andres Ehini elu ja loomingu kohta saab lugeda siit: https://keeljakirjandus.ee/ee/archives/24520
+- Foto: **Merit Karise**, Mändjala rand
 
 </details-wrapper>
