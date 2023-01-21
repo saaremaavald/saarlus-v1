@@ -90,14 +90,10 @@ kas nas natuke liiga kiire? see oli valgejänese hõik!
 
 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
-
-- Mis sa arvad, miks rahvajutu jänesed tahtsid just Saksamaale minna, mitte mujale? 
-- Kui sul oleks võimalus Saaremaalt ära minna, siis kuhu sa läheksid? Miks? Mida tegema? Kui kauaks? 
-- Kas sa kannaksid sellist T-särki nagu ülal fotol? Miks? On sul kirjaga T-särke? Millise kirjaga? On sul eestikeelseid T-särke? On see üldse oluline, mis T-särgile kirjutatud on?
-- Miks jänesel päriselt selline mokk on?
+ 
+- Miks jänesed just Saksamaale tahtsid minna? Kui sul oleks võimalus Saaremaalt ära minna, siis kuhu sa läheksid? Miks? Mida tegema? Kui kauaks? 
+- Kas sa kannaksid sellist T-särki nagu ülal fotol? Miks? On sul kirjaga T-särke? Millise kirjaga? On sul eestikeelseid T-särke? On see üldse oluline, mis keeles ja mida T-särgile on kirjutatud?
 - Mis sa arvad, miks me me ütleme “bussijänes”, “päikesejänku”, “katsejänes” või et inimesel on jänes püksis? Vastuse otsimisel saad abi siit (lk 16): http://www.eestiloodus.ee/arhiiv/Eesti_Loodus11_2014.pdf
-- Milliseid väljendeid tead, mis on seotud lamba ja tema omadustega? Abi saad siit: http://www.eki.ee/dict/frs/index.cgi
-- Kuidas joonistaksid mõnd lambaga seotud väljendit nii, et selle tähendus tuleb pildist lühidalt ja vaimukalt välja?
 
 </details-wrapper>
 
