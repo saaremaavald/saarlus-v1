@@ -1,8 +1,6 @@
 ---
-title: Mida köike mererannast vöib leida?
 slug: mida-koike-mererannast-voib-leida
-author: rahvajutt
-origin: Jutustanud Priidu Volm Rootsikülast Kihelkonna kihelkonnast.
+author: Jutustanud Priidu Volm Kihelkonna kihelkonnast Rootsikülast.
 images: [
     {
         src: "parklaev.webp"
@@ -33,12 +31,10 @@ Seal kadund naine kausiga. Ja eemal veel seisnud suur parklaev, mille pardal oln
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <story-dictionary :terms="frontmatter.dictionary" />
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- Mida sina mererannast leidnud oled? Kas ka midagi kummalist, nagu siin rahvajutus?
-- Tead sa, mis on haakrik? Oled sa kuulnud lugusid haakrikust? Siit saab lugeda: https://saartehaal.postimees.ee/6753514/parim-haakrik-oli-laeva-nimesilt
-- Kui hakkas huvitama, siis Saaremaa ja muu Eesti laevaehituse kohta saab lugeda siit: https://www.ra.ee/tuna/eesti-laevaehituse-uus-algus-18-sajandi-lopust-19-sajandi-keskpaigani-ii/
-- Smuul: https://arhiiv.err.ee/vaata/100-luuleparli-viimane-laev-juhan-smuul-tambet-tuisk
+- Mida huvitavat või kummalist või väärtuslikku sina mererannast leidnud oled?
+- Purjelaevade eri tüüpe näed siit: http://entsyklopeedia.ee/artikkel/purjelaev1
 
 </details-wrapper>
 
