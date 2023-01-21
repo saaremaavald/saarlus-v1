@@ -1,8 +1,6 @@
 ---
-title: Kes esimised undid lõi?
 slug: esimised-undid
-author: rahvajutt
-origin: Kirja pannud Karl Gustav Jansen Karja kihelkonnas
+author: Kirja pannud Karl Gustav Jansen Karja kihelkonnas.
 images: [
     {
         src: "esimised-undid.webp",
@@ -14,10 +12,9 @@ dictionary: [[sau, savi], [kippuma, liigutama], ["selged aru oli saand, et omast
 
 ---
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Enne lugemist:">
 
-- Mis lugu see minikoomiks kujutab? Proovige üksi või mitmekesi see lugu piltide põhjal kokku panna.
-- Kes on saarlaste arvates esimised undid loond?
+- Mis lugu see minikoomiks sinu arvates kujutab? Proovi üksi või mitmekesi see lugu piltide põhjal kokku panna ja siis võrrelge, kui palju teie lugu all toodud looga kokku langeb.
 
 </details-wrapper>
 
@@ -42,13 +39,11 @@ Aga tema viha käie tänapäävani ikka veel ta kohe, nenda et ta iga kord teda 
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <story-dictionary :terms="frontmatter.dictionary" />
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- Kõigepealt, kas said ilma sõnaseletusi vaatamata kõigest aru? Kas sa oskad seda rahvajuttu Saaremaa murdekeeles ette lugeda? Kui ei, siis tead sa kedagi, kes oskaks? Siit saad teada murrete olulisuse kohta üldiselt: https://www.youtube.com/watch?v=WVOHGtbSV28 ja siit Saaremaa murdekeele tunnused: http://saaremaa.folklore.ee/wordpress/?page_id=907
 - Mis sa arvad, miks Vanapagan just hundi lõi?
-- Miks ei tohtinud vanasti hunti otse nimetada, vaid tuli kasutada peitenimesid, mida on eesti keeles kokku üle 500?
+- Miks ei tohtinud vanasti hunti otse nimetada, vaid tuli kasutada peitenimesid, mida on eesti keeles hundi kohta kokku üle 500?
 - Kuidas tänapäeval Saaremaal huntidesse suhtutakse? Kes on nende vastu ja kes poolt? Vihje: võid otsida kohalikest lehtedest.
-- Milline on huntide seis Eestis? Euroopas? Siit saab lugeda: https://bioneer.ee/hirmu-maastik-miks-me-hunte-vajame
 
 </details-wrapper>
 
