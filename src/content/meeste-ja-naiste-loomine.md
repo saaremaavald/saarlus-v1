@@ -40,7 +40,7 @@ Andand inimestele raha niidi ostmise jäuks. Ühed raiskand eesel raha muist äe
 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
-- Kõigepealt, kas said ilma sõnaseletusi vaatamata kõigest aru? Kas oskad seda rahvajuttu Saaremaa murdekeeles ette lugeda? Kui ei, siis tead sa kedagi, kes oskaks? Siit saad teada [murrere kohta üldiselt](https://www.youtube.com/watch?v=WVOHGtbSV28) ja siit [Saaremaa murdekeele tunnused](http://saaremaa.folklore.ee/wordpress/?page_id=907)
+- Kõigepealt, kas said ilma sõnaseletusi vaatamata kõigest aru? Kas oskad seda rahvajuttu Saaremaa murdekeeles ette lugeda? Kui ei, siis tead sa kedagi, kes oskaks?
 - Milliseid meeste ja naiste loomise lugusid sa veel tead?
 - Mida võiks selle rahvajutu põhjal järeldada saarlaste mõttemaailma kohta?
 - Mis sa arvad, miks on naine selles Saaremaa rahvajutus raiskaja ja mees kokkuhoidlik?
