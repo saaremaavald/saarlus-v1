@@ -1,8 +1,6 @@
 ---
-title: Mis abi saab sellest, kui pill üüab? Napsu pealt?
 slug: rehepapp
-author: rahvajutt
-origin: Jutustanud Aleksander Jõgi Muhu kihelkonnast.
+author: Jutustanud Aleksander Jõgi Muhu kihelkonnast.
 images: [
     {
         src: "rehepapp.webp",
@@ -35,14 +33,11 @@ Minu isa mäletab veel vähe oma vanaisa, olnd öige väike mehike.
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <story-dictionary :terms="frontmatter.dictionary" />
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- Milline on olnud muusika roll sinu elus sünnist siiani? Kas sinu kodus on lauldud või pilli mängitud? Kui jah, siis mis puhul? 
+- Miks vanakurjad torupillimuusikat kartsid, ei kannatanud? Siin näed ja kuuled torupilli: https://www.youtube.com/watch?v=ZDUhWfmjW7k
 - Millal sa muusikat kuulad? Millist? Kuidas muusika sulle mõjub? On sind muusika vahel aidanud või suisa päästnud? Teed sa ise muusikat, laulad, mängid pilli?
-- Milliseid Saaremaa muusikuid, heliloojaid, lauljaid sa tead?
-- Milliseid laule sa tead, mis räägivad Saaremaast? Kui ei tea, siis vaata täägi “muusika”.
 - Proovi lauseid moodustada, kus kasutad sõna “otsekohe” asemel “napsu pealt” või “napsult” nagu Anseküla murrakus öeldakse! PS Tõenäoliselt on “naps, napsult” olnud Saaremaalt kasutuses laiemalt tähenduses “hoop”, “hoobilt”, “sõrmenipsust”. 
-- Mida mandri-inimesed Saaremaa murdekeelest arvavad? Siin üks arvamusavaldus: https://arhiiv.saartehaal.ee/2012/01/25/saarlaste-keel-vaarib-hoidmist/?fbclid=IwAR13trZ5p2r73Ua0Cf815q0TphJLh8VUI6gUPF6u4U29aoDtvizZrUdQ07s
 
 </details-wrapper>
 
@@ -50,6 +45,7 @@ Minu isa mäletab veel vähe oma vanaisa, olnd öige väike mehike.
 
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
+- Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=1052
 - Foto: **Merit Karise**, festival “IlandSound” Illiku laiul
 
 </details-wrapper>
