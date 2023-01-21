@@ -1,8 +1,6 @@
 ---
-title: Mis külmking vanamehest tahtis?
 slug: kylmking-ja-puuraiuja
-author: rahvajutt
-origin: Kirja pannud J. Jõgi Kärla kihelkonnas.
+author: Kirja pannud J. Jõgi Kärla kihelkonnas. 
 images: [
     {
         src: "kylmking-ja-puuraiuja.webp",
@@ -44,21 +42,19 @@ Undid tulnd sinna ja nuusutand ja otsind igal pool ja viimaks küsind mehe kää
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <story-dictionary :terms="frontmatter.dictionary" />
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- Kas said ilma sõnaseletusi vaatamata kõigest aru? Kas oskad seda rahvajuttu Saaremaa murdekeeles ette lugeda? Kui ei, siis tead sa kedagi, kes oskaks? Siit saad teada Saaremaa murdekeele tunnused: http://saaremaa.folklore.ee/wordpress/?page_id=907
 - Kas sa tead, kes on külmking? Milline ta välja näeb? Oled teda kohanud või tead kedagi, kes on? Uuri netist.
 - Mis sa arvad, kui vana on eestikeelne sõna “kala”? Siit saad teada: https://www.youtube.com/watch?v=h4W4WFEEXg4
-- Kui tihti sa metsas käid ja mida seal teed? Oled sa metsas midagi kummastavat kuulnud või näinud?
+- Kui tihti sa metsas käid ja mida seal teed?
 - Kus sulle rohkem meeldib, kas metsas või mere ääres, merel? Miks?
-- Milline näeks see rahvajutt välja koomiksina? Vaata, kuidas on joonistatud koomiksid siin kogumikus rahvajuttudele “Kuidas mehed ja naised loodi?” ning “Kes on esimised undid loond?”. Siin on lühike juhis, kuidas koomiksit joonistada: https://maailmakool.ee/blog/2021/03/16/koomiksite-joonistamise-nipid/
 
 </details-wrapper>
 
 
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
-- Allikad: http://saaremaa.folklore.ee/wordpress/?p=850
+- Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=850
 - Foto: **Merit Karise**
 
 </details-wrapper>
