@@ -1,5 +1,4 @@
 ---
-title: Ööviiul
 slug: debora-vaarandi-ooviiul
 author: Debora Vaarandi
 origin: ""
@@ -43,13 +42,12 @@ voogab laul ööviiulil.
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- Kuula: https://arhiiv.err.ee/vaata/100-luuleparli-ooviiul-debora-vaarandi-loeb-tiina-tauraite
+- Luuletuse loeb näitleja Tiina Tauraite: https://arhiiv.err.ee/vaata/100-luuleparli-ooviiul-debora-vaarandi-loeb-tiina-tauraite
 - Kas oled ööviiulit näinud? Kus? Milline on ööviiuli lõhn?
-- Mida tead Saaremaa orhideedest? Siit saad lugeda: https://visitsaaremaa.ee/avasta/orhideed/; https://www.err.ee/1608238725/saaremaal-taasavastati-mitu-inimpolve-peidus-olnud-orhideeliik
-- Mida sa suveöödel teed? Kus käid?
-- Kus sa paljajalu käid? Millal?
+- Mida tead Saaremaa orhideedest? Kui palju ei tea, siis siit saad lugeda: https://visitsaaremaa.ee/avasta/orhideed/; https://www.err.ee/1608238725/saaremaal-taasavastati-mitu-inimpolve-peidus-olnud-orhideeliik
+- Mida sa suveöödel teed? Kus käid? Paljajalu?
 
 </details-wrapper>
 
