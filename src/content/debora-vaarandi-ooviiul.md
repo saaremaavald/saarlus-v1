@@ -46,7 +46,7 @@ voogab laul ööviiulil.
 
 - Luuletuse loeb näitleja Tiina Tauraite: https://arhiiv.err.ee/vaata/100-luuleparli-ooviiul-debora-vaarandi-loeb-tiina-tauraite
 - Kas oled ööviiulit näinud? Kus? Milline on ööviiuli lõhn?
-- Mida tead Saaremaa orhideedest? Kui palju ei tea, siis siit saad näed ja kuuled: https://etv.err.ee/1608714124/orhideede-mitmekesisus
+- Mida tead Saaremaa orhideedest? Kui palju ei tea, siis siit näed ja kuuled: https://etv.err.ee/1608714124/orhideede-mitmekesisus
 - Mida sa suveöödel teed? Kus käid? Paljajalu?
 
 </details-wrapper>
