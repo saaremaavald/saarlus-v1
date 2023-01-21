@@ -1,5 +1,4 @@
 ---
-title: Keegi?
 slug: aira-kaal-keegi
 author: Aira Kaal
 origin: ""
@@ -31,7 +30,7 @@ See aga oleks siiski kõige kenam.
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
 - Mis vahe on kodanikul, instantsil, antipoodil ja tüübil? Abi võid saada siit: https://www.eki.ee/dict/ekss/
 - Kes sina oled?
