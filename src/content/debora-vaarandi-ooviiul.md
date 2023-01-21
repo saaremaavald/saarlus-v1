@@ -46,7 +46,7 @@ voogab laul ööviiulil.
 
 - Luuletuse loeb näitleja Tiina Tauraite: https://arhiiv.err.ee/vaata/100-luuleparli-ooviiul-debora-vaarandi-loeb-tiina-tauraite
 - Kas oled ööviiulit näinud? Kus? Milline on ööviiuli lõhn?
-- Mida tead Saaremaa orhideedest? Kui palju ei tea, siis siit saad lugeda: https://visitsaaremaa.ee/avasta/orhideed/; https://www.err.ee/1608238725/saaremaal-taasavastati-mitu-inimpolve-peidus-olnud-orhideeliik
+- Mida tead Saaremaa orhideedest? Kui palju ei tea, siis siit saad näed ja kuuled: https://etv.err.ee/1608714124/orhideede-mitmekesisus
 - Mida sa suveöödel teed? Kus käid? Paljajalu?
 
 </details-wrapper>
@@ -54,7 +54,8 @@ voogab laul ööviiulil.
 
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
-- Luuletus: Ööviiul (1956)
+- Luuletus: Debora Vaarandi “Ööviiul” kogumikust “Luuletused 1954-1976”, Eesti Raamat, 1981.
+- Debora Vaarandi elu ja loomingu kohta saab lugeda siit: https://sirp.ee/s1-artiklid/varia/debora-vaarandi-1-x-1916-28-iv-2007/
 - Foto: **Merit Karise**
 
 </details-wrapper>
