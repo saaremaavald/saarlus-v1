@@ -1,6 +1,6 @@
 ---
 slug: janese-lohkine-mokk
-author: Rahvajutu kirja pannud Juhan Ratas Lõve vallas Valjala kihelkonnas.
+author: Rahvajutu kirja pannud Juhan Ratas Valjala kihelkonnas Lõve vallas.
 images: [
     {
         src: janese-lohkine-mokk.webp,
