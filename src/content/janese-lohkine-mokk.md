@@ -97,6 +97,7 @@ kas nas natuke liiga kiire? see oli valgejänese hõik!
 <details-wrapper icon="IconSources" summary="Allikad" class="text-sm">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=1065
+- Sõrve ansambel Küi: https://xn--srvemaa-90a.ee/sps/kui/
 - T-särgi kujundus “Jänes püksis”: Mai Raet, Tartu Kunstikool
 - Foto T-särgist modelli seljas: modell Eleri Kupits, fotograaf Sirelin Siigur, Kuressaare ametikooli disainisuund
 
