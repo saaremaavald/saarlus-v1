@@ -45,7 +45,7 @@ Georg Mägi Paju-Kurdla külas, Laimjala
 
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
-Sokkude illustratsioon: **Oliver Maaker**
+- Sokkude illustratsioon: **Oliver Maaker**
 - Murdetekst näärisoku tegemisest: https://www.emakeeleselts.ee/valjaanne/tuulik-kadakas-ja-leib/
 
 </details-wrapper>
