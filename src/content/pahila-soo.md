@@ -1,8 +1,6 @@
 ---
-title: Mis juhtub, kui saare naine palja pääga välja läheb?
 slug: pahila-soo
-author: rahvajutt
-origin: Jutustanud Priidu Vaet Lõpi külast Karja kihelkonnast.
+author: Jutustanud Priidu Vaet Karja kihelkonnast Lõpi külast.
 images: [
     {
         src: "pahila-soo.webp"
@@ -28,6 +26,7 @@ Ja sellest ajast peale ongi see soo Pahila soo nime all.
 
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
+- Mis sa arvad, miks oli palja peaga väljas käimine nii hirmus asi, et selle peale tammik maa alla vajus?
 - Mida sina oled saare naise kohta kuulnud? Milline on üks saare naine?
 - Mida arvad neist videoklippidest, kus kujutatakse saare naist? Mis sa arvad, miks saare naist neis klippides sellistena kujutatakse? Küsi näiteks ka oma (vana)vanematelt.
 https://www.youtube.com/watch?v=NGVvaLCt45Y
