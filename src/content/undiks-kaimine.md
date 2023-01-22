@@ -1,14 +1,12 @@
 ---
-title: Mis oleks, kui käiksid korra undiks?
 slug: undiks-kaimine
-author: rahvajutt
+author: Kirja pannud Joann Prooses Pöide kihelkonnas Tornimäe külas.
 images: [
     {
         src: undiks-kaimine.webp, 
         height: "65vh"
     },
 ]
-origin: Kirja pannud Joann Prooses Tornimäe külas Pöide kihelkonnast.
 tags: [rahvajutt]
 dictionary: [[koldemüiril, koldekivil], [lakutama, jootma], [paljast, ainult]]
 ---
@@ -48,12 +46,9 @@ Noor naene tõutand, et ta iialgi ei lähe enam undiks, vana käind aga ikka ool
 <story-dictionary :terms="frontmatter.dictionary" />
 
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- Mis tunded ja mõtted sul seda rahvajuttu lugedes tekkisid?
-- Kas said ilma sõnaseletusi vaatamata kõigest aru? Kas sa oskad seda rahvajuttu Saaremaa murdekeeles ette lugeda? Kui ei, siis tead sa kedagi, kes oskaks? Siit saad teada murrete olulisuse kohta üldiselt: https://www.youtube.com/watch?v=WVOHGtbSV28 ja siit Saaremaa murdekeele tunnused: http://saaremaa.folklore.ee/wordpress/?page_id=907
-- Mis sa arvad, miks pidi metsa liha järele undina minema, miks ei võinud lihtsalt jahile minna? Ja miks on peategelasteks naised, mitte mehed?
-- Vastuse võid leida ka siit: “Saaremaal püsis libahundiusk kauem kui mitmes muus Eesti piirkonnas. Saaremaalt on kogutud suhteliselt palju jutte naislibahuntidest, nende populaarsus Saaremaal (ja Eestis laiemalt) on seostatav naissoo tugeva staatusega eesti ja liivi talupoegade hulgas ning see omakorda hüpoteesiga nende ühiskondade matrilineaarsusest muinasajal”: https://www.folklore.ee/rl/pubte/ee/araamat/2010/PS27_Metsvahi.pdf
+- Mis sa arvad, miks pidi metsa liha järele undina minema, miks ei võinud lihtsalt jahile minna? Ja miks on peategelasteks naised, mitte mehed? Vastuse võid leida ka siit: “Saaremaal püsis libahundiusk kauem kui mitmes muus Eesti piirkonnas. Saaremaalt on kogutud suhteliselt palju jutte naislibahuntidest, nende populaarsus Saaremaal (ja Eestis laiemalt) on seostatav naissoo tugeva staatusega eesti ja liivi talupoegade hulgas ning see omakorda hüpoteesiga nende ühiskondade matrilineaarsusest muinasajal”: https://www.folklore.ee/rl/pubte/ee/araamat/2010/PS27_Metsvahi.pdf
 
 </details-wrapper>
 
