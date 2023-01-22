@@ -24,7 +24,7 @@ Ja sellest ajast peale ongi see soo Pahila soo nime all.
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
 - Mis sa arvad, miks oli palja peaga väljas käimine nii hirmus asi, et selle peale tammik maa alla vajus?
 - Mida sina oled saare naise kohta kuulnud? Milline on üks saare naine?
