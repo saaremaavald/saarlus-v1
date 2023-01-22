@@ -24,7 +24,7 @@ Neid tunnukse ju erksast rühist,
 nad kerglaselt ei sütti põlema
 ja targa näoga varjavad
 nad seda, mis neis tühist.
-Nonsess on nende
+Nonsenss on nende
 lemmiknaljad…
 Ja nii nad maa peal elavad!
 
@@ -37,7 +37,7 @@ Ja nii nad maa peal elavad!
 - Kas oled nõus, et saarte elanikel on ühiseid jooni? Või on sul kogemus, kellega on saarlased sarnased?
 - Kas oled nõus luuletuses öelduga, et saarlastel on erk rüht, nad ei sütti kergelt põlema ja targa näoga varjavad oma tühisust? Kui jah, siis millal, mis puhul?
 - Milline on saarlase huumorisoon? Kas saarlane teeb nalja meelsamini teiste või iseenda üle?
-- Mis tüüpi nali on nonsess?
+- Mis tüüpi nali on nonsenss?
 
 </details-wrapper>
 
