@@ -78,7 +78,7 @@ Aadu Hint loeb ise ette ülal toodud jutustuse: “Vaikne meri, laev ja linnud�
 <details-wrapper summary="Mis mõtted tekkisid?">
 
 - On sul tulnud merel ette kummalisi olukordi või tundeid? Milliseid?
-- *“Keti tugevus ei olene mitte keti pikkusest ja mitte keti kõige tugevamate, vaid kõige nõrgemate lülide vastupidavusest.”* <br />Oled sa ise seda mõnes olukorras kogenud? Millises? Mida sellest õppisid - kui õppisid?
+- *“Keti tugevus ei olene mitte keti pikkusest ja mitte keti kõige tugevamate, vaid kõige nõrgemate lülide vastupidavusest.”* <br />Oled sa ise seda mõnes olukorras kogenud? Millises? Mida sellest õppisid - kui õppisid? Kas leiad jutustuses veel häid mõtteteri? Milliseid?
 
 
 </details-wrapper>
@@ -86,7 +86,7 @@ Aadu Hint loeb ise ette ülal toodud jutustuse: “Vaikne meri, laev ja linnud�
 
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
-- **Aadu Hindi** elust ja loominguts saab lugeda siit: https://kreutzwald.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?item_id=390&page_start=&table=Persons
+- **Aadu Hindi** elust ja loomingust saab lugeda siit: https://kreutzwald.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?item_id=390&page_start=&table=Persons
 - Jutustus “Vaikne meri, laev ja linnud” kogumikust “Meri, mehed, laev ja linnud”, koostaja **Endel Priidel**, Tallinn “Eesti raamat”, 1985.
 - Foto: **Merit Karise**, Kanada linna Vancouveri (mitte Montreali) rannik
 
