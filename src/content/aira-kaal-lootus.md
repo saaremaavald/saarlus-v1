@@ -1,5 +1,4 @@
 ---
-title: Lootus
 slug: aira-kaal-lootus
 author: Aira Kaal
 origin: 
@@ -33,12 +32,12 @@ Ja nii nad maa peal elavad!
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- Kas oled nõus, et inglastel ja saarlastel on ühiseid jooni? On saarel elavad inimesed mingi moel sarnased? Või on sul kogemus, millise rahvusega on saarlased sarnased?
+- Kas oled nõus, et saarte elanikel on ühiseid jooni? Või on sul kogemus, kellega on saarlased sarnased?
 - Kas oled nõus luuletuses öelduga, et saarlastel on erk rüht, nad ei sütti kergelt põlema ja targa näoga varjavad oma tühisust? Kui jah, siis millal, mis puhul?
 - Milline on saarlase huumorisoon? Kas saarlane teeb nalja meelsamini teiste või iseenda üle?
-- Mis tüüpi nali on nonsess? Too näiteid.
+- Mis tüüpi nali on nonsess?
 
 </details-wrapper>
 
@@ -46,6 +45,7 @@ Ja nii nad maa peal elavad!
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
 - Luuletus. **Aira Kaal**, “Lootus”, luulekogu “Hetked merega”, Eesti Raamat, 1976
-- Foto: **Merit Karise**, iiri hommikusöök. Mis vahe on inglise ja iiri hommikusöögil, kas tead? Ja šoti hommikusöögil kahe eelnevaga? Milline oleks Saaremaa hommikusöök, kui see tuleks koostada? Milline on sinu lemmik hommikusöök?
+- Aira Kaalu elu ja loomingu kohta saab lugeda siit: https://kreutzwald.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?item_id=371&table=Persons
+- Foto: **Merit Karise**, iiri, inglaste naabrite hommikusöök.
 
 </details-wrapper>
