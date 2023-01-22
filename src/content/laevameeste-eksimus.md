@@ -1,8 +1,6 @@
 ---
-title: Mille otsa Inglis tiimer kinni joos?
 slug: laevameeste-eksimus
-author: rahvajutt
-origin: Jutustanud Aleksander Lepp Järise külast Mustjala kihelkonnast. 
+author: Jutustanud Aleksander Lepp Mustjala kihelkonnast Järise külast. 
 images: [
     {
         src: "laevameeste-eksimus.webp"
@@ -36,11 +34,10 @@ Niid saab ikka vahest mereääre meiste kääst küsitud, ehk oo keski söukest 
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <story-dictionary :terms="frontmatter.dictionary" />
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?>
 
 - Kuidas see lugu kirjakeeles kõlaks? Ilma sõnaseletusi vaatamata?
-- Oled sa kuulnud laevadest, mis on Saaremaa lähedal karile sõitnud? Kui ei, siis uuri.
-- Millist kala sina sööd? Kas oskad ise kala puhastada ja valmistada? Kui ei, siis miks?
+- Oled sa kuulnud laevadest, mis on Saaremaa lähedal karile sõitnud? Millistest?
 
 </details-wrapper>
 
