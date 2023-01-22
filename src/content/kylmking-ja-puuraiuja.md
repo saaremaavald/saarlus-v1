@@ -44,8 +44,9 @@ Undid tulnd sinna ja nuusutand ja otsind igal pool ja viimaks küsind mehe kää
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- Kas sa tead, kes on külmking? Milline ta välja näeb? Oled teda kohanud või tead kedagi, kes on? Uuri netist.
-- Mis sa arvad, kui vana on eestikeelne sõna “kala”? Siit saad teada: https://www.youtube.com/watch?v=h4W4WFEEXg4
+- Kas sa tead, kes on külmking? Sest tema see oli, kes mehe juurde tuli. Milline ta välja näeb? Oled teda kohanud või tead kedagi, kes on? Uuri netist.
+- Kas sa kala sööd? Millist ja mil moel valmistatud? Kui sa ei tea, mis asi on kalapahl, siis siin on täpsemalt kirjas: https://www.kalapeedia.ee/3372.html?q=saga&qf=3
+- Mis sa arvad, kui vana on eestikeelne sõna “kala”? Eesti Keele Instituut selgitab: https://www.youtube.com/watch?v=h4W4WFEEXg4
 - Kui tihti sa metsas käid ja mida seal teed?
 - Kus sulle rohkem meeldib, kas metsas või mere ääres, merel? Miks?
 
