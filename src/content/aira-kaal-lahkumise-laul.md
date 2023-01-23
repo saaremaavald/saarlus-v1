@@ -59,7 +59,7 @@ kõik mälestused oort.
 
 - Mis tunne on sul Saaremaalt lahkudes ja Saaremaale naastes?
 - Millal oled Saaremaa järele kõige rohkem igatsenud?
-- Millest tunned Saaremaalt ära olleks kõige rohkem puudust?
+- Millest tunned Saaremaalt ära olles kõige rohkem puudust?
 
 </details-wrapper>
 
