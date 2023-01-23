@@ -60,7 +60,8 @@ ja huulte serval nukker naeruvina.
 
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
-- Luuletus: **Debora Trull** (neiupõlvenimi, hiljem Vaarandi), "Rannapargis / Udus" (1936), Eesti Naine nr 4, 1936: https://www.digar.ee/viewer/et/nlib-digar:333263/292723/page/19 
+- Luuletus: **Debora Trull** (neiupõlvenimi, hiljem Vaarandi), "Rannapargis / Udus" (1936), Eesti Naine nr 4, 1936: https://www.digar.ee/viewer/et/nlib-digar:333263/292723/page/19
+- Debora Vaarandi elu ja loomingu kohta saab lugeda siit: https://sirp.ee/s1-artiklid/varia/debora-vaarandi-1-x-1916-28-iv-2007/ 
 - Foto: **Merit Karise**
 
 </details-wrapper>
