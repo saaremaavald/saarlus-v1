@@ -35,7 +35,7 @@ Tõllu haud asub Hirmuste mäel Kärla kihelkonnas Saaremaal, kust tervelt seits
 
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
-- Tekst: E 61534/35 (2) < Jämaja — A. Kuldsaar (1927). Vt. Kohanimede tekkimine, muist. 118—125. https://www.folklore.ee/rl/folkte/myte/olev/toll.html (link ei vii täpselt loole)
+- Rahvajutt: E 61534/35 (2) < Jämaja — A. Kuldsaar (1927) https://www.folklore.ee/rl/folkte/myte/olev/toll.html (link ei vii täpselt loole)
 - Foto: **Saara Alexanda Truverk**, **Merili Pappel**, **Johanna Klaar**, Tartu Kunstikool; toidukunsti aluseks kunstnik **Jüri Arraku** maalid Suurest Tõllust ning toiduainete valik retseptiraamatust  "Eesti rahvusköök", Maalehe Raamat, 2004.
 
 </details-wrapper>
