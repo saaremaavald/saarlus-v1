@@ -1,5 +1,4 @@
 ---
-title: Alguses oli lõpp
 slug: betti-alver-kaks-saarlast-saamislugu
 author: Betti Alver
 origin: 
@@ -34,15 +33,16 @@ Nii sündisid "Kaks saarlast".
 
 
 
-<!-- <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
-
-- Kuidas sul mardipäevaga lood on? Oled marti jooksnud? Kas tead, et mardi- , kadri- ja muud sandid peaksidki olema gümnaasiumiealised noored, mitte väikesed lapsed?
+<!-- <details-wrapper summary="Mis mõtted tekkisid?">
+- Kui sa ei tea, mida Betti Alver silmas pidas sellega, et anekdooti kuuldes meenus talle kohe Suur Tõll, siis siit leiab vastuse: https://www.folklore.ee/rl/folkte/myte/olev/42.html
+- Milline on sinu jaoks hea sõber? Mida sõbra heaks teha ja mida mitte? On sinu sõpruskonnas inimesi, kellega tahad sidet hoida ka peale kooli lõpetamist, ja ka sel juhul, kui olete Saaremaalt ära õppimas või töötamas?
 
 </details-wrapper> -->
 
 
-<details-wrapper summary="Allikas" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
-- **Endel Priideli** koostatud kogumikust "Teose sünd", 1976. 
+- Tekst: **Betti Alver**, "Alguses oli lõpp", **Endel Priideli** koostatud kogumik "Teose sünd", Eesti Raamat, 1976.
+- Foto: Merit Karise
 
 </details-wrapper>
