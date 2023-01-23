@@ -1,5 +1,4 @@
 ---
-title: Siit sa oled, siia sa jääd mereveerele
 slug: aa
 author: Jaan Kaplinski
 origin:  
@@ -39,9 +38,7 @@ See kõik on otsekui aeglane sisemine lainetamine, õieti mitu lainetamist, mis 
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
-
-- 
+<details-wrapper summary="Mis mõtted tekkisid?"> 
 
 </details-wrapper>
 
@@ -49,7 +46,8 @@ See kõik on otsekui aeglane sisemine lainetamine, õieti mitu lainetamist, mis 
 
 <details-wrapper summary="Allikas" class="text-sm" icon="IconSources">
 
-- Tekst: **Jaan Kaplinski** “Laulude sünnimailt” **Endel Priideli** kogumikust “Teose sünd”, Eesti Raamat, Tallinn, 1976
+- Tekst: **Jaan Kaplinski** “Laulude sünnimailt”, **Endel Priideli** kogumik “Teose sünd”, Eesti Raamat, Tallinn, 1976
+- Jaan Kaplinski elust ja loomingust: https://jaankaplinski.eu/visioon/
 - Foto: **Merit Karise**
 
 </details-wrapper>
