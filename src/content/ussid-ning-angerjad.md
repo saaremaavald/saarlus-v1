@@ -23,7 +23,7 @@ Kui Vanajumal ilma loos, siis ta viskand ülalt taevast pailajupi maha. Üks ots
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <story-dictionary :terms="frontmatter.dictionary" />
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
 - Kas panid tähele, et fotol on vaskuss. Nime järgi uss, aga kes ta tegelikult on?
 - Milline on sinu suhe ussi ja angerjaga? Oled esimest kohanud ja teist söönud?
