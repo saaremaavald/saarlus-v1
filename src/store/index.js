@@ -259,7 +259,7 @@ const store = createStore({
                     "tags" : ["Aira Kaal", "proosa"] 
                 },
                 {
-                    "title": "Siit sa oled, siia sa jääd mereveerele",
+                    "title": "Inimene elab kahesuguses keskkonnas - sõnades, mis pärinevad teistelt inimestelt, ja asjades-liikumistes, mis on loodus ja inimesed ise.",
                     "slug": "kaplinski-siit-sa-oled",
                     "tags" : ["Jaan Kaplinski", "proosa"] 
                 },
