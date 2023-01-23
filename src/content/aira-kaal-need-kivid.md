@@ -61,6 +61,7 @@ küllap mind õpetand nad.
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
 - Luuletus: **Aira Kaal** “Need kivid” kogust “Üks tigu ilma majata”, Eesti Raamat, Tallinn, 1968
+- Aira Kaalu elu ja loomingu kohta saab lugeda siit: https://kreutzwald.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?item_id=371&table=Persons
 - Foto: **Merit Karise**
 
 </details-wrapper>
