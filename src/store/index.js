@@ -81,7 +81,7 @@ const store = createStore({
                     "tags" : [ "rahvajutt", "murdekeel", "loodus", "Püha", "Nasva", "linn", "maa" ] 
                 },
                 {
-                    "title": "Kui Vanajumal ilma loos, siis ta viskand ülalt taevast pailajupi maha.",
+                    "title": "Sellest poolest, mis kuivale jähi, sigisid ussid, teisest poolest tulid annergad.",
                     "slug": "ussid-ning-angerjad",
                     "tags" : [ "rahvajutt", "murdekeel", "loodus", "uss", "angerjas", "meri", "Püha" ] 
                 },
