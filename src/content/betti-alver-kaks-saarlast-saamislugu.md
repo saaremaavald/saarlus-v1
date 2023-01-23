@@ -43,6 +43,7 @@ Nii sündisid "Kaks saarlast".
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
 - Tekst: **Betti Alver**, "Alguses oli lõpp", **Endel Priideli** koostatud kogumik "Teose sünd", Eesti Raamat, 1976.
+- Betti Alveri elu ja loomingu kohta saab lugeda siit: https://kultuur.err.ee/1608314084/onnepalu-betti-alveri-luule-ei-puua-olla-sugav-vaid-on-seda-enese-tahtmata
 - Foto: Merit Karise
 
 </details-wrapper>
