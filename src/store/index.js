@@ -183,7 +183,7 @@ const store = createStore({
                     "tags" : ["saar", "jää", "lumi", "meri", "rand", "tuul", "sügis", "Debora Vaarandi", "hall", "luule", "ruske" ] 
                 },
                 {
-                    "title": "Kaks saarlast muiste ühte lõid, koos laulsid, riisusid ja jõid.",
+                    "title": "Kaks saarlast muiste ühte lõid, koos laulsid, riisusid ja jõid!",
                     "slug": "betti-alver-kaks-saarlast",
                     "tags" : [ "Betti Alver", "sõprus", "saarlane", "laul", "Suur Tõll", "luule", "tamm", "valge", "must" ] 
                 },
