@@ -64,6 +64,7 @@ lumme upub saar.
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
 Luuletus: **Debora Vaarandi** "Saar" kogumikust “Merelaule sajast suust ja sulest”, Koolibri, 2011.
+Debora Vaarandi elu ja loomingu kohta saab lugeda siit: https://sirp.ee/s1-artiklid/varia/debora-vaarandi-1-x-1916-28-iv-2007/
 Foto: **Merit Karise**. Fotol pole puhteaeg ehk koidik.
 
 </details-wrapper>
