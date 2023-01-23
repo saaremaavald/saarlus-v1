@@ -1,5 +1,4 @@
 ---
-title: Need kivid
 slug: aira-kaal-need-kivid
 author: Aira Kaal
 origin: ""
@@ -51,9 +50,9 @@ küllap mind õpetand nad.
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- Kas oled reisides võrrelnud teisi maid Saaremaaga? Mida ja kuidas?
+- Aira Kaal kirjutas selle luuletuse oma Armeenia reisi muljete põhjal. Kas oled reisides võrrelnud teisi kohti või maid Saaremaaga? Mida ja kuidas?
 - Mida on sulle Saaremaa õpetanud? Kui on?
 
 </details-wrapper>
