@@ -234,7 +234,7 @@ const store = createStore({
                     "tags" : ["Betti Alver", "saarlane", "proosa"] 
                 },
                 {
-                    "title": "Kas on kuskil see kadakaaru?",
+                    "title": "Kas on veel kuskil see kadakaaru?",
                     "slug": "debora-vaarandi-kadakaaru",
                     "tags" : ["Debora Vaarandi","proosa", "maailmavalu"] 
                 },
