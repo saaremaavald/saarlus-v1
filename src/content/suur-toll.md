@@ -1,5 +1,4 @@
 ---
-title: Kus on Saaremaa seljaroog ja kuidas sai Kuressaare oma nime?
 slug: suur-toll
 author: rahvajutt
 origin: ""
@@ -25,11 +24,11 @@ Tõllu haud asub Hirmuste mäel Kärla kihelkonnas Saaremaal, kust tervelt seits
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- Vaadake animafilmi Suurest Tõllust ja arutlege, millised mõtted ja tunded teil seda vaadates tekkisid ning kuidas neid mõtteid ja tundeid mõjutasid nt animafilmi joonistusstiil ja muusika: https://www.youtube.com/watch?v=7DUhv7lTAuk&t=4s
-- Kas vastab tõele, et just see osa Saaremaast on kõige varem merepinnast kõrgemale kerkinud? Uuri järele!
-- Kas tead veel lugusid, kuidas Kuressaare sai oma nime? Milliseid? Vaata, mida pakub sellele küsimusele vastuseks Eesti kohanimeraamat: https://www.eki.ee/dict/knr/
+- Vaata animafilmi Suurest Tõllust: https://www.youtube.com/watch?v=7DUhv7lTAuk&t=4s. 
+- On see tõsi, et just see osa Saaremaast on kõige varem merepinnast kõrgemale kerkinud? Uuri järele!
+- Kas tead veel lugusid, kuidas Kuressaare sai oma nime? Milliseid? Vaata, mida pakub sellele küsimusele vastuseks Eesti kohanimeraamat: https://www.eki.ee/dict/knr/index.cgi?Q=Kuressaare&F=M&C06=en
 
 </details-wrapper>
 
@@ -37,18 +36,8 @@ Tõllu haud asub Hirmuste mäel Kärla kihelkonnas Saaremaal, kust tervelt seits
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
 - Tekst: E 61534/35 (2) < Jämaja — A. Kuldsaar (1927). Vt. Kohanimede tekkimine, muist. 118—125. https://www.folklore.ee/rl/folkte/myte/olev/toll.html (link ei vii täpselt loole)
-- Foto: **Saara Alexanda Truverk**, **Merili Pappel**, **Johanna Klaar**, Tartu Kunstikool; toidukunsti aluseks kunstnik **Jüri Arraku** maalid Suurest Tõllust ning eesti toit retseptiraamatust  "Eesti rahvusköök", Maalehe Raamat, 2004.
+- Foto: **Saara Alexanda Truverk**, **Merili Pappel**, **Johanna Klaar**, Tartu Kunstikool; toidukunsti aluseks kunstnik **Jüri Arraku** maalid Suurest Tõllust ning toiduainete valik retseptiraamatust  "Eesti rahvusköök", Maalehe Raamat, 2004.
 
 </details-wrapper>
 
-<h2>Retsept</h2>
-
-800 g soolatud läbikasvanud sealiha
-1 keskmine kaalikas
-4-5 keskmist porgandit
-1 väike kapsapea
-8-10 keskmist kartulit
-hakitud maitserohelist
-
-2018\. oli Euroopas kultuuripärandi aasta. Tartu Kunstikooli õpilased kujundasid reklaami ja piktograafia tundides eesti rahvusköögi toiduainetest eesti rahvakultuuri elemente ja kunstiteoseid. Kujundajad, stilistid ja dekoraatorid uurisid kohalike juurviljade, puuviljade, kala ja liha värve ning vorme eesmärgiga panna Eesti pered värske pilguga eesti toiduaineid ja eesti kultuuripärandit vaatama. NB! Toidukunstiteosed polnud mõeldud pakkuma mitte niivõrd uusi serveerimisviise, kuivõrd leidma eesti rahvusköögi retseptidest, mille lõplik vorm võib olla kollakas mass nagu kartulipudrul või roosakas-hallikas mass nagu rosoljel, algsed värvid ja vormid, ning taasleidma need eesti rahvakultuuris ning kunstis.
-Toiduained andis õpilastele küsimise peale lahkelt COOP. Õpilased andsid endast parima, et toiduained ära kasutada.
+2018\. oli Euroopas kultuuripärandi aasta. Tartu Kunstikooli õpilased kujundasid eesti rahvusköögi toiduainetest eesti rahvakultuuri elemente ja kunstiteoseid. Õpilased uurisid kohalike juurviljade, puuviljade, kala ja liha värve ning vorme eesmärgiga panna Eesti pered värske pilguga eesti toiduaineid ja eesti kultuuripärandit vaatama. Õpilased andsid endast parima, et toiduained ära kasutada.
