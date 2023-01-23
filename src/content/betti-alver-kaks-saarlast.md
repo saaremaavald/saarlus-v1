@@ -55,7 +55,7 @@ tal pani jala ette.
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
 - Ballaadi esitab näitleja Aarne Üksküla: https://arhiiv.err.ee/vaata/15207
 - Balladi sünniloo saad teada siit: (link taustaloole, kus Betti Alver räägib proua Talvikuga)
