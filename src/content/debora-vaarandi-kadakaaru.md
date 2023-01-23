@@ -1,5 +1,4 @@
 ---
-title: Kas on kuskil see kadakaaru?
 slug: debora-vaarandi-kadakaaru
 author: Debora Vaarandi
 origin: 
@@ -47,12 +46,11 @@ Veel pole mõistetav osadus ja lepitus, ja ligimene on muidu üks vanaaegne sõn
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
 - On sul oma koht, kus käid mõtlemas elu ja maailma üle? Kus ja milline, kui oled nõus teistega jagama?
 - Milline on looduse roll sinu elus?
 - Kust sa ammutaid ideid, energiat?
-- Kes sa oled? Kuidas kirjeldaksid end nüüd ja praegu?
 - Oled sa tundnud maailmavalu? Mis puhul?
 - Mida tähendavad sinu jaoks sõnad “osadus” ja “lepitus”?
 
@@ -61,7 +59,7 @@ Veel pole mõistetav osadus ja lepitus, ja ligimene on muidu üks vanaaegne sõn
 
 <details-wrapper summary="Allikas" class="text-sm" icon="IconSources">
 
-- Tekst: **Debora Vaarandi**, **Endel Priideli** kogumikus "Teose sünd", 1976.
+- Tekst: **Debora Vaarandi** "Kaudu mulla ja asfaldi", **Endel Priideli** kogumikus "Teose sünd", Eesti Raamat, 1976.
 - Foto: **Merit Karise**
 
 </details-wrapper>
