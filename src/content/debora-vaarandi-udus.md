@@ -49,7 +49,7 @@ ja huulte serval nukker naeruvina.
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- Kui tihti sa käid sa Titerannas ja lossipargis? Mida sa seal teed?
+- Kui tihti käid sa Titerannas ja lossipargis? Mida sa seal teed?
 - Kas sulle meeldib udu, udused ilmad? Miks? Mida hallidel päevadel teed?
 - Kuidas sinu jaoks on seotud loodus ja meeleolud, tunded nagu kurbus ja rõõm, õnn? 
 - Milline tähenduse vahe on sõnadel “kurbus” ja “tusk”, “solvamine” ja “torkamine”?
