@@ -1,8 +1,6 @@
 ---
-title: Mis on Kaali järve põhjas?
 slug: mis-on-kaali-jarve-pohjas
-author: rahvajutt
-origin: Jutustanud Olga Anupõld Kuressaarest.
+author: Rahvajutu jutustanud Olga Anupõld Kuressaarest.
 tags: [rahvajutt, murdekeel, Kaali järv]
 images: [
     {
@@ -23,12 +21,11 @@ Kord tahtnud külarahvas mööta Kaali järve sügavust. Nad sidund terve küla 
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks" >
+<details-wrapper summary="Mis mõtted tekkisid?" >
 
 - Mida oled sina mõelnud ja tundnud, kui oled Kaali järve ääres käinud?
 - Mis sa arvad, miks tekitab Kaali järv inimestes selliseid mõtteid, nagu ülal toodud rahvajutus ja nagu järgnevas lühifilmis: https://www.youtube.com/watch?v=GVWPTDdNlZg
 - Millised näeksid need järve põhja elanikud välja? Kui sa joonistaksid neid?
-- Milliseid meeme saaks selle rahvajutu põhjal teha?
 
 </details-wrapper>
 
