@@ -31,7 +31,7 @@ Nüüd läksid jälle teine linna ja teine maale elama.
 
 <details-wrapper summary="Mis mõtted tekkisid?">
 
-- Mis sa arvad, kuidas ja miks üldse selline rahvajutt tekkis? Ja veel selliste peategelastega?
+- Mis sa arvad, kuidas ja miks selline rahvajutt üldse tekkis? Ja veel selliste peategelastega?
 - Mis eristab sinu arvates praegu maal ja linnas elavaid inimesi? Kas üldse midagi eristab?
 - Kus sa ise elada tahaksid, linnas või maal? Miks?
 - Mille poolest on linnas elu parem ja mille poolest maal?
