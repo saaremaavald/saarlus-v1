@@ -130,7 +130,7 @@ Alles aasta hiljem tajusin, et «oma saar» oli mulle ka jõudu andnud. Ta olid 
 - On sul Saaremaal “oma saar”? Kus ja milline - kui oled nõus oma kohast teistele rääkima?
 - Kui Saaremaa nimi poleks Saaremaa, siis mis nimi sobiks selle asemel?
 - Kuhu viiksid matkale sõbrad, kes sulle näiteks mandrilt või kaugemalt suvel külla tulevad? Kuhu tahaksid Saaremaal ise matkata?
-- Kelle luuletust ülal toodud jutus tsiteeritakse? https://arhiiv.err.ee/vaata/100-luuleparli-oma-saar-gustav-suits-loeb-karol-kuntsel
+- Kelle luuletust ülal toodud jutus tsiteeritakse? Saarlasest näitleja Karol Kuntsel esitab: https://arhiiv.err.ee/vaata/100-luuleparli-oma-saar-gustav-suits-loeb-karol-kuntsel
 
 </details-wrapper>
 
