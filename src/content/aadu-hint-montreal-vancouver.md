@@ -1,5 +1,4 @@
 ---
-title: Paadis peaks ju hirm suurem olema?
 slug: aa
 author: Aadu Hint
 origin:  
@@ -9,7 +8,7 @@ images: [
     }
 ]
 dictionary: [[ei, ole]]
-tags: [Debora Vaarandi]
+tags: [Aadu]
 ---
 
 <h1 class="story-h1">
@@ -65,10 +64,8 @@ Ma ei saanud linde kuidagi abistada ning ei suutnud nende, meie kaugete sugulast
 
 <hr class="mb-6" />
 
-**Aadu**, sünninimega **Adolf Edmund Hint** veetis lapsepõlve Saaremaal Lümanda vallas Kuusnõmme külas Kopli talus. Tema isa oli põllumees ja kaugesõidukapten. Ta õppis Saaremaa Ühisgümnaasiumis ning 19aastaselt hakkas tööle õpetajana Kihelkonna Rootsiküla algkoolis. Oma esimese romaani “Pidalitõbi” avaldas ta 24 aastaselt.
 
 Aadu Hint loeb ise ette ülal toodud jutustuse: “Vaikne meri, laev ja linnud” https://arhiiv.err.ee/vaata/kirjaniku-toolaualt-kirjaniku-toolaualt-aadu-hint-jutustus-quot-vaikne-meri-liiv-ja-linnud-quot/same-series
-Pidalitõvest Saaremaal: https://arhiiv.saartehaal.ee/2009/11/09/audaku-leprosoorium-105/
 
 
 
@@ -78,23 +75,19 @@ Pidalitõvest Saaremaal: https://arhiiv.saartehaal.ee/2009/11/09/audaku-leprosoo
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
 - On sul tulnud merel ette kummalisi olukordi või tundeid? Milliseid?
-- *“Keti tugevus ei olene mitte keti pikkusest ja mitte keti kõige tugevamate, vaid kõige nõrgemate lülide vastupidavusest.”* <br />Kus võiks see tõde kehtida peale mere? Oled sa ise seda mõnes olukorras kogenud? Millises? Mida sellest õppisid?
-- *“Ja siiski on hetki, mil ma kardan vastutuse jaotumist liiga suurele hulgale, kardan vastutuse-väärtpaberite liiga ohtrat turulepaiskamist, kardan vastutuse inflatsiooni.”* <br />Mis see tähendab? Meenuta olukordi, kus sa ise või keegi teinud on pidanud võtma vastutuse lahenduse leidmise või tagajärgede eest. Kuidas sul endal vastutamisega lood on?
-- Milline mõttetera sind veel sellest jutustusest kõnetas? Miks? Räägi sellest.
-- Millist mereluulet või -laule sa tead? Mõtled sa mõnele neist, kui paadi, laeva või parvlaevaga sõidad?
-- Kus ja millal oled kogenud oma elu suurimaid laineid? Mida sa siis tundsid?
-- *“Ma ei suuda pidada inimesi, ei ennast ega teisi, enam isegi alati mõistlikult headeks, kas või nendele enestele kasulikult heatahtlikeks olenditeks. Ma olen jätnud hirmu või egoismi pärast paljugi tegemata, mida oleksin pidanud tegema isegi oma kõige lähedasematele inimestele.”* <br />Meenub sulle midagi enese elust, mille kohta kehtib sama mõte?
+- *“Keti tugevus ei olene mitte keti pikkusest ja mitte keti kõige tugevamate, vaid kõige nõrgemate lülide vastupidavusest.”* <br />Oled sa ise seda mõnes olukorras kogenud? Millises? Mida sellest õppisid - kui õppisid? Kas leiad jutustuses veel häid mõtteteri? Milliseid?
+
 
 </details-wrapper>
 
 
-<details-wrapper summary="Allikas" class="text-sm" icon="IconSources">
+<details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
-- **Aadu Hindi** eluloolised andmed: https://et.wikipedia.org/wiki/Aadu_Hint
+- **Aadu Hindi** elust ja loomingust saab lugeda siit: https://kreutzwald.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?item_id=390&page_start=&table=Persons
 - Jutustus “Vaikne meri, laev ja linnud” kogumikust “Meri, mehed, laev ja linnud”, koostaja **Endel Priidel**, Tallinn “Eesti raamat”, 1985.
-- Foto Kanada linna Vancouveri (mitte Montreali) rannikust, **Merit Karise**
+- Foto: **Merit Karise**, Kanada linna Vancouveri (mitte Montreali) rannik
 
 </details-wrapper>

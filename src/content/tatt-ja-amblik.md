@@ -1,8 +1,6 @@
 ---
-title: Kas tahaksid elada linnas või maal?
 slug: tatt-ja-amblik
-author: rahvajutt
-origin: Kirja pannud Arnold Kuusk Räimaste külas Püha kihelkonnas. 
+author: Rahvajutu kirja pannud Arnold Kuusk Püha kihelkonnas Räimaste külas. 
 images: [
     {
         src: "tatt-ja-amblik.webp"
@@ -31,12 +29,13 @@ Nüüd läksid jälle teine linna ja teine maale elama.
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- Mis eristab sinu arvates praegu maa- ja linnainimesi? Kas üldse midagi eristab?
+- Mis sa arvad, kuidas ja miks selline rahvajutt üldse tekkis? Ja veel selliste peategelastega?
+- Mis eristab sinu arvates praegu maal ja linnas elavaid inimesi? Kas üldse midagi eristab?
 - Kus sa ise elada tahaksid, linnas või maal? Miks?
 - Mille poolest on linnas elu parem ja mille poolest maal?
-- Tatt ja ämblik, üks loodus mõlemad. Mis asi on loodus, mida me selle sõnaga tähistame? https://www.youtube.com/watch?v=dVgjyC7wVRg
+- Tatt ja ämblik on mõlemad looduse osad. Mis asi on loodus, mida selle sõnaga tähistame? Eesti Keele Instituut selgitab: https://www.youtube.com/watch?v=dVgjyC7wVRg
 
 </details-wrapper>
 
@@ -45,6 +44,6 @@ Nüüd läksid jälle teine linna ja teine maale elama.
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=1012
-- Foto: **Merit Karise**. Pildil on herilasämblik, kes Kesk-Euroopast tasapisi Saaremaale ja mujale Eestisse kolib. Mis sa arvad, miks?
+- Foto: **Merit Karise**. Pildil on herilasämblik, kes Kesk-Euroopast tasapisi Saaremaale ja mujale Eestisse kolib.
 
 </details-wrapper>

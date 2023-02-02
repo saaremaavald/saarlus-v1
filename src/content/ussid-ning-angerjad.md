@@ -1,8 +1,7 @@
 ---
-title: Kuda need ussid ja annergad siia ilma sigisid?
 slug: ussid-ning-angerjad
-author: rahvajutt
-origin: Jutustanud Mari Liiv Hõbeniku külast Püha kihelkonnast. 
+author: Rahvajutu jutustanud Mari Liiv Püha kihelkonnast Hõbeniku külast. 
+origin: 
 images: [
     {
         src: "ussid-ning-angerjad.webp",
@@ -24,14 +23,12 @@ Kui Vanajumal ilma loos, siis ta viskand ülalt taevast pailajupi maha. Üks ots
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <story-dictionary :terms="frontmatter.dictionary" />
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- Nagu lugesid, tekkisid saarlaste arvates uss ja angerjas paelast. Austraallaste, maailma suurima saare ja samas väikseima mandri elanikel on maol tähtis roll maailma loomisel: https://www.aboriginal-art-australia.com/aboriginal-art-library/rainbow-serpent/, https://www.youtube.com/watch?v=pCuuRRrfOXo Mis on Saaremaa ja Austraalia lugudes ühist ja mis erinevat?
-- Kas panid tähele, et fotol on küi ehk Sõrve murdes vaskuss. Nime järgi uss, aga kes ta tegelikult on?
+- Kas panid tähele, et fotol on vaskuss. Nime järgi uss, aga kes ta tegelikult on?
 - Milline on sinu suhe ussi ja angerjaga? Oled esimest kohanud ja teist söönud?
 - Mis seisus on Euroopa angerjas? https://arhiiv.err.ee/vaata/kaduva-maailma-lavel-angerjas
-- Milline on uss kultuuri ja zooloogia vaatevinklist? Aleksei Turovski teab: https://sirp.ee/s1-artiklid/c9-sotsiaalia/uss-kes-teadis-inimsonu/
-- Millised on eesti ussi-uskumused? https://www.folklore.ee/era/nt/PF2/2Kaasik.htm
+- Millised on eesti ussi-uskumused? Folklorist Mairi Kaasik tutvustab: https://www.folklore.ee/era/nt/PF2/2Kaasik.htm
 - Kuidas sa joonistaksid või kujutaksid muul moel (nt kollaažina, teeksid tekstiilist jms käepärasest materjalist) ülal toodud rahvajutu tulemust, paelajupist siginud ussi ja annergat?
 
 </details-wrapper>

@@ -1,8 +1,7 @@
 ---
-title: Ma neiman mõrvarile ta oma relvaga
 slug: andres-ehin-aavik
-author: Andres Ehin
-origin: Kuressaares 08. dets. 2005 <b>Johannes Aaviku</b>, suure keeleuuendaja 125. sünniaastapäeval
+author: Andres Ehin "Ma neiman mõrvarile ta oma relvaga"
+origin: Kuressaares 08. dets. 2005 Johannes Aaviku, suure keeleuuendaja 125. sünniaastapäeval
 
 images: [
     {
@@ -38,18 +37,19 @@ On antud nimi - m õ r v a r.
 <details-wrapper summary="Mõtlemiseks ja arutlemiseks">
 
 - Milliseid sõnu sina neist kasutad: kuritegu, roim, luukere, luger, mõrtsukas, mõrvar?
-- Proovi sama moodi luuletada? Sõnu saad siit: https://www.facebook.com/J.AavikuSelts/posts/325770564240485
-- Kas sa mäletad uudissõnu, mis on sinu eluajal kasutusse tulnud? Milliseid? Kas mäletad ka nende tulekuga kaasnenud reaktsioone, on neid tervitatud või kummastatud? Oled sa ise sõnu leiutanud? Milliseid?
-- On sul oma lemmiksõna? Kas saab üldse olla lemmiksõnu? Mis kõlavad kuidagi mõnusalt, on suupärased? Milline on hea sõna? Millised on või võiksid olla sõna headuse kriteeriumid?
-- Johannes Aavikust: https://kultuur.postimees.ee/354322/tana-130-aasta-eest-sundis-eesti-suurim-sonameister-johannes-aavik
-- Paku välja oma uudissõna, kui võistlus jälle tuleb! https://sonaus.ee/
+- Kui õige prooviksid sama moodi luuletada? Sõnu leiad ja oma arusaamist neist saad testida siin: http://saaremaa.folklore.ee/aavik/ 
+- Oled sa ise sõnu leiutanud või on su sõpruskonnas, peres kasutusel omaleiutatud sõnu? Milliseid?
+- On sul oma lemmiksõna? Kas saab üldse olla lemmiksõnu ehk selliseid sõnu, mis kõlavad kuidagi mõnusalt, on suupärased? Milline on üks hea sõna?
+- Paku välja oma uudissõna, kui võistlus jälle tuleb: https://sonaus.ee/
 
 </details-wrapper>
 
 
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
-- Luuletus: **Andres Ehin**, Artikleid ja arhivaale IV, Johannes Aaviku Selts, koostaja **Jaan Õispuu** 2012
-Foto: **Merit Karise**, Mändjala rand
+- Luuletus: Artikleid ja arhivaale IV, Johannes Aaviku Selts, koostaja **Jaan Õispuu**, 2012
+- Johannes Aaviku elu ja töö kohta saab lugeda siit: https://kreutzwald.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?item_id=301&page_start=&table=Persons
+- Andres Ehini elu ja loomingu kohta saab lugeda siit: https://keeljakirjandus.ee/ee/archives/24520
+- Foto: **Merit Karise**, Mändjala rand
 
 </details-wrapper>

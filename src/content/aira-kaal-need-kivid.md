@@ -1,5 +1,4 @@
 ---
-title: Need kivid
 slug: aira-kaal-need-kivid
 author: Aira Kaal
 origin: ""
@@ -9,14 +8,12 @@ images: [
     }
 ]
 # dictionary: [[ei, ole]]
-# tags: []
+# tags: [Aira Kaal]
 ---
 
 <h1 class="story-h1">
     {{frontmatter.title}}
 </h1>
-
-<!-- Fotole: Need kivid ajavad mind hulluks -->
 
 Need kivid mind ajavad hulluks,
 kui palju vorme on neil!
@@ -53,12 +50,10 @@ küllap mind õpetand nad.
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- Aira Kaal kirjutas selle luuletuse Armeeniast, mis on üks kivine maa.
-- Kas tunned ära, mis koht on fotol?
-- Kus sa oled reisinud? Kas oled reisides võrrelnud teisi maid Saaremaaga? Milliseid aspekte?
-- Mida sulle on Saaremaa õpetanud?
+- Aira Kaal kirjutas selle luuletuse oma Armeenia reisi muljete põhjal. Kas oled reisides võrrelnud teisi kohti või maid Saaremaaga? Mida ja kuidas?
+- Mida on sulle Saaremaa õpetanud? Kui on?
 
 </details-wrapper>
 
@@ -66,6 +61,7 @@ küllap mind õpetand nad.
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
 - Luuletus: **Aira Kaal** “Need kivid” kogust “Üks tigu ilma majata”, Eesti Raamat, Tallinn, 1968
+- Aira Kaalu elu ja loomingu kohta saab lugeda siit: https://kreutzwald.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?item_id=371&table=Persons
 - Foto: **Merit Karise**
 
 </details-wrapper>

@@ -1,5 +1,4 @@
 ---
-title: Jääräim, hallakala, rohuräim, leheräim, õunapuuõieräim, koerputkeräim, rukkiõieräim, suveräim, rukkiküliräim, sügiskuderäim
 slug: aa
 author: Jüri Tuulik
 origin:  
@@ -55,10 +54,10 @@ Raamatuid on palju kirjutatud, aga räimepüügi õpikut pole Preedik oma silmag
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
 - Kuidas on sinu suhe räimega? Sööd? Oskad valmistada? Püüad?
-- Mis on seisus on Saaremaal tänapäeval räimepüük? Vaata kohalikest lehtedest.
+- Jüri Tuulik on öelnud nii: „Kõige suurem vajadus muhedate inimeste järele on just väikestes kollektiivides. Väikesel saarel või võrgupaadis on väga tähtis, et oleks hulgas muhedaid inimesi.“ Oled sa nõus? Miks on see nii?
 - Mis juhtus Saaremaal, Eestis ja maailmas siis, kui sina sündisid? Mis oleks sulle oluline teema, millega oma elu sündmusi võrdleksid nagu ülal loos räimepüügiga? Ja vastupidi, mida tegid sina, kui Saaremaal, Eestis, maailmas toimusid olulised sündmused?
 
 </details-wrapper>
@@ -120,7 +119,8 @@ Määritud ahjuvormi laduda kihiti räimefileed, ribastatud sibul, peenestatud k
 
 <details-wrapper summary="Allikas" class="text-sm" icon="IconSources">
 
-- Tekstilõigud ja retseptid: **Jüri Tuulik**, “Räim, pisike kena kala: valitud lugusid ja toiduretsepte”, 2008.
+- Tekstilõigud ja retseptid: **Jüri Tuulik**, “Räim, pisike kena kala: valitud lugusid ja toiduretsepte”, kirjastus Kadmirell, 2008.
+- Jüri Tuuiku elu ja loomingu kohta saab lugeda siit: http://www.looming.ee/artiklid/juri-tuulik-22-ii-1940-3-vii-2014/
 - Räime nimetused: https://www.kalapeedia.ee/5808.html
 - Foto: **Eilika Trummar**
 

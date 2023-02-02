@@ -1,5 +1,4 @@
 ---
-title: Lahkumise laul
 slug: aira-kaal-lahkumise-laul
 author: Aira Kaal
 origin: ""
@@ -56,19 +55,19 @@ kõik mälestused oort.
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- Kuula neid sõnu laulus, mida saarlane Heli Lääts laulab (kohe saate alguses): https://arhiiv.err.ee/vaata/saja-aasta-laulud-saja-aasta-laulud-1973-1974-a
-- Mis tunne sul on Saaremaalt lahkudes ja Saaremaale naastes?
+- Mis tunne on sul Saaremaalt lahkudes ja Saaremaale naastes?
 - Millal oled Saaremaa järele kõige rohkem igatsenud?
-- Millest oled Saaremaalt ära olleks kõige rohkem puudust tundnud?
+- Millest tunned Saaremaalt ära olles kõige rohkem puudust?
 
 </details-wrapper>
 
 
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
-- Luuletus: **Aira Kaal**, “Lahkumise laul” (Pöide murrakus), kogust “Üks tigu ilma majata”, Eesti Raamat, Tallinn, 1968
+Luuletus: **Aira Kaal**, “Lahkumise laul” (Pöide murrakus) kogust “Üks tigu ilma majata”, Eesti Raamat, Tallinn, 1968
+Aira Kaalu elu ja loomingu kohta saab lugeda siit: https://kreutzwald.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?item_id=371&table=Persons
 Foto: **Merit Karise**
 
 </details-wrapper>

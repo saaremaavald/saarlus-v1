@@ -1,8 +1,6 @@
 ---
-title: Miks veiksel valgel jänesel mokk löhki on?
 slug: janese-lohkine-mokk
-author: rahvajutt
-origin: Kirja pannud Juhan Ratas Lõve vallas Valjala kihelkonnas.
+author: Rahvajutu kirja pannud Juhan Ratas Valjala kihelkonnas Lõve vallas.
 images: [
     {
         src: janese-lohkine-mokk.webp,
@@ -38,8 +36,6 @@ Sest ajast saadik on jänese suu nelja risti löhki ja kui jahikoerad teda taga 
 <story-dictionary :terms="frontmatter.dictionary" />
 
 <dummy-spacer height="10vh" />
-
-
 Kuula (ja laula kaasa!), millisena **Sõrve bänd Küi** tänapäeva valgejänese elu metsas kujutab:
 
 <youtube-wrapper video="https://www.youtube.com/embed/l_uVXdZhFWc" />
@@ -89,16 +85,11 @@ kas nas natuke liiga kiire? see oli valgejänese hõik!
 
 
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
-
-- Mis sa arvad, miks jänesed tahtsid just Saksamaale minna, mitte mujale? 
-- Kui sul oleks võimalus Saaremaalt ära minna, siis kuhu sa läheksid? Miks? Mida tegema? Kui kauaks? 
-- Kas sa kannaksid sellist T-särki? Miks? On sul kirjaga T-särke? Millise kirjaga? On sul eestikeelseid T-särke? On see üldse oluline, mis T-särgile kirjutatud on?
-- Miks jänesel päriselt selline mokk on?
-- Miks me me ütleme “bussijänes”, “päikesejänku”, “katsejänes” või et inimesel on jänes püksis? Vastuse otsimisel saad abi siit (lk 16): http://www.eestiloodus.ee/arhiiv/Eesti_Loodus11_2014.pdf
-- Vaata Tartu Kunstikooli õpilase Mai Raeti joonistatud kujundust väljendile “jänes püksis” ja kirjelda, kuidas on ta kokku pannud jänese ja püksid. Mida on ta kujutanud jänesest ja pükstest ja mida mitte?
-- Milliseid väljendeid tead, mis on seotud lamba ja tema omadustega? Abi saad siit: http://www.eki.ee/dict/frs/index.cgi
-- Millise kujunduse joonistaksid lambaga mõnele lambaga seotud väljendile, nii et selle tähendus tuleb pildist lühidalt ja vaimukalt välja?
+<details-wrapper summary="Mis mõtted tekkisid?">
+ 
+- Miks jänesed just Saksamaale tahtsid minna? Kui sul oleks võimalus Saaremaalt ära minna, siis kuhu sa läheksid? Miks? Mida tegema? Kui kauaks? 
+- Kas sa kannaksid sellist T-särki nagu ülal fotol? Miks? On sul kirjaga T-särke? Millise kirjaga? On sul eestikeelseid T-särke? On see üldse oluline, mis keeles ja mida T-särgile on kirjutatud?
+- Mis sa arvad, miks me me ütleme “bussijänes”, “päikesejänku”, “katsejänes” või et inimesel on jänes püksis? Vastuse otsimisel saad abi siit (lk 16): http://www.eestiloodus.ee/arhiiv/Eesti_Loodus11_2014.pdf
 
 </details-wrapper>
 
@@ -106,7 +97,6 @@ kas nas natuke liiga kiire? see oli valgejänese hõik!
 <details-wrapper icon="IconSources" summary="Allikad" class="text-sm">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=1065
-- Foto lammastest: **Madli Pesti**
 - T-särgi kujundus “Jänes püksis”: Mai Raet, Tartu Kunstikool
 - Foto T-särgist modelli seljas: modell Eleri Kupits, fotograaf Sirelin Siigur, Kuressaare ametikooli disainisuund
 

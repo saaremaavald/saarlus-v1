@@ -1,5 +1,4 @@
 ---
-title: Siit sa oled, siia sa jääd mereveerele
 slug: aa
 author: Jaan Kaplinski
 origin:  
@@ -18,7 +17,7 @@ tags: []
  
 Ülikool ise algas isemoodi: esimesed ajaloo-keeleteaduskonna kursused saadeti Saaremaale kolhoosi. Olin seal üsna kaua - üheksanda oktoobrini ja selle ajaga sain sõbraks maaga ja inimestega. Selle sügise mälestused on kolmeteist aasta tagantki nii vastsed, et peaaegu tunnen mere lõhna ja pirnide maiku perenaise aias, kelle juures elasime ja kes oma suure viljapuuaia meie käsutusse andis. Puudutan käega Püha kiriku kella ja lähen läbi sarapike, pea kuklas, põu pähkleid täis, kuulen külamuttide kädistamist odrapõllul, tantsin lahkumispeol tennistes valssi, astudes üle mõne Vätta kaluri, kelle omanurga õlu pikali võtnud. Mu ees on neemetipp, mis lõunasse aheneb kivirahnude reaks, mu kõrval üks kauge ja tore tüdruk, meri on rahulik, lainetel ulbivad võrkude küljest vallandunud klaasmunad.
 
-Inimene elab kahesuguses keskkonnas - sõnades, mis pärinevad teistelt inimestelt, ja asjades-liikumistes, mis on loodus ja inimesed ise. Ilmselt on inimesel vaja elada korraga neis kahes keskkonnas, tasakaalustada nad endale. Usun, et Saaremaani olin elanud rohkem sõna-keskkonnas, seal avastasin looduse. Sellest olen aru saanud alles hiljem, toona olin lihtsalt õnnelik ja armunud, kuigi ei teadnud õieti kumbagi. Saaremaal sai selgeks, kes olen ja kuhu kuulun, seisin paljajalu õuemurul Ja tundsin, et võiksin nii olla alati.
+Inimene elab kahesuguses keskkonnas - sõnades, mis pärinevad teistelt inimestelt, ja asjades-liikumistes, mis on loodus ja inimesed ise. Ilmselt on inimesel vaja elada korraga neis kahes keskkonnas, tasakaalustada nad endale. Usun, et Saaremaani olin elanud rohkem sõna-keskkonnas, seal avastasin looduse. Sellest olen aru saanud alles hiljem, toona olin lihtsalt õnnelik ja armunud, kuigi ei teadnud õieti kumbagi. Saaremaal sai selgeks, kes olen ja kuhu kuulun, seisin paljajalu õuemurul ja tundsin, et võiksin nii olla alati.
 
 [---] kus
 said õppida käima laulma lendama väike vang Tartust Ülikooli tänavalt
@@ -39,9 +38,7 @@ See kõik on otsekui aeglane sisemine lainetamine, õieti mitu lainetamist, mis 
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
-
-- 
+<details-wrapper summary="Mis mõtted tekkisid?"> 
 
 </details-wrapper>
 
@@ -49,7 +46,8 @@ See kõik on otsekui aeglane sisemine lainetamine, õieti mitu lainetamist, mis 
 
 <details-wrapper summary="Allikas" class="text-sm" icon="IconSources">
 
-- Tekst: **Jaan Kaplinski** “Laulude sünnimailt” **Endel Priideli** kogumikust “Teose sünd”, Eesti Raamat, Tallinn, 1976
+- Tekst: **Jaan Kaplinski** “Laulude sünnimailt”, **Endel Priideli** kogumik “Teose sünd”, Eesti Raamat, Tallinn, 1976
+- Jaan Kaplinski elust ja loomingust: https://jaankaplinski.eu/visioon/
 - Foto: **Merit Karise**
 
 </details-wrapper>

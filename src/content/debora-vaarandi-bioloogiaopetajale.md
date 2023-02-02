@@ -1,5 +1,4 @@
 ---
-title: Bioloogiaõpetajale
 slug: debora-vaarandi-bioloogiaopetajale
 author: Debora Vaarandi
 origin: ""
@@ -18,7 +17,8 @@ tags: [vainurästas, õpetaja, bioloogia, meri, tamm]
 
 <!-- Fotole: Ma tundsin loodust kui torkivat kõrrepõldu -->
 
-<!-- Oma bioloogiaõpetajale -->
+Oma bioloogiaõpetajale
+
 Ma tundsin loodust kui torkivat kõrrepõldu,
 kust saadi must magus leib.
 Kui looma, kelle liha aurab kausis,
@@ -62,18 +62,18 @@ Täägid:
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- Mida sina ütleksid oma bioloogiaõpetajale?
-- Mida on mis tahes aine õpetaja sinu jaoks ühte maailmapilti asetanud? Selgema ja sügavama teadmise pakkunud?
-- Kes on olnud sinu jaoks olulised õpetajad? Ei pruugi olla ainult koolist. Miks on ta/nad sulle olulised õpetajad? Mida nad on sulle õpetanud? Millal, kuidas?
+- Mida sina ütleksid või kirjutaksid oma bioloogia- või muu aine õpetajale, kes on su maailmapilti avardanud?
+- Kes on olnud sinu jaoks olulised inimesed, kellelt oled midagi õppinud? Mida nad on sulle õpetanud? Millal, kuidas?
 
 </details-wrapper>
 
 
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
-Luuletus: **Debora Vaarandi**
+Luuletus: **Debora Vaarandi** “Turdus musicus” kogumikust “Luuletused 1954-1976”, Eesti Raamat, 1981.
+Debora Vaarandi elu ja loomingu kohta saab lugeda siit: https://sirp.ee/s1-artiklid/varia/debora-vaarandi-1-x-1916-28-iv-2007/
 Foto: **Merit Karise**
 
 </details-wrapper>

@@ -1,5 +1,4 @@
 ---
-title: Kaks saarlast
 slug: betti-alver-kaks-saarlast
 author: Betti Alver
 origin: ""
@@ -56,12 +55,11 @@ tal pani jala ette.
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- Kuula ballaadi näitleja Aarne Üksküla esituses: https://arhiiv.err.ee/vaata/15207
-- Loe balladi sünnilugu (link taustaloole, kus Betti Alver räägib proua Talvikuga)
+- Ballaadi esitab näitleja Aarne Üksküla: https://arhiiv.err.ee/vaata/15207
+- Balladi sünniloo saad teada siit: (link taustaloole, kus Betti Alver räägib proua Talvikuga)
 - Mida tähendab sinu jaoks sõprus? Milles see väljendub, et keegi on su sõber ehk millist inimest nimetad oma sõbraks?
-- Mida sa oled nõus oma sõbra heaks tegema? Mida sa ei ole nõus sõbra heaks tegema?
 - Kuidas leidsid oma kõige esimese sõbra? Kas olete sõbrad siiani?
 - Kui suur osa su suhtlusest sõpradega toimub sotsiaalmeedias ja kui suur osa vahetult, näost-näkku?
 - Mida sa sõpradega koos teed?
@@ -72,7 +70,8 @@ tal pani jala ette.
 
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
-Ballaad: **Betti Alver**, “Kaks saarlast” kirjutatud 1939, ilmunud luulekogus “Tähetund”, Eesti Raamat, Tallinn, 1966. 
+Ballaad: **Betti Alver**, “Kaks saarlast” (1939), luulekogu “Tähetund”, Eesti Raamat, Tallinn, 1966. 
+Betti Alveri elu ja loomingu kohta saab lugeda siit: https://kultuur.err.ee/1608314084/onnepalu-betti-alveri-luule-ei-puua-olla-sugav-vaid-on-seda-enese-tahtmata
 Foto: **Merit Karise**
 
 </details-wrapper>

@@ -1,8 +1,7 @@
 ---
-title: Miks lesta suu kiivas on?
 slug: lesta-kiivas-suu
-author: rahvajutt
-origin: Jutustanud Jaak Lepik, pärit Salme külast Anseküla kihelkonnast. 
+author: Rahvajutu jutustanud Jaak Lepik Anseküla kihelkonnast Salme külast. 
+origin: 
 images: [
     {
         src: "lesta-kiivas-suu.webp"
@@ -29,14 +28,11 @@ Sellest oli lest jäändki kiiva suuga. Ajab endale vihaga liiva peele, kui pü�
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <story-dictionary :terms="frontmatter.dictionary" />
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- Milliseid muid seletusi saaks pakkuda lesta kõverale suule?
-- Kuidas sul endal lestaga suhe on: püüad, ostad, puhastad, sööd? 
-- Kuidas lesta söögiks valmistada?
-- Kuidas lesta õigesti süüa?
-- Millises seisus on Läänemeri, lesta kodu? Kui ei tea, vaata netist.
-- Milline on lesta olukord Läänemeres? Kui ei tea, vaata netist. 
+- Milliseid muid seletusi saaks pakkuda lesta kõverale suule? Miks tal päriselt suu kiivas on?
+- Kuidas sul endal lestaga suhe on: püüad, ostad, puhastad, valmistad? Kuidas lesta õigesti süüa?
+- Millises seisus on Läänemeri, lesta kodu? Milline on lesta olukord Läänemeres? Kui ei tea, uuri netist. 
 
 </details-wrapper>
 

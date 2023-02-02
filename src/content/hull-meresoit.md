@@ -1,8 +1,6 @@
 ---
-title: So kõige ullem meresõit?
 slug: hull-meresoit
-author: rahvajutt
-origin: Jutustanud Jaan Hannus Kipi külast Kihelkonna kihelkonnast
+author: Jutustanud Jaan Hannus Kihelkonna kihelkonnast Kipi külast.
 tags: [rahvajutt]
 images: [
     {
@@ -50,16 +48,11 @@ Kapten saatend ennem mihe ütlema, et nad tulavad, ning käskind naise ema neid 
 <story-dictionary :terms="frontmatter.dictionary" />
 
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks" >
+<details-wrapper summary="Mis mõtted tekkisid?" >
 
-- Kõigepealt, kas said ilma sõnaseletusi vaatamata kõigest aru? Kas sa oskad seda rahvajuttu Saaremaa murdekeeles ette lugeda? Kui ei, siis tead sa kedagi, kes oskaks? Siit saad teada murrete olulisuse kohta üldiselt: https://www.youtube.com/watch?v=WVOHGtbSV28 ja siit Saaremaa murdekeele tunnused: http://saaremaa.folklore.ee/wordpress/?page_id=907
-- Mis sa arvad, mis ajast see rahvajutt on pärit?
+
 - Mis võib tänapäeva lugejat selles rahvajutus imestama panna?
-- Kas sul on ette tulnud Saaremaale sõitu või Saaremaal(t) sõitu, kus on juhtunud midagi eriskummalist, seletamatut? Mida?
 - Kui sul tuleks see rahvajutt esitada mingis muus vormis - filmina, animatsioonina, muusikavideona, koomiksina jne, siis mille valiksid? Miks?
-- Siit kuuled, kuidas orissaarlane Kaisa Ling arutleb mereteemalise kirjanduse üle muhulase Kadri Tüüri, meresõbra Veronika Kivisilla ja hiidlase Kristel Algverega: https://klassikaraadio.err.ee/1608133552/gogol/1225627
-- Kristel Algvere luulekogu “Merehurmarohi” (2018) arvustust saab lugeda siit: https://kultuur.err.ee/676818/arvustus-paikseline-hiiu-piiga-avastab-luule-kaudu-maailma
-- Kolm kirjanikku rändasid Saarele kesk ilmamerd: https://sirp.ee/s1-artiklid/c7-kirjandus/seesama-meri-meis-koigis/
 
 </details-wrapper>
 
@@ -67,7 +60,7 @@ Kapten saatend ennem mihe ütlema, et nad tulavad, ning käskind naise ema neid 
 <details-wrapper summary="Allikad" class="text-sm" icon="IconSources">
 
 - Rahvajutt: http://saaremaa.folklore.ee/wordpress/?p=870
-- Foto New Yorgist: **Merit Karise**
+- Foto: New York, **Merit Karise**
 
 </details-wrapper>
 

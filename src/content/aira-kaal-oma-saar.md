@@ -1,5 +1,4 @@
 ---
-title: Oma saar?
 slug: aa
 author: Aira Kaal
 origin:  
@@ -46,7 +45,7 @@ Muid huviosalisi on ka.
 
 Tulevad nagu meiegi lootuses, et siin on erakordselt vaikne. Ent alati ei ole ka siin vaikne.
 
-Ja tookord tehti Keinastul koguni filmivõtteid. Ma ei mäleta, kas «Mehed ei nuta» või mis ta pealkiri oli. Nojah - mehed ei nuta! Väga kena. Jätsime siis oma kamba mehed kus seda ja teist, kes tahab, püüdku kalu, kes tahab, püüdku hingi, meie aga, kolm naist, läksime uut paradiisi otsima. Seekord olime sunnitud oma samme põhjalikumalt kaaluma, et maailma rahvale mitte jalgu jääda. Tõtt-öelda oli Keinastu alati meie päralt olnud ja nii-öelda meile kuulunud, kui me siia sattusime... Kord ajasime lambakarjasega pikemalt juttu. Teinekord ei näinud me seal ühtegi hinge. Kuid ega me siis nii tumedad ka olnud. Meie hulgas oli ju Laani T., kelle tädi elas: vanasti Keinastul ja kes siin palju oli viibinud ning kõiki küla peresid tundis. Paari lookesega hingestas ta meile selle küla, tema kruusamäed ja kirsiaiad ja pillirookatused. Sest ilma kohalikke olusid tundmata ei oska sa võõras kohas õieti silmagi pilgutada!
+Ja tookord tehti Keinastul koguni filmivõtteid. Ma ei mäleta, kas «Mehed ei nuta» või mis ta pealkiri oli. Nojah - mehed ei nuta! Väga kena. Jätsime siis oma kamba mehed kus seda ja teist, kes tahab, püüdku kalu, kes tahab, püüdku hingi, meie aga, kolm naist, läksime uut paradiisi otsima. Seekord olime sunnitud oma samme põhjalikumalt kaaluma, et maailma rahvale mitte jalgu jääda. Tõtt-öelda oli Keinastu alati meie päralt olnud ja nii-öelda meile kuulunud, kui me siia sattusime... Kord ajasime lambakarjasega pikemalt juttu. Teinekord ei näinud me seal ühtegi hinge. Kuid ega me siis nii tumedad ka olnud. Meie hulgas oli ju Laani T., kelle tädi elas vanasti Keinastul ja kes siin palju oli viibinud ning kõiki küla peresid tundis. Paari lookesega hingestas ta meile selle küla, tema kruusamäed ja kirsiaiad ja pillirookatused. Sest ilma kohalikke olusid tundmata ei oska sa võõras kohas õieti silmagi pilgutada!
 
 Seks korraks oli küla filminäitlejate valduses, ja Laani arvas, et meil on targem otsekohe põõsastesse kaduda. Tegime, nagu ta soovitas. Sest võõrastele pole Keinastu eleegia tundmine kohuslik. Meie aga ei pääsenud sellest enam kuskile.
 
@@ -126,9 +125,12 @@ Alles aasta hiljem tajusin, et «oma saar» oli mulle ka jõudu andnud. Ta olid 
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- Kelle luuletust ülal toodud jutus tsiteeritakse? https://arhiiv.err.ee/vaata/100-luuleparli-oma-saar-gustav-suits-loeb-karol-kuntsel
+- On sul Saaremaal “oma saar”? Kus ja milline - kui oled nõus oma kohast teistele rääkima?
+- Kui Saaremaa nimi poleks Saaremaa, siis mis nimi sobiks selle asemel?
+- Kuhu viiksid matkale sõbrad, kes sulle näiteks mandrilt või kaugemalt suvel külla tulevad? Kuhu tahaksid Saaremaal ise matkata?
+- Kelle luuletust ülal toodud jutus tsiteeritakse? Saarlasest näitleja Karol Kuntsel esitab: https://arhiiv.err.ee/vaata/100-luuleparli-oma-saar-gustav-suits-loeb-karol-kuntsel
 
 </details-wrapper>
 
@@ -137,6 +139,7 @@ Alles aasta hiljem tajusin, et «oma saar» oli mulle ka jõudu andnud. Ta olid 
 <details-wrapper summary="Allikas" class="text-sm" icon="IconSources">
 
 - Tekst: **Aira Kaal**, “Kodunurga laastud”, II osa, Eesti Raamat, Tallinn, 1970
-- Foto: **Merit Karise**
+- Aira Kaalu elu ja loomingu kohta saab lugeda siit: https://kreutzwald.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?item_id=371&table=Persons
+- Foto: **Merit Karise** (fotol pole Kõinastu)
 
 </details-wrapper>

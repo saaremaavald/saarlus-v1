@@ -1,8 +1,6 @@
 ---
-title: Kuda on järved ja jöed tekkind?
 slug: jarved-ja-joed
-author: rahvajutt
-origin: Kirja pannud Amanda Rand oma vanaemalt Tamsalu külast Kaarma kihelkonnast.
+author: Kirja pannud Amanda Rand oma vanaemalt Kaarma kihelkonnast Tamsalu külast.
 images: [
     {
         src: "jarved-ja-joed.webp"
@@ -26,10 +24,11 @@ Ta läind merele ja puhund sealt vett maale. Mönda kohta puhund ta nii palju ve
 <story-author :author="frontmatter.author" :origin="frontmatter.origin" />
 <!-- <story-dictionary :terms="frontmatter.dictionary" /> -->
 
-<details-wrapper summary="Mõtlemiseks ja arutlemiseks">
+<details-wrapper summary="Mis mõtted tekkisid?">
 
-- Kas meri on alati meri ja järv alati järv? https://www.youtube.com/watch?v=D4B4uFKdBC0
-- Milline veekogu sulle meeldib: meri, laht, jõgi, järv? Või hoopis ookean? Miks?
+- Mis sa arvad, miks vanasti seletasid inimesed veekogude tekkimist kui tüli tulemust ehk teisisõnu kui midagi halba?
+- Kas meri on alati meri ja järv alati järv? Eesti Keele Instituut selgitab: https://www.youtube.com/watch?v=D4B4uFKdBC0
+- Milline veekogu sulle meeldib: meri, laht, jõgi, järv, allikas? Või hoopis ookean? Miks?
 - On sul oma lemmik veekogu Saaremaal? Milline ja miks?
 
 </details-wrapper>

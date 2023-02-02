@@ -11,97 +11,97 @@ const store = createStore({
             tagsOpen: false,
             stories : [
                 {
-                    "title": "Kuidas saarlaste arvates mehed ja naised loodi?",
+                    "title": "Vanasti polla inimesed poolist söuksed olnd kut paes.",
                     "slug": "meeste-ja-naiste-loomine",
                     "tags" : [ "rahvajutt", "mees", "naine", "jumal", "murdekeel", "Kaarma" ],
                 },
                 {
-                    "title": "Kes esimised undid lõi?",
+                    "title": "Unt töuse maast üles, murra kurat ää.",
                     "slug": "esimised-undid",
                     "tags" : [ "rahvajutt", "murdekeel", "hunt", "loodus", "Karja" ],
                 },
                 {
-                    "title": "So kõige ullem meresõit?",
+                    "title": "Ühekorra üks saksa kapten olnd laivaga New Yorgi sadamas. Kapten olnd mures, et kuidas saaks tütre sünnipäevale.",
                     "slug": "hull-meresoit",
                     "tags" : [ "rahvajutt", "meri", "laev", "murdekeel", "Kihelkonna" ],
                 },
                 {
-                    "title": "Mis oleks, kui käiksid korra undiks?",
+                    "title": "Enne käind inimesed ikka undiks. Jeesuse sündimisest saadik ei ole seda enam nii sagedasti.",
                     "slug": "undiks-kaimine",
                     "tags" : [ "rahvajutt", "hunt", "libahunt", "murdekeel", "Pöide" ], 
                 },
                 {
-                    "title": "Mis on Kaali järve põhjas?",
+                    "title": "Kord tahtnud külarahvas mööta Kaali järve sügavust.",
                     "slug": "mis-on-kaali-jarve-pohjas",
                     "tags" : [ "rahvajutt", "murdekeel", "Kaali järv" ], 
                 },
                 {
-                    "title": "Miks veiksel valgel jänesel mokk löhki on?",
+                    "title": "Üpagem köik ühekorraga aja pääle, et kui kedagi vaenlast teispool aeda oleks olevad, siis meil julgem vastu akata.",
                     "slug": "janese-lohkine-mokk",
                     "tags" : [ "rahvajutt", "murdekeel", "jänes", "loodus", "Valjala", "T-särk", "foto", "muusika", "lammas", "kiviaed" ], 
                 },
                 {
-                    "title": "Mis juhtub, kui saare naine palja pääga välja läheb?",
+                    "title": "Vanasti ei tohtind ükski naisterahvas palja pääga välja minna.",
                     "slug": "pahila-soo",
                     "tags" : [ "rahvajutt", "murdekeel", "haldjad", "soo", "naine", "tammik", "Karja" ] 
                 },
                 {
-                    "title": "Mis külmking vanamehest tahtis?",
+                    "title": "Raiu mulle ka üks kalapahl, ma tahan omale ka ühe kala küpsetada.",
                     "slug": "kylmking-ja-puuraiuja",
                     "tags" : [ "rahvajutt", "murdekeel", "räim", "kala", "Kärla", "külmking", "mets", "hunt", "kartul", "kalapahl" ] 
                 },
                 {
-                    "title": "Mille otsa Inglis tiimer kinni joos?",
+                    "title": "Üks Inglis tiimer tuln ükskord Köpu otsa kuhal. Äkist näin – maa ees.",
                     "slug": "laevameeste-eksimus",
                     "tags" : [ "rahvajutt", "murdekeel", "meri", "kala", "kammeljas", "laev", "Mustjala" ] 
                 },
                 {
-                    "title": "Miks lesta suu kiivas on?",
+                    "title": "Lest lititsegu liiva peel!",
                     "slug": "lesta-kiivas-suu",
                     "tags" : [ "rahvajutt", "lest", "murdekeel", "Anseküla" ] 
                 },
                 {
-                    "title": "Kes kolistas öösel teises toas?",
+                    "title": "Kord oli üks tüdruk Irase külas üksinda koju jäänud. Võõrasema oli kodust tol õhtul ära läinud.",
                     "slug": "murelik-surnu",
                     "tags" : [ "rahvajutt", "surm", "Kaarma" ] 
                 },
                 {
-                    "title": "Mis abi saab sellest, kui pill üüab? Napsu pealt?",
+                    "title": "Kui nad väga mürgeldavad, panen pilli üüdma, siis kaduvad napsu pealt köik!",
                     "slug": "rehepapp",
                     "tags" : [ "rahvajutt", "murdekeel", "rehepapp", "Vanapagan", "torupill", "muusika", "Muhu" ] 
                 },
                 {
-                    "title": "Mida köike mererannast vöib leida?",
+                    "title": "Ommikul tulnd keegi naine ja tahtnud enda laeva kätte saada. Mehed teind suured silmad.",
                     "slug": "mida-koike-mererannast-voib-leida",
                     "tags" : [ "rahvajutt", "murdekeel", "meri", "laev", "Kihelkonna", "haakrik" ] 
                 },
                 {
-                    "title": "Kas tahaksid elada linnas või maal?",
+                    "title": "Tatt ja ämblik saand Nasva jöe silla pääl kokku.",
                     "slug": "tatt-ja-amblik",
                     "tags" : [ "rahvajutt", "murdekeel", "loodus", "Püha", "Nasva", "linn", "maa" ] 
                 },
                 {
-                    "title": "Kuda need ussid ja annergad siia ilma sigisid?",
+                    "title": "Sellest poolest, mis kuivale jähi, sigisid ussid, teisest poolest tulid annergad.",
                     "slug": "ussid-ning-angerjad",
                     "tags" : [ "rahvajutt", "murdekeel", "loodus", "uss", "angerjas", "meri", "Püha" ] 
                 },
                 {
-                    "title": "Miks küla ävis?",
+                    "title": "Äkki süttind küla pölema. Kust tuli alguse saand, ei teadnud keegi.",
                     "slug": "miks-kyla-avis",
                     "tags" : [ "rahvajutt", "murdekeel", "Kihelkonna", "küla", "soo" ] 
                 },
                 {
-                    "title": "Kuda on järved ja jöed tekkind?",
+                    "title": "Mönda kohta puhund ta nii palju vett, et see ei vaibund enam tagasi merre, vaid jäi maale peatuma.",
                     "slug": "jarved-ja-joed",
                     "tags" : [ "rahvajutt", "murdekeel", "Vanapagan", "järv", "jõgi", "meri", "laht", "loodus", "Kaarma" ] 
                 },
                 {
-                    "title": "Mardipäev",
+                    "title": "Mis perenaine kostab, kui kari poriseid kaltsakaid toas pilli jöristab ning tantsu vihub?",
                     "slug": "mardipaev",
                     "tags" : [ "mardipäev", "santimine" ] 
                 },
                 {
-                    "title": "Kus on Saaremaa seljaroog ja kuidas sai Kuressaare oma nime?",
+                    "title": "See mägi olla rahvajutu järele Saaremaa seljaroog.",
                     "slug": "suur-toll",
                     "tags" : [ "Suur Tõll", "Kuressaare" ] 
                 },
@@ -111,7 +111,7 @@ const store = createStore({
                     "tags" : [ "rahvariided" ] 
                 },
                 {
-                    "title": "Kuidas Saaremaal sokku teha?",
+                    "title": "Vahest oli selg veel mütu aega tagant järge aige, ole kõveras, look jalge vahel.",
                     "slug": "saaremaa-sokud",
                     "tags" : [ "sokud", "santimine", "uusaasta" ] 
                 },
@@ -153,37 +153,37 @@ const store = createStore({
 
                 // luule
                 {
-                    "title": "Kidura looduse lopsakas hing",
+                    "title": "Siin mina istun ja imetlen sind; kidura looduse lopsakas hing.",
                     "slug": "aira-kaal-kidura-looduse-lopsakas-hing",
                     "tags" : [ "Aira Kaal", "hing", "väin", "raunjalg", "maokeel", "kuuvõtmehein", "pank", "luule", "paekivi", "sinine" ] 
                 },
                 {
-                    "title": "Rannapargis / Udus",
+                    "title": "Kruus tasa krigisemas kanna all, nii hulgun kuluhallis rannapargis, suud silmi uhub niiske uduvall.",
                     "slug": "debora-vaarandi-udus",
                     "tags" : [ "udu", "park", "kiivitaja", "meri", "kurbus", "õnn", "tuul", "Debora Vaarandi", "luule", "hall", "must" ] 
                 },
                 {
-                    "title": "Keegi?",
+                    "title": "Pean lõpuks mõistma, et ma olen keegi.",
                     "slug": "aira-kaal-keegi",
                     "tags" : [ "Aira Kaal", "kodanik", "kirjanik", "naine", "kena", "luule" ] 
                 },
                 {
-                    "title": "Ööviiul",
+                    "title": "Armsam, sul on lehejuuksed, las ma olen nende tuul!",
                     "slug": "debora-vaarandi-ooviiul",
                     "tags" : ["ööviiul", "suvi", "öö", "tuul", "luule", "armastus", "Debora Vaarandi", "valge" ] 
                 },
                 {
-                    "title": "Bioloogiaõpetajale",
+                    "title": "Ma tundsin loodust kui looma, kelle liha aurab kausis, koos tapaeelse kisaga mu kõrvus.",
                     "slug": "debora-vaarandi-bioloogiaopetajale",
                     "tags" : [ "vainurästas", "õpetaja", "bioloogia", "meri", "tamm", "Debora Vaarandi", "luule", "must" ] 
                 },
                 {
-                    "title": "Saar",
+                    "title": "Vaba hingamise vapustavad sõõmud! Joosta ennast kirkaks nagu õhk!",
                     "slug": "debora-vaarandi-saar",
                     "tags" : ["saar", "jää", "lumi", "meri", "rand", "tuul", "sügis", "Debora Vaarandi", "hall", "luule", "ruske" ] 
                 },
                 {
-                    "title": "Kaks saarlast",
+                    "title": "Kaks saarlast muiste ühte lõid, koos laulsid, riisusid ja jõid!",
                     "slug": "betti-alver-kaks-saarlast",
                     "tags" : [ "Betti Alver", "sõprus", "saarlane", "laul", "Suur Tõll", "luule", "tamm", "valge", "must" ] 
                 },
@@ -193,22 +193,22 @@ const store = createStore({
                     "tags" : [ "Johannes Aavik", "keeleuuendus", "Andres Ehin", "luule"] 
                 },
                 {
-                    "title": "Kui rohu lillekesed kasvasivad...",
+                    "title": "Kui rohu lillekesed kasvasivad mu laulud vaiksel viisil ülesse.",
                     "slug": "julie-ederberg",
                     "tags" : [ "Julie Ederberg", "luule", "emakeel", "isamaa", "võim", "armastus", "taevas" ] 
                 },
                 {
-                    "title": "Lootus",
+                    "title": "On inglastes ja saarlastes küll miskit ühist.",
                     "slug": "aira-kaal-lootus",
                     "tags" : [ "saarlane", "Aira Kaal", "luule"] 
                 },
                 {
-                    "title": "Lahkumise laul",
+                    "title": "Mo süda tilgub verd, kui lahku Orisaarest.",
                     "slug": "aira-kaal-lahkumise-laul",
                     "tags" : [ "Aira Kaal", "murdekeel", "Orissaare", "süda", "Väikese väina tamm", "meri", "Virtsu", "koduigatsus", "luule", "sinine", "roheline", "valge", "hall" ] 
                 },
                 {
-                    "title": "Need kivid",
+                    "title": "Need kivid mind ajavad hulluks, kui palju vorme on neil!",
                     "slug": "aira-kaal-need-kivid",
                     "tags" : [ "Aira Kaal", "kivi", "paas", "laul", "luule", "valge"] 
                 },
@@ -229,37 +229,37 @@ const store = createStore({
                 },
                 // proosa
                 {
-                    "title": "Kaks saarlast",
+                    "title": "Kõrvus helises veel saarlaste kõne ja korraga kukkus loo lõpp mulle nagu iseenesest sülle.",
                     "slug": "betti-alver-kaks-saarlast-saamislugu",
                     "tags" : ["Betti Alver", "saarlane", "proosa"] 
                 },
                 {
-                    "title": "Kas on kuskil see kadakaaru?",
+                    "title": "Kas on veel kuskil see kadakaaru?",
                     "slug": "debora-vaarandi-kadakaaru",
                     "tags" : ["Debora Vaarandi","proosa", "maailmavalu"] 
                 },
                 {
-                    "title": "Esimese raamatu kujunemislugu",
+                    "title": "Reis Saaremaale on aeganõudev: esimesel päeval jõudsin ainult Kingisseppa.",
                     "slug": "oskar-kruus-mandmets",
                     "tags" : ["Oskar Kruus","Jakob Mändmets", "proosa"] 
                 },
                 {
-                    "title": "Montreal-Vancouver",
+                    "title": "Küllap linnud teadsid, kuhu, aga veel enne, kui nad oleksid õigesuunalist lennuhoogu päriselt sisse saanud, viis tulede sära, mis oleks suutnud valgustada kunagist Kuressaare-taolist linna, neid jälle segadusse.",
                     "slug": "aadu-hint-montreal-vancouver",
                     "tags" : ["Aadu Hint","Kanda", "proosa"] 
                 },
                 {
-                    "title": "Räim",
+                    "title": "Jääräim, hallakala, rohuräim, leheräim, õunapuuõieräim, koerputkeräim...",
                     "slug": "jyri-tuulik-raim",
                     "tags" : ["Jüri Tuulik","räim", "proosa", "kala", "kalapüük", "toit"] 
                 },
                 {
-                    "title": "Oma saar",
+                    "title": "Oma saar. Roheline rätik. Sooria-Mooriamaa!",
                     "slug": "aira-kaal-oma-saar",
                     "tags" : ["Aira Kaal", "proosa"] 
                 },
                 {
-                    "title": "Siit sa oled, siia sa jääd mereveerele",
+                    "title": "Inimene elab kahesuguses keskkonnas - sõnades, mis pärinevad teistelt inimestelt, ja asjades-liikumistes, mis on loodus ja inimesed ise.",
                     "slug": "kaplinski-siit-sa-oled",
                     "tags" : ["Jaan Kaplinski", "proosa"] 
                 },
