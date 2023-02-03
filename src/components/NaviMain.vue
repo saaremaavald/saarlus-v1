@@ -17,7 +17,7 @@ const count = ref(0)
         <div class="max-w-7xl mx-auto px-8">
             <div class="flex items-center justify-between h-16">
                 <div class="w-full justify-between flex gap-4 items-center">
-                    <a class="flex-shrink-0 font-saaremaa text-xl text-saarlus-700" href="/">
+                    <a class="flex-shrink-0 font-saaremaa text-xl text-saarlus-700 font-bold" href="/">
                         Saarlus
                     </a>
                     <div class="font-serif font-bold text-xs flex gap-1">

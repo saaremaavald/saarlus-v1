@@ -31,7 +31,7 @@ export default defineConfig({
         },
       },
       fontFamily: {
-        saaremaa: ['Changa One', 'sans-serif'],
+        saaremaa: ['Fuzzy Bubbles', 'sans-serif'],
         serif: ['Merriweather', 'serif']
       },
     },

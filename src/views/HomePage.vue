@@ -64,10 +64,10 @@
     gap-0
     md:(flex-row gap-6)">
         <div class="flex flex-col justify-center order-2 grow text-center md:(order-1 text-left)">
-            <h1 class="font-saaremaa text-saarlus-700 text-5xl md:text-[6vw]">
+            <h1 class="font-saaremaa font-bold text-saarlus-700 text-5xl leading-[0.75] tracking-tight md:(text-[7vw] leading-[0.85])">
                 Saarlus.<br>Mis see veel on?
             </h1>
-            <p class="font-serif">Siit leiad sa hulga materjale, mis aitavad sul saarlust paremini mõista. Alustuseks võid lihtsalt kompassil klikkida või valida sobiv lugu nimekirjast</p>
+            <p class="font-serif mt-4">Siit leiad sa hulga materjale, mis aitavad sul saarlust paremini mõista. Alustuseks võid lihtsalt kompassil klikkida või valida sobiv lugu nimekirjast</p>
         </div>
         <div class="relative flex grow-0 justify-center items-center order-1 md:order-2 ">
             <svg viewBox="0 0 100 100" 
