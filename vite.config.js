@@ -6,7 +6,7 @@ import Icons from 'unplugin-icons/vite'
 
 
 export default defineConfig({
-  base: "/saarlus/",
+  base: "/saarlus-v1/",
   plugins: [
     vue({
       reactivityTransform: true,
